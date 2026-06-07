@@ -1,0 +1,191 @@
+subject: FW: Hotelbeds Booking for # 235-12645768 for MASKED_NAME_4e9b5bc60f, MASKED_NAME_2b521ba46f , Arriving 25-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:32:23+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:32:05 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 235-12645768 for MASKED_NAME_4e9b5bc60f, MASKED_NAME_2b521ba46f , Arriving 25-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_2b521ba46f MASKED_NAME_4e9b5bc60f
+
+Pestana - Orlando Suites Lake Buena Vista |
+
+Check-in: 25-Feb-2026
+
+Check-out: 02-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+235-12645768
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children : 3
+
+Total Price:
+
+741.60 USD
+
+Total Tax Amount:
+
+61.70 USD
+
+ROOM - SUITE Double Queen Superior Suite
+
+Check In Date:
+
+25-Feb-2026
+
+Check Out Date:
+
+02-Mar-2026
+
+Guest:
+
+MASKED_NAME_2b521ba46f MASKED_NAME_4e9b5bc60f
+
+MASKED_NAME_e7668c7ab7 MASKED_NAME_2659b63983 MASKED_NAME_8651190dae
+
+MASKED_NAME_7599a5354f MASKED_NAME_620175837e MASKED_NAME_8651190dae
+
+MASKED_NAME_b3962c2d8b MASKED_NAME_83143d79cf MASKED_NAME_8651190dae
+
+MASKED_NAME_e808ee37cc MASKED_NAME_8651190dae
+
+Age:
+
+30
+
+30
+
+16
+
+11
+
+8
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children : 3
+
+Total Price:
+
+741.60 USD
+
+Total Tax Amount:
+
+61.70 USD
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=PKG LOS BB1, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-Feb-2026
+
+111.60 USD
+
+26-Feb-2026
+
+142.20 USD
+
+27-Feb-2026
+
+186.30 USD
+
+28-Feb-2026
+
+186.30 USD
+
+01-Mar-2026
+
+115.20 USD
+
+Add-Ons:
+
+Type    Quantity        Description     Price
+
+Other extra
+
+EXTRA PERSON (C) for 1 child
+
+18.00
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+741.60 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1749
+
+Expiry:
+
+XX28
+
+CVC:
+
+332
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+741.60 USD
+
+Activation date:
+
+25-Feb-2026
+
+Deactivation date:
+
+24-Aug-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/f6953a71-227d-4915-acd7-fff19b0827ad/235-12645768
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

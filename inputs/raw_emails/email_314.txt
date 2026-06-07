@@ -1,0 +1,29 @@
+subject: FW: New Booking Notification MASKED_NUMBER_6708877908 from OTS for AMTSPT0PUO NOLI ref VN106448
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:16:49+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:16:10 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Assunto: New Booking Notification MASKED_NUMBER_6708877908 from OTS for AMTSPT0PUO NOLI ref VN106448
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Please click on the link below to open the site to Confirm!
+Product: Pestana Ocean Bay All Inclusive Resort
+
+Dear Partner;
+
+We kindly ask you to confirm the attached reservation from the link below. Once you click the link the reservation will be confirmed automatically.
+
+New Booking - Confirmation Link<http://adm.axisdata.net/b2b-confirmationconnector?ID=NDc4NDY0ODg3Njg=&com_subtypecode=bookingnew&com-type=NOTIFY_PROV_BOOKING>
+
+Please do not hesitate to contact us if you have any further questions.

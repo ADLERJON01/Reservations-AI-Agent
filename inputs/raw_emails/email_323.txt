@@ -1,0 +1,101 @@
+subject: FW: Paid Booking wth Ref. No. SY87G8
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:49:10+00:00
+
+body:
+
+________________________________
+De: Juniper WebService <MASKED_EMAIL_b11f7ee075>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:48:07 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_5c2211a757 <MASKED_EMAIL_5c2211a757>
+Assunto: Paid Booking wth Ref. No. SY87G8
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[X]
+Reference
+
+Please quote the booking code on the invoice
+
+Please accept this booking wth Ref. No. SY87G8 as a confirmed booking
+
+Booking Code:
+
+SY87G8
+
+Name:
+
+MASKED_NAME_064a80ec49
+
+Last Name:
+
+MASKED_NAME_0f8e0014a2
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Accommodation
+Agency booking reference:       20050325/S27H
+Hotel:
+Pestana Douro Riverside Hotel
+Board:
+Bed&Breakfast
+Arrival Date:
+26/10/2027
+Departure Date:
+31/10/2027
+Rooms:
+1 x (Superior Double Use) 2 Adults
+1 x (Superior Double Use) 2 Adults
+1 x (Superior Single Use) 1 Adult
+1 x (Superior Single Use) 1 Adult
+
+Adults: 6
+Rooming List:
+
+Superior Double Use (Bed&Breakfast)
+* MASKED_NAME_064a80ec49 MASKED_NAME_0f8e0014a2 (Years: 30)
+* MASKED_NAME_981bc00ba2 MASKED_NAME_0f8e0014a2 (Years: 30)
+
+Superior Double Use (Bed&Breakfast)
+* MASKED_NAME_8edc92c359 MASKED_NAME_7a5f643dbf (Years: 30)
+* MASKED_NAME_8e63f9cb0b MASKED_NAME_06dd310d79 (Years: 30)
+
+Superior Single Use (Bed&Breakfast)
+* MASKED_NAME_3d859b943e MASKED_NAME_c79b37e3ff (Years: 30)
+
+Superior Single Use (Bed&Breakfast)
+* MASKED_NAME_a02579251a MASKED_NAME_7ea78fa53f (Years: 30)
+Children ages:
+Contracts:
+Contract:       26-30/10
+2 x Superior Double Use FIT
+2 x Superior Single Use FIT
+Cost Price:
+as agreed
+Total: as agreed﻿﻿
+Promos: Without applied promotions
+
+10% Early Booking Discount S27
+5% Long Stay Offer 3+ Nights S27     ([sobreTotal])
+
+To accept this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/BookingRejection/Accept?k=eEGqUBz0elYMWFZE3rOy8H0zi1L0jbSIxAf9l3n5vouiHcrpwIXOH7hOnWWz5ZZmaOvExksN2pmzjUjC%2fg9H7g%3d%3d>
+If you are unable to confirm this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/Login?k=eEGqUBz0elYMWFZE3rOy8H0zi1L0jbSIxAf9l3n5vouiHcrpwIXOH7hOnWWz5ZZmaOvExksN2pmzjUjC%2fg9H7g%3d%3d>
+
+
+
+If you have any queries relating to the cost of this booking please contact:
+
+MASKED_EMAIL_193bcd86a1<mailto:MASKED_EMAIL_193bcd86a1> stating your resort, hotel and booking code in the subject line and full details on the query in the body of the email.
+
+Booking Department
+
+Jet2holidays

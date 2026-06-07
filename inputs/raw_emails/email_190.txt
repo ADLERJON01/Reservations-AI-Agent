@@ -1,0 +1,169 @@
+subject: FW: Hotelbeds Booking for # 60-2752509 for Pallas, Rolf, Arriving 11-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:00:48+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:00:30 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Hotelbeds Booking for # 60-2752509 for Pallas, Rolf, Arriving 11-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+Rolf Pallas
+
+Pestana - Casino Park |
+
+Check-in: 11-Apr-2026
+
+Check-out: 18-Apr-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+60-2752509
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+1332.80 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - Double or Twin Classic Side Sea View - DBL Use
+
+Check In Date:
+
+11-Apr-2026
+
+Check Out Date:
+
+18-Apr-2026
+
+Guest:
+
+Rolf Pallas
+
+Age:
+
+30
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+1332.80 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=BAR-SPO1-LSD, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+11-Apr-2026
+
+190.40 EUR
+
+12-Apr-2026
+
+190.40 EUR
+
+13-Apr-2026
+
+190.40 EUR
+
+14-Apr-2026
+
+190.40 EUR
+
+15-Apr-2026
+
+190.40 EUR
+
+16-Apr-2026
+
+190.40 EUR
+
+17-Apr-2026
+
+190.40 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1332.80 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2894
+
+Expiry:
+
+XX28
+
+CVC:
+
+101
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+1332.80 EUR
+
+Activation date:
+
+18-Apr-2026
+
+Deactivation date:
+
+15-Oct-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/ec2b8b00-6931-4e9c-8a1d-1ad12c844241/60-2752509
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

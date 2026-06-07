@@ -1,0 +1,23 @@
+subject: FW: New Booking Notification MASKED_NUMBER_ad7a103fd1 from EVT for APTFNCKJ6C LUX ref 6078773
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:15:02+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:14:07 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Assunto: New Booking Notification MASKED_NUMBER_ad7a103fd1 from EVT for APTFNCKJ6C LUX ref 6078773
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Please click on the link below to open the site to Confirm!
+Product: Pestana Dunas Eco-Resort
+
+New Booking - Confirmation Link<http://adm.axisdata.net/b2b-confirmationconnector?ID=NDc4NDYzODk2Nzg=&com_subtypecode=bookingnew&com-type=NOTIFY_PROV_BOOKING>

@@ -1,0 +1,175 @@
+subject: FW: Hotelbeds Booking for # 59-5750868 for MASKED_NAME_2f5f375d7c, MASKED_NAME_3be905db7e MASKED_NAME_f85200347a , Arriving 24-Jul-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:00:47+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:00:28 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 59-5750868 for MASKED_NAME_2f5f375d7c, MASKED_NAME_3be905db7e MASKED_NAME_f85200347a , Arriving 24-Jul-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_3be905db7e MASKED_NAME_f85200347a MASKED_NAME_2f5f375d7c
+
+Pestana - Lisboa Vintage |
+
+Check-in: 24-Jul-2026
+
+Check-out: 27-Jul-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+59-5750868
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children : 1
+
+Total Price:
+
+461.03 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - DOUBLE SUPERIOR - 2 Adults + 1 Child
+
+Check In Date:
+
+24-Jul-2026
+
+Check Out Date:
+
+27-Jul-2026
+
+Guest:
+
+MASKED_NAME_3be905db7e MASKED_NAME_f85200347a MASKED_NAME_2f5f375d7c
+
+MASKED_NAME_3be905db7e MASKED_NAME_f85200347a MASKED_NAME_2f5f375d7c
+
+MASKED_NAME_3be905db7e MASKED_NAME_f85200347a MASKED_NAME_2f5f375d7c
+
+Age:
+
+30
+
+30
+
+9
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children : 1
+
+Total Price:
+
+461.03 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Meal Plan:
+
+ROOM ONLY
+
+Extra Information:
+
+Contract Name=BAR-OP-LS-RO, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+24-Jul-2026
+
+157.32 EUR
+
+25-Jul-2026
+
+159.38 EUR
+
+26-Jul-2026
+
+144.33 EUR
+
+Add-Ons:
+
+Type    Quantity        Description     Price
+
+Other extra
+
+CHILD DISCOUNT for 1 child
+
+0.00
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+461.03 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4486
+
+Expiry:
+
+XX28
+
+CVC:
+
+328
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+461.03 EUR
+
+Activation date:
+
+27-Jul-2026
+
+Deactivation date:
+
+23-Jan-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/20347ad1-2543-4f7e-993c-19cd6d203bf8/59-5750868
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

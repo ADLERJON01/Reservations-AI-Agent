@@ -1,0 +1,85 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:53:06+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:52:49 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_d7b04d9dc8/main_logo_original.jpg]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021998421
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021998421%2F4838409/1/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/DT1ABNpgzpX7zON9gnx5FEyojlM=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021998421%2F4838409/2/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/Ji75zIRrgi0aDNzNeNJBDpq6vZ0=466>
+
+Hotel Pestana Palace Lisboa *****
+
+Rua Jau 54
+
+1300-314 - Lisboa
+
+Telephone: +351 21 361 5600
+
+MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>
+
+https://www.pestana.com/en/hotel/pestana-palace<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestana.com%2Fen%2Fhotel%2Fpestana-palace/1/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/NtU8QOYu7byKFyHwsFEcmnYE8eM=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/BTKbI-qMcQvBdFaiccmNHXR1PYo=466>
+Your details
+
+Name: MASKED_NAME_32602193b5 MASKED_NAME_97e5ed58fd
+
+E-mail: MASKED_EMAIL_f2d22ed3fe<mailto:MASKED_EMAIL_f2d22ed3fe>
+
+Telephone: +1 9175754243
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+Aug 03, 2026    Aug 10, 2026    7       1
+
+1 x Suite D. Manuel/ MASKED_NAME_ce404b66a8 MASKED_NAME_732ab0ca9a MASKED_NAME_378a8665f4: Non Refundable Rate (3 adults (Aged 13 or more at checkout) + 1 child (3-12 y.o.)).
+
+  *   Mon, Aug 3, 2026 Breakfast included 1201.89 EUR
+  *   Tue, Aug 4, 2026 Breakfast included 1201.84 EUR
+  *   Wed, Aug 5, 2026 Breakfast included 1201.84 EUR
+  *   Thu, Aug 6, 2026 Breakfast included 1201.84 EUR
+  *   Fri, Aug 7, 2026 Breakfast included 1201.84 EUR
+  *   Sat, Aug 8, 2026 Breakfast included 1201.84 EUR
+  *   Sun, Aug 9, 2026 Breakfast included 1201.84 EUR
+  *   8,412.93 EUR
+(Taxes included)
+
+Booking total: 8,412.93 EUR
+(Taxes included)
+Not included 4.00 EUR per person per night of Local Tax from 13 y.o..
+
+Payment method
+
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+
+Cancellation policy
+
+This reservation is non cancellable. If you cancel it or in case of no-show, the total amount of the stay will be charged. When booking over 9 rooms, the cancellation policy and conditions to be applied to the booking will vary. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all the bookings.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_d7b04d9dc8%26lang=en%26reservationCode=26021998421%26pinCode=4838409%26code=CB09A269CC4D46DA0D6798B7354705DF4BE70D6C%26useWhiteLabel=true/1/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/xCM-DY2ZCsYBr_dkXJsNr5uVMZw=466>
+
+Booking code:   26021998421
+Cancellation code:      4838409
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c76d18943-6cb2ab07-7b67-4d46-9303-785b163e3315-000000/GwP3Z6r7MQ_Px-FyhEYbaC-o2-o=466]

@@ -1,0 +1,194 @@
+subject: Booking.com Booking for # 6310459722 for MASKED_NAME_b6cdc83689, MASKED_NAME_309cba58cd MASKED_NAME_28f3c7e09e, Arriving 06-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: "MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>;	Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>
+cc: 
+date: 2026-02-19 15:34:15+00:00
+
+body:
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_309cba58cd MASKED_NAME_28f3c7e09e MASKED_NAME_b6cdc83689
+
+Pestana - Brussels |
+
+Check-in: 06-Mar-2026
+
+Check-out: 08-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6310459722
+
+Reservation Remarks:
+
+You have received a virtual credit card for this reservation.You may charge it as of 2026-03-05. HighFloor, LargeBed, NonSmoke, QuietRoom
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+208.17 EUR
+
+Total Tax Amount:
+
+22.38 EUR
+
+Commission Payable:
+
+46.84 EUR
+
+ROOM - Standard King Room - General - mobile-discount(10%)
+
+Check In Date:
+
+06-Mar-2026
+
+Check Out Date:
+
+08-Mar-2026
+
+Guest:
+
+MASKED_NAME_309cba58cd MASKED_NAME_28f3c7e09e MASKED_NAME_b6cdc83689
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+208.17 EUR
+
+Total Tax Amount:
+
+22.38 EUR
+
+Commission Payable:
+
+46.84 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+HighFloor, LargeBed, NonSmoke, QuietRoom, smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs EUR 18.50 per person per night.
+
+Extra Information:
+
+Breakfast costs EUR 18.50 per person per night. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: The guest will be charged a prepayment of the total price of the reservation within 1 day before arrival. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date
+Rate Id
+Name
+Description
+Price
+
+06-Mar-2026
+
+862682
+
+mobile-discount(10%)
+
+Derived Rate : 0
+
+105.30 EUR
+
+07-Mar-2026
+
+862682
+
+mobile-discount(10%)
+
+Derived Rate : 0
+
+102.87 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description
+Tax Amount
+
+VAT (6%)
+
+11.78 EUR
+
+City tax
+
+10.60 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+208.17 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-5765
+
+Expiry:
+
+XX27
+
+CVC:
+
+637
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+218.77 EUR
+
+Activation date:
+
+05-Mar-2026
+
+Deactivation date:
+
+01-Mar-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/6310459722
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

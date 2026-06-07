@@ -1,0 +1,135 @@
+subject: FW: Expedia Booking for # 2397192264 for MASKED_NAME_923ff66b6d, sandro, Arriving 13-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:32:30+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:32:11 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397192264 for MASKED_NAME_923ff66b6d, sandro, Arriving 13-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+sandro MASKED_NAME_923ff66b6d
+
+Pestana - Orlando Suites Lake Buena Vista | A-Expedia
+
+Check-in: 13-Mar-2026
+
+Check-out: 15-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397192264
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+371.70 USD
+
+Total Tax Amount:
+
+41.30 USD
+
+ROOM - Suite, 2 Queen Beds, Non Smoking - SPECIAL OFFER RO - Standalone - SellRate - MASKED_NUMBER_2196d6af75/393891791A
+
+Check In Date:
+
+13-Mar-2026
+
+Check Out Date:
+
+15-Mar-2026
+
+Guest:
+
+sandro MASKED_NAME_923ff66b6d
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+371.70 USD
+
+Total Tax Amount:
+
+41.30 USD
+
+Remarks:
+
+Hotel Collect Booking, Hotel Collect Booking Collect Payment From Guest., Value Add Promotion: USD 20 food and beverage (soft drinks) credit per stay
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+13-Mar-2026
+
+393891791A
+
+Promo Code: March Sale 2026
+
+155.20 USD
+
+14-Mar-2026
+
+393891791A
+
+Promo Code: March Sale 2026
+
+175.20 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+371.70 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+MASKED_NAME_7aa40072f4 MASKED_NAME_923ff66b6d
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4358
+
+Expiry:
+
+XX29
+
+CVC:
+
+239
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/f6953a71-227d-4915-acd7-fff19b0827ad/2397192264
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

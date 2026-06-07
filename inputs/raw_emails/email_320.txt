@@ -1,0 +1,100 @@
+subject: FW: Paid Booking wth Ref. No. B23WZB
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:04:14+00:00
+
+body:
+
+________________________________
+De: Juniper WebService <MASKED_EMAIL_b11f7ee075>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:03:49 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_5c2211a757 <MASKED_EMAIL_5c2211a757>
+Assunto: Paid Booking wth Ref. No. B23WZB
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[X]
+Reference
+
+Please quote the booking code on the invoice
+
+Please accept this booking wth Ref. No. B23WZB as a confirmed booking
+
+Booking Code:
+
+B23WZB
+
+Name:
+
+MASKED_NAME_98a5e79b7a
+
+Last Name:
+
+MASKED_NAME_4ecfea9d72
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Accommodation
+Agency booking reference:       20050480/S26H
+Hotel:
+Pestana Alvor Praia Premium Beach & Golf Resort
+Board:
+Bed&Breakfast
+Arrival Date:
+28/08/2026
+Departure Date:
+04/09/2026
+Rooms:
+1 x (Suite with Garden View) 2 Adults
+
+Adults: 2
+Rooming List:
+
+Suite with Garden View (Bed&Breakfast)
+* MASKED_NAME_98a5e79b7a MASKED_NAME_4ecfea9d72 (Years: 30)
+* MASKED_NAME_5aff8e1193 MASKED_NAME_4ecfea9d72 (Years: 30)
+Children ages:
+Contracts:
+Contract:       28/8 - 3/9
+Suite with Garden View  GTD
+Cost Price:
+Suite with Garden View
+        Date            Days                    Daily price                     Total
+        28/08/2026              7       2 x Adults              283.88  x 14            3974.32
+        3974.32
+SPO Exclusive 10% Discount W25/26 & S26
+Suite with Garden View
+        Date            Days                    Daily price                     Total
+        28/08/2026              7       2 x Adults              -28.39  x 14            -397.46
+        -397.46
+5% 7 plus night stay discount S26
+Suite with Garden View
+        Date            Days                    Daily price                     Total
+        28/08/2026              7       2 x Adults              -12.77  x 14            -178.78
+        -178.78
+Total: 3,398.08 EUR﻿﻿
+Promos: Without applied promotions
+
+SPO Exclusive 10% Discount W25/26 & S26
+5% 7 plus night stay discount S26
+
+To accept this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/BookingRejection/Accept?k=eEGqUBz0elYMWFZE3rOy8MXpJ%2fyaTHJePqp7wn4907nUJvxq5eGbK1gflV4xFzdiMgrg66DoPyHkDgrPZgyepA%3d%3d>
+If you are unable to confirm this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/Login?k=eEGqUBz0elYMWFZE3rOy8MXpJ%2fyaTHJePqp7wn4907nUJvxq5eGbK1gflV4xFzdiMgrg66DoPyHkDgrPZgyepA%3d%3d>
+
+
+
+If you have any queries relating to the cost of this booking please contact:
+
+MASKED_EMAIL_193bcd86a1<mailto:MASKED_EMAIL_193bcd86a1> stating your resort, hotel and booking code in the subject line and full details on the query in the body of the email.
+
+Booking Department
+
+Jet2holidays

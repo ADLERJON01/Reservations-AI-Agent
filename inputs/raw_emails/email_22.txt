@@ -1,0 +1,241 @@
+subject: FW: Booking Confirmation | EDR-9bf045dcbd300c32 | Thu 14 May 2026 | ODIGEO Connect | 9bf045dcbd300c32
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:39:55+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:39:36 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking Confirmation | EDR-9bf045dcbd300c32 | Thu 14 May 2026 | ODIGEO Connect | 9bf045dcbd300c32
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_f77d700cfb MASKED_NAME_0a3753be14
+
+Pestana - Arena Barcelona (1168160) | ODIGEO Connect
+
+Check-in: 14-May-2026
+
+Check-out: 18-May-2026
+
+RESERVATION DETAILS
+
+Source Channel:
+
+Edreams Odigeo
+
+Booked On:
+
+19-Feb-2026
+
+Channel Manager Booking Id:
+
+EDR-9bf045dcbd300c32
+
+Agent Booking Id:
+
+9bf045dcbd300c32
+
+Customer:
+
+MASKED_NAME_f77d700cfb MASKED_NAME_0a3753be14
+
+Room Guests:
+
+MASKED_NAME_f77d700cfb MASKED_NAME_0a3753be14
+
+Extra Charges Excl. Tax:
+
+EUR ---
+
+Tax Amount:
+
+EUR ---
+
+Extra Charges Incl. Tax:
+
+EUR ---
+
+Total Excl. Tax:
+
+EUR ---
+
+Tax Amount:
+
+EUR ---
+
+Total Incl. Tax:
+
+EUR 1,201.79
+
+ROOM -
+
+Check In Date:
+
+14-May-2026
+
+Check Out Date:
+
+18-May-2026
+
+Nb of Nights:
+
+4
+
+Number of Adults:
+
+2
+
+Number of Children:
+
+0
+
+Number of Infants:
+
+0
+
+Room Code:
+
+3JuniorSuitewith
+
+Rate Code:
+
+bc8a5186b9fed660
+
+Extra Charges Excl. Tax:
+
+EUR ---
+
+Tax Amount:
+
+EUR ---
+
+Extra Charges Incl. Tax:
+
+EUR ---
+
+Total Excl. Tax:
+
+EUR ---
+
+Tax Amount:
+
+EUR ---
+
+Total Incl. Tax:
+
+EUR 1,201.79
+
+Daily Room Rate Breakdown:
+
+Date From       Date To Promo Code      Extra Charges   Total
+
+14-May-2026
+
+15-May-2026
+
+EUR ---
+
+EUR 266.53
+
+15-May-2026
+
+16-May-2026
+
+EUR ---
+
+EUR 330.37
+
+16-May-2026
+
+17-May-2026
+
+EUR ---
+
+EUR 323.19
+
+17-May-2026
+
+18-May-2026
+
+EUR ---
+
+EUR 281.69
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+EUR 1,201.79
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Odigeo Connect
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1884
+
+Expiry:
+
+XX31
+
+CVV:
+
+075
+
+Payment Type
+
+Virtual Card
+
+Balance
+
+1201.79 (EUR)
+
+Activation Date:
+
+14 May, 2026
+
+Deactivation Date:
+
+17 Jun, 2026
+
+CUSTOMER CONTACT DETAILS
+
+ID / IATA:
+
+---
+
+Name:
+
+MASKED_NAME_f77d700cfb MASKED_NAME_0a3753be14
+
+Phone:
+
++34MASKED_TELEPHONE_6e262e015d
+
+Email:
+
+MASKED_EMAIL_86594d2f07
+
+Address:
+
+Carrer de Diputació 303, Barcelona, Barcelona, 08009, Spain
+
+This email is a transcript of your original reservation which can be found on the extranet of ODIGEO Connect
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

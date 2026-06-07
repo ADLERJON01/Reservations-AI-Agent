@@ -1,0 +1,225 @@
+subject: FW: Booking.com Booking for # 6MASKED_TELEPHONE_cc2a5795b9 for MASKED_NAME_2d5d532b1a, MASKED_NAME_0609eac702, Arriving 01-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:09:27+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:09:01 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Booking.com Booking for # 6MASKED_TELEPHONE_cc2a5795b9 for MASKED_NAME_2d5d532b1a, MASKED_NAME_0609eac702, Arriving 01-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_0609eac702 MASKED_NAME_2d5d532b1a
+
+Pestana - Bay Ocean |
+
+Check-in: 01-Apr-2026
+
+Check-out: 08-Apr-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6MASKED_TELEPHONE_cc2a5795b9
+
+Reservation Remarks:
+
+Recebeu um cartão de crédito virtual associado a esta reserva.Poderá fazer a cobrança a partir de 2026-02-19., booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children aged 6 : 1
+
+Number of children aged 7 : 1
+
+Total Price:
+
+2471.26 EUR
+
+Total Tax Amount:
+
+123.05 EUR
+
+Commission Payable:
+
+432.47 EUR
+
+ROOM - Suite Júnior (2 Adultos + 2 Crianças) - Não reembolsável - Breakfast included,Lunch included,Dinner included
+
+Check In Date:
+
+01-Apr-2026
+
+Check Out Date:
+
+08-Apr-2026
+
+Guest:
+
+MASKED_NAME_0609eac702 MASKED_NAME_2d5d532b1a
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Number of children aged 6 : 1
+
+Number of children aged 7 : 1
+
+Total Price:
+
+2471.26 EUR
+
+Total Tax Amount:
+
+123.05 EUR
+
+Commission Payable:
+
+432.47 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Todas as refeições e bebidas selecionadas estão incluídas na tarifa do quarto.
+
+Extra Information:
+
+Number of children aged 6: 1. Number of children aged 7: 1; Todas as refeições e bebidas selecionadas estão incluídas na tarifa do quarto. Regulamento para Crianças e Camas Extra: São permitidas crianças de qualquer idade. Não adicionou nenhum berço. Não adicionou nenhuma cama extra. O número máximo de clientes no total é de 4. Condições para Depósitos/Pré-pagamentos: O cliente deverá pagar com antecedência o valor total da reserva a qualquer momento. Condições de Cancelamento: O cliente deverá pagar o valor total da reserva se cancelar a qualquer momento.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+01-Apr-2026
+
+9666631
+
+371.74 EUR
+
+02-Apr-2026
+
+9666631
+
+371.74 EUR
+
+03-Apr-2026
+
+9666631
+
+371.74 EUR
+
+04-Apr-2026
+
+9666631
+
+371.74 EUR
+
+05-Apr-2026
+
+9666631
+
+371.74 EUR
+
+06-Apr-2026
+
+9666631
+
+306.28 EUR
+
+07-Apr-2026
+
+9666631
+
+306.28 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+IVA (4%)
+
+95.05 EUR
+
+imposto municipal
+
+28.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+2471.26 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1361
+
+Expiry:
+
+XX27
+
+CVC:
+
+734
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+2471.26 EUR
+
+Activation date:
+
+19-Feb-2026
+
+Deactivation date:
+
+01-Apr-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/3de598b2-2623-4fa5-9013-372341f91a11/6MASKED_TELEPHONE_cc2a5795b9
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

@@ -1,0 +1,87 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 17:15:50+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 17:15:34 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_2bcb3e1015/main_logo_original.png]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021954307
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021954307%2F6108850/1/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/YmLZ-LEENPDpYllglptkQXXF18g=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021954307%2F6108850/2/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/Dbmhg7ZWVcTqqCBBLiiPv-fd4jk=466>
+
+Hotel Pestana Alvor Praia *****
+
+Praia dos Três Irmãos
+
+8500-088 - Alvor
+
+Telephone: MASKED_TELEPHONE_f643802bf6
+
+MASKED_EMAIL_cc0beb1966<mailto:MASKED_EMAIL_cc0beb1966>
+
+https://www.pestana.com/en/hotel/pestana-alvor-praia<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestana.com%2Fen%2Fhotel%2Fpestana-alvor-praia/1/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/h_gfYEftdabtYXVyqyCHpUUutQA=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/XrDYC0QBTJFUTHYic6lv2Y9Hmtg=466>
+Your details
+
+Name: MASKED_NAME_32602193b5 MASKED_NAME_8a434736d4
+
+E-mail: MASKED_EMAIL_f48dad174d<mailto:MASKED_EMAIL_f48dad174d>
+
+Telephone: +353 MASKED_NUMBER_60c778d5ea
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+May 16, 2026    May 25, 2026    9       1
+
+1 x Cliff Family Sea View: Exclusive - CLIFF26 (2 adults (Aged 13 or more at checkout)).
+
+  *   Sat, May 16, 2026 Breakfast included 287.47 EUR
+  *   Sun, May 17, 2026 Breakfast included 281.01 EUR
+  *   Mon, May 18, 2026 Breakfast included 255.17 EUR
+  *   Tue, May 19, 2026 Breakfast included 255.17 EUR
+  *   Wed, May 20, 2026 Breakfast included 300.39 EUR
+  *   Thu, May 21, 2026 Breakfast included 300.39 EUR
+  *   Fri, May 22, 2026 Breakfast included 300.39 EUR
+  *   Sat, May 23, 2026 Breakfast included 345.61 EUR
+  *   Sun, May 24, 2026 Breakfast included 345.61 EUR
+  *   2,671.21 EUR
+(Taxes included)
+
+Booking total: 2,671.21 EUR
+(Taxes included)
+Not included 2.00 EUR per person per night of Local Tax from 13 y.o.. Not applicable from the 8th night .
+
+Payment method
+
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+
+Cancellation policy
+
+This booking is cancelable until 11:00 of the May 09, 2026. If you cancel before the deadline you will not incur any charge, otherwise you will be charged the full amount of the stay. In case of no-show, the total amount of the stay will also be charged. When booking over 9 rooms, the cancellation policy and conditions to be applied to the booking will vary. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all the bookings.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_2bcb3e1015%26lang=en%26reservationCode=26021954307%26pinCode=6108850%26code=2627628BF7B3BEDC0FB11442DE750D37B27AA5F5%26useWhiteLabel=true/1/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/zdukDX69HCgpf-WjzRjcK_mxS_Q=466>
+
+Booking code:   26021954307
+Cancellation code:      6108850
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c76e65d29-b712ba8e-b72e-4d36-a594-2bd7dd110ce2-000000/3GjdkJbzboeI_BTMKSk9rnOkUZA=466]

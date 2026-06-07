@@ -1,0 +1,143 @@
+subject: FW: Expedia Booking for # 2397203948 for Ravishankar, Shivadarshan, Arriving 25-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:51:59+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:51:42 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397203948 for Ravishankar, Shivadarshan, Arriving 25-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+Shivadarshan Ravishankar
+
+Pestana CR7 Times Square | A-Expedia
+
+Check-in: 25-Feb-2026
+
+Check-out: 01-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397203948
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+726.59 USD
+
+Total Tax Amount:
+
+105.59 USD
+
+ROOM - Superior Room, 1 King Bed - Standard Rate RO - Standalone - SellRate
+
+Check In Date:
+
+25-Feb-2026
+
+Check Out Date:
+
+01-Mar-2026
+
+Guest:
+
+Shivadarshan Ravishankar
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+726.59 USD
+
+Total Tax Amount:
+
+105.59 USD
+
+Remarks:
+
+Hotel Collect Booking, Hotel Collect Booking Collect Payment From Guest., Value Add Promotion: USD 45 beverage credit per room, per stay
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-Feb-2026
+
+382414044A
+
+134.00 USD
+
+26-Feb-2026
+
+382414044A
+
+134.00 USD
+
+27-Feb-2026
+
+382414044A
+
+169.00 USD
+
+28-Feb-2026
+
+382414044A
+
+184.00 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+726.59 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+demetria wren
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9264
+
+Expiry:
+
+XX28
+
+CVC:
+
+939
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/cb1c4acb-c234-4461-a61e-3c06aef208e9/2397203948
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

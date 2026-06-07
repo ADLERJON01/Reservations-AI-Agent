@@ -1,0 +1,163 @@
+subject: FW: Expedia Booking for # 2397080873 for MASKED_NAME_8cd96449e2, MASKED_NAME_83143d79cf, Arriving 08-Jun-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:42:16+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:41:56 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397080873 for MASKED_NAME_8cd96449e2, MASKED_NAME_83143d79cf, Arriving 08-Jun-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_83143d79cf MASKED_NAME_8cd96449e2
+
+Pestana - Berlin Tiergarten | Expedia Affiliate Network
+
+Check-in: 08-Jun-2026
+
+Check-out: 12-Jun-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397080873
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+1620.08 EUR
+
+ROOM - Deluxe Room - BAROTAPROM - Standalone - Derived - MASKED_NUMBER_239bd48ae5/MASKED_NUMBER_c3ec596768
+
+Check In Date:
+
+08-Jun-2026
+
+Check Out Date:
+
+12-Jun-2026
+
+Guest:
+
+MASKED_NAME_83143d79cf MASKED_NAME_8cd96449e2
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+1620.08 EUR
+
+Remarks:
+
+Expedia Collect Booking, 1 King Bed, Non-Smoking, Multi-room booking. Primary traveler:Munte, Martin. 3 of 6 rooms., Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+08-Jun-2026
+
+MASKED_NUMBER_c3ec596768
+
+Promo Code: 20% - Basic deal -Members
+
+405.02 EUR
+
+09-Jun-2026
+
+MASKED_NUMBER_c3ec596768
+
+Promo Code: 20% - Basic deal -Members
+
+405.02 EUR
+
+10-Jun-2026
+
+MASKED_NUMBER_c3ec596768
+
+Promo Code: 20% - Basic deal -Members
+
+405.02 EUR
+
+11-Jun-2026
+
+MASKED_NUMBER_c3ec596768
+
+Promo Code: 20% - Basic deal -Members
+
+405.02 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1620.08 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-8348
+
+Expiry:
+
+XX29
+
+CVC:
+
+569
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/309bb8c2-8114-11e5-a029-02602716bbb1/2397080873
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

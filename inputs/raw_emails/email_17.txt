@@ -1,0 +1,48 @@
+subject: FW: BA Holidays Cancellation Report
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:34:59+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_8874794a94 <MASKED_EMAIL_8874794a94>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:34:42 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>; MASKED_EMAIL_c3aa02dfe5 <MASKED_EMAIL_c3aa02dfe5>
+Assunto: BA Holidays Cancellation Report
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Cancellation Notification for Hotel
+Attn:   RESERVATION DEPARTMENT (MASKED_EMAIL_851d9c9d5e; MASKED_EMAIL_c3aa02dfe5)
+Pestana Casino Park Ocean & Spa Hotel
+Funchal
+9004-513
+PT
+Fax:    MASKED_TELEPHONE_0534a4ae31
+Contract(s):    Main 26
+On Request:     No
+Date:   20Feb26
+From:   BRITISH AIRWAYS HOLIDAYS
+Tel:    +44 1MASKED_TELEPHONE_a7080bcb39
+Fax:    +
+Email:  MASKED_EMAIL_0a1e1187d2
+CANCELLATION ADVICE
+Name(s):                Category:               Age:
+Mr Peter West           Adult
+Mr Alexander West               Adult
+Arrival Flight Number :         Arrival Location :              Arrival Date/Time :             PNR Number :
+BA2718          FNC             20FEB26 16:25           XOHV4Y
+Departure Flight Number :               Departure Location :            Departure Date/Time :
+BA2717          FNC             25FEB26 16:00
+Check in                Check out               Rooms           Meal Type(s)            Nights
+20Feb26         25Feb26         1               Full breakfast          5
+Room Type               Room Description
+Classic Land View (CLA)                 Classic Land View rooms are 25 m2 and feature a double or twin bed. A safe, hairdryer and ironing facilities are available on request. They are located in the north wing of the building and have city or garden views.�
+Special Offers:
+10% discount included for stays 01 Nov 2025-31 Oct 2026. Internal supplier code: GOLDEN EGG.
+Credit Card:
+Cancelled

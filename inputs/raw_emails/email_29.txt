@@ -1,0 +1,199 @@
+subject: FW: Booking.com Booking for # 5MASKED_TELEPHONE_ad4e422d4b for MASKED_NAME_7ccfbbd7a1, MASKED_NAME_48f64cec1c, Arriving 04-Sep-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:28:56+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:28:37 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 5MASKED_TELEPHONE_ad4e422d4b for MASKED_NAME_7ccfbbd7a1, MASKED_NAME_48f64cec1c, Arriving 04-Sep-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_48f64cec1c MASKED_NAME_7ccfbbd7a1
+
+Pestana - Brussels |
+
+Check-in: 04-Sep-2026
+
+Check-out: 08-Sep-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5MASKED_TELEPHONE_ad4e422d4b
+
+Reservation Remarks:
+
+You have received a virtual credit card for this reservation.You may charge it as of 2026-08-05., booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+477.00 EUR
+
+Total Tax Amount:
+
+48.20 EUR
+
+Commission Payable:
+
+107.33 EUR
+
+ROOM - Standard Twin Room - Special conditions 3
+
+Check In Date:
+
+04-Sep-2026
+
+Check Out Date:
+
+08-Sep-2026
+
+Guest:
+
+MASKED_NAME_48f64cec1c MASKED_NAME_7ccfbbd7a1
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+477.00 EUR
+
+Total Tax Amount:
+
+48.20 EUR
+
+Commission Payable:
+
+107.33 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs EUR 18.50 per person per night.
+
+Extra Information:
+
+Breakfast costs EUR 18.50 per person per night. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: The guest will be charged a prepayment of the total price of the reservation in the 30 days before arrival. Cancellation Policy: The guest can cancel free of charge until 30 days before arrival. The guest will be charged the total price of the reservation if they cancel in the 30 days before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+04-Sep-2026
+
+61623967
+
+108.00 EUR
+
+05-Sep-2026
+
+61623967
+
+106.20 EUR
+
+06-Sep-2026
+
+61623967
+
+106.20 EUR
+
+07-Sep-2026
+
+61623967
+
+156.60 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (6%)
+
+27.00 EUR
+
+City tax
+
+21.20 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+477.00 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9751
+
+Expiry:
+
+XX27
+
+CVC:
+
+456
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 EUR
+
+Activation date:
+
+05-Aug-2026
+
+Deactivation date:
+
+01-Sep-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/5MASKED_TELEPHONE_ad4e422d4b
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

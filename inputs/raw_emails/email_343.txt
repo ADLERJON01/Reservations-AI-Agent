@@ -1,0 +1,25 @@
+subject: FW: Reservation Alert
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:11:18+00:00
+
+body:
+
+
+
+________________________________________
+De: MASKED_EMAIL_8cbd4b7b68 <MASKED_EMAIL_8cbd4b7b68>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:11:00 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: E Distribution; Trade
+Assunto: Reservation Alert
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+The below reservation for hotel PTPORIHO - Pestana Porto Hotel was not delivered:
+        Central Confirmation: MHGC7624032854
+        Central Reservation: TPXWIA-1771581773248-7520192
+        Status: details of delivery
+        Detail: Status update
+        Please click on the link to open the reservation directly in Oracle Hospitality - OPERA Cloud Distribution: https://ochdp-he13.oraclehospitality.eu-frankfurt-1.ocs.oraclecloud.com/reservation/lookup;id=PTPORIHO;confirmationId=TPXWIA-1771581773248-7520192

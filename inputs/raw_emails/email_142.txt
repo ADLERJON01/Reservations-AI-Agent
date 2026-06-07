@@ -1,0 +1,139 @@
+subject: FW: Expedia Booking for # 2397780874 for MASKED_NAME_06d1a77689, MASKED_NAME_91783e05ee MASKED_NAME_521d10a80c, Arriving 01-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:16:20+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:15:54 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397780874 for MASKED_NAME_06d1a77689, MASKED_NAME_91783e05ee MASKED_NAME_521d10a80c, Arriving 01-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_91783e05ee MASKED_NAME_521d10a80c MASKED_NAME_06d1a77689
+
+Pestana Amsterdam Riverside | A-Expedia Affiliate Network
+
+Check-in: 01-Mar-2026
+
+Check-out: 05-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397780874
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+749.72 EUR
+
+ROOM - Deluxe Room, 1 King Bed - BAROTAPROMO - Standalone - SellRate
+
+Check In Date:
+
+01-Mar-2026
+
+Check Out Date:
+
+05-Mar-2026
+
+Guest:
+
+MASKED_NAME_91783e05ee MASKED_NAME_521d10a80c MASKED_NAME_06d1a77689
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+749.72 EUR
+
+Remarks:
+
+Hotel Collect Booking, 1 King Bed, Non-Smoking, travel purpose=business, point of sale=BCD Travel, traveler company=AMEX|This is a BCD Travel booking for the company AMEX. Credit card provided is for guarantee only. PLEASE ENSURE AN INVOICE IS PROVIDED TO THE GUEST ON DEPARTURE, unless you receive a Third Party Authorization form. Please avoid cancellation. If issues arise, contact MASKED_EMAIL_ed7b3fbf8d.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+01-Mar-2026
+
+212430866A
+
+Promo Code: March Sale 2026
+
+173.53 EUR
+
+02-Mar-2026
+
+212430866A
+
+Promo Code: March Sale 2026
+
+178.21 EUR
+
+03-Mar-2026
+
+212430866A
+
+Promo Code: March Sale 2026
+
+198.99 EUR
+
+04-Mar-2026
+
+212430866A
+
+Promo Code: March Sale 2026
+
+198.99 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+749.72 EUR
+
+Credit Card Type:
+
+AX
+
+Name:
+
+MASKED_NAME_91783e05ee MASKED_NAME_06d1a77689
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2005
+
+Expiry:
+
+XX30
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/27daba7b-f760-4845-9a86-08753a2480a9/2397780874
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

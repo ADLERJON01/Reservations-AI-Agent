@@ -1,0 +1,139 @@
+subject: FW: Expedia Booking for # 2397192441 for MASKED_NAME_421aa31b3c, MASKED_NAME_fb1edb1566, Arriving 24-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:36:09+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:35:51 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397192441 for MASKED_NAME_421aa31b3c, MASKED_NAME_fb1edb1566, Arriving 24-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_fb1edb1566 MASKED_NAME_421aa31b3c
+
+Pestana - Chelsea Bridge Hotel & Spa London | Hotels.com
+
+Check-in: 24-Feb-2026
+
+Check-out: 25-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397192441
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+136.80 GBP
+
+ROOM - Deluxe King - Room Only - Standalone - Derived - MASKED_NUMBER_1cfdf4dfbe/MASKED_NUMBER_85e4566dfa
+
+Check In Date:
+
+24-Feb-2026
+
+Check Out Date:
+
+25-Feb-2026
+
+Guest:
+
+MASKED_NAME_fb1edb1566 MASKED_NAME_421aa31b3c
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+136.80 GBP
+
+Remarks:
+
+Expedia Collect Booking, Virtual card will be activated from the day of Check-in., Value Add Promotion: 1 Free beverage per person for 2 once per stay
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+24-Feb-2026
+
+MASKED_NUMBER_85e4566dfa
+
+Promo Code: MOD 10% Discount
+
+136.80 GBP
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+136.80 GBP
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-3371
+
+Expiry:
+
+XX31
+
+CVC:
+
+046
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/309d03a7-8114-11e5-a029-02602716bbb1/2397192441
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

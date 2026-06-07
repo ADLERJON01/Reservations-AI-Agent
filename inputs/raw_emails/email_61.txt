@@ -1,0 +1,181 @@
+subject: FW: Booking.com Booking for # 6521347437 for Anandan, Ravindar, Arriving 09-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:49:05+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:48:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 6521347437 for Anandan, Ravindar, Arriving 09-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+Ravindar Anandan
+
+Pestana - Brussels |
+
+Check-in: 09-May-2026
+
+Check-out: 10-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6521347437
+
+Reservation Remarks:
+
+You have received a virtual credit card for this reservation.You may charge it as of 2026-05-08. Genius Free Room Upgrade booking to attract top genius guests. For more info, check your settings in Booking.com extranet., booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+115.20 EUR
+
+Total Tax Amount:
+
+11.82 EUR
+
+Commission Payable:
+
+25.92 EUR
+
+ROOM - Superior King Room - General
+
+Check In Date:
+
+09-May-2026
+
+Check Out Date:
+
+10-May-2026
+
+Guest:
+
+Ravindar Anandan
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+115.20 EUR
+
+Total Tax Amount:
+
+11.82 EUR
+
+Commission Payable:
+
+25.92 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs EUR 18.50 per person per night.
+
+Extra Information:
+
+Breakfast costs EUR 18.50 per person per night. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: The guest will be charged a prepayment of the total price of the reservation within 1 day before arrival. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+09-May-2026
+
+862682
+
+115.20 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (6%)
+
+6.52 EUR
+
+City tax
+
+5.30 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+115.20 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2800
+
+Expiry:
+
+XX27
+
+CVC:
+
+545
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 EUR
+
+Activation date:
+
+08-May-2026
+
+Deactivation date:
+
+01-May-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/6521347437
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

@@ -1,0 +1,94 @@
+subject: FW: Paid Booking wth Ref. No. 66FYCW
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:37:04+00:00
+
+body:
+
+________________________________
+De: Juniper WebService <MASKED_EMAIL_b11f7ee075>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:36:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_5c2211a757 <MASKED_EMAIL_5c2211a757>
+Assunto: Paid Booking wth Ref. No. 66FYCW
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[X]
+Reference
+
+Please quote the booking code on the invoice
+
+Please accept this booking wth Ref. No. 66FYCW as a confirmed booking
+
+Booking Code:
+
+66FYCW
+
+Name:
+
+MASKED_NAME_09d7bb16d7
+
+Last Name:
+
+MASKED_NAME_0171c13f26
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Accommodation
+Agency booking reference:       20050218/S26H
+Hotel:
+Pestana Dom MASKED_NAME_b6e7d66c53 MASKED_NAME_51e8b2fa9e Beach & Golf Resort
+Board:
+Bed&Breakfast
+Arrival Date:
+20/07/2026
+Departure Date:
+27/07/2026
+Rooms:
+1 x (Deluxe Double or Twin room) 2 Adults
+
+Adults: 2
+Rooming List:
+
+Deluxe Double or Twin room (Bed&Breakfast)
+* MASKED_NAME_09d7bb16d7 MASKED_NAME_0171c13f26 (Years: 30)
+* MASKED_NAME_d7d77e45f0 MASKED_NAME_0171c13f26 (Years: 30)
+Children ages:
+Contracts:
+Contract:       20-26/7
+Deluxe Double or Twin room      GTD
+Cost Price:
+Deluxe Double or Twin room
+        Date            Days                    Daily price                     Total
+        20/07/2026              7       2 x Adults              89.25   x 14            1249.50
+        1249.50
+5% Long Stay Reduction S26
+Deluxe Double or Twin room
+        Date            Days                    Daily price                     Total
+        20/07/2026              7       2 x Adults              -4.46   x 14            -62.44
+        -62.44
+Total: 1,187.06 EUR﻿﻿
+Promos: Without applied promotions
+
+5% Long Stay Reduction S26
+
+To accept this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/BookingRejection/Accept?k=eEGqUBz0elYMWFZE3rOy8Ai33Pfv%2f25s4apbKdlvjSEfwlf1cJhEYoOye1IfiryN1scAPpwYYoQZVERxJS%2f9mg%3d%3d>
+If you are unable to confirm this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/Login?k=eEGqUBz0elYMWFZE3rOy8Ai33Pfv%2f25s4apbKdlvjSEfwlf1cJhEYoOye1IfiryN1scAPpwYYoQZVERxJS%2f9mg%3d%3d>
+
+
+
+If you have any queries relating to the cost of this booking please contact:
+
+MASKED_EMAIL_193bcd86a1<mailto:MASKED_EMAIL_193bcd86a1> stating your resort, hotel and booking code in the subject line and full details on the query in the body of the email.
+
+Booking Department
+
+Jet2holidays

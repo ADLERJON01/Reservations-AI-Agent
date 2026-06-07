@@ -1,0 +1,195 @@
+subject: FW: Booking.com Booking for # 6533117779 for MASKED_NAME_3dc0170586, TILL, Arriving 25-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 17:09:21+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 17:09:03 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Booking.com Booking for # 6533117779 for MASKED_NAME_3dc0170586, TILL, Arriving 25-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+TILL MASKED_NAME_3dc0170586
+
+Quinta do Arco by Pestana |
+
+Check-in: 25-May-2026
+
+Check-out: 27-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6533117779
+
+Reservation Remarks:
+
+Recebeu um cartão de crédito virtual associado a esta reserva.Poderá fazer a cobrança a partir de 2026-05-23. PLEASE DO NOT PROVIDE ANY INVOICE/RECEIPT TO THE GUEST AS BOOKING HAS BEEN PREPAID BY GO GLOBAL Approximate time of arrival: between 15:00 and 16:00, booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+288.70 EUR
+
+Total Tax Amount:
+
+19.10 EUR
+
+Commission Payable:
+
+50.52 EUR
+
+ROOM - Estúdio com Vista Jardim - General - Breakfast included - limited-time-deal(44%)
+
+Check In Date:
+
+25-May-2026
+
+Check Out Date:
+
+27-May-2026
+
+Guest:
+
+TILL MASKED_NAME_3dc0170586 MASKED_NAME_16c0811cf9 MASKED_NAME_3dc0170586
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+288.70 EUR
+
+Total Tax Amount:
+
+19.10 EUR
+
+Commission Payable:
+
+50.52 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+PLEASE DO NOT PROVIDE ANY INVOICE/RECEIPT TO THE GUEST AS BOOKING HAS BEEN PREPAID BY GO GLOBAL Approximate time of arrival: between 15:00 and 16:00, smoking preference: Non-Smoking
+
+Meal Plan:
+
+O pequeno-almoço está incluído na tarifa do quarto.
+
+Extra Information:
+
+O pequeno-almoço está incluído na tarifa do quarto. Regulamento para Crianças e Camas Extra: São permitidas crianças de qualquer idade. 1 criança (até aos 2 anos (inclusive)) pode hospedar-se gratuitamente, se utilizar os berços disponíveis. Não adicionou nenhuma cama extra. O número máximo de berços é de 1. O número máximo de clientes no total é de 3. Condições para Depósitos/Pré-pagamentos: Não é necessário pré-pagamento. Condições de Cancelamento: O cliente pode cancelar gratuitamente até 2 dias antes da chegada. O cliente deverá pagar o valor total da reserva se cancelar nos 2 dias anteriores à data de chegada. Em caso de não comparência,, o hóspede terá de pagar o valor total da reserva.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-May-2026
+
+28216311
+
+limited-time-deal(44%)
+
+Derived Rate : 0
+
+144.35 EUR
+
+26-May-2026
+
+28216311
+
+limited-time-deal(44%)
+
+Derived Rate : 0
+
+144.35 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+IVA (4%)
+
+11.10 EUR
+
+imposto municipal
+
+8.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+288.70 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4773
+
+Expiry:
+
+XX27
+
+CVC:
+
+215
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 EUR
+
+Activation date:
+
+23-May-2026
+
+Deactivation date:
+
+01-May-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/54898464-b250-4976-95b8-4deeb5009a2f/6533117779
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

@@ -1,0 +1,177 @@
+subject: FW: Expedia Booking for # 2397186343 for MASKED_NAME_b4a42994ca  JIMÉNEZ, MASKED_NAME_bec2d9f89d MASKED_NAME_9554fc5015, Arriving 23-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:27:42+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:26:12 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397186343 for MASKED_NAME_b4a42994ca MASKED_NAME_9201ae6b5f, MASKED_NAME_bec2d9f89d MASKED_NAME_9554fc5015, Arriving 23-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_bec2d9f89d MASKED_NAME_9554fc5015 MASKED_NAME_b4a42994ca JIMÉNEZ
+
+Pestana - CR7 Gran Vía | A-Hotels.com
+
+Check-in: 23-Mar-2026
+
+Check-out: 03-Apr-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397186343
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+3353.00 EUR
+
+ROOM - Cozy Room - Long Stay RO - Standalone - SellRate - MASKED_NUMBER_a5a872d4d0/260386789A
+
+Check In Date:
+
+23-Mar-2026
+
+Check Out Date:
+
+03-Apr-2026
+
+Guest:
+
+MASKED_NAME_bec2d9f89d MASKED_NAME_9554fc5015 MASKED_NAME_b4a42994ca JIMÉNEZ
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+3353.00 EUR
+
+Remarks:
+
+Hotel Collect Booking, 1 Twin Bed, Non-Smoking, Hotel Collect Booking Collect Payment From Guest.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+23-Mar-2026
+
+260386789A
+
+347.00 EUR
+
+24-Mar-2026
+
+260386789A
+
+347.00 EUR
+
+25-Mar-2026
+
+260386789A
+
+352.00 EUR
+
+26-Mar-2026
+
+260386789A
+
+291.00 EUR
+
+27-Mar-2026
+
+260386789A
+
+296.00 EUR
+
+28-Mar-2026
+
+260386789A
+
+291.00 EUR
+
+29-Mar-2026
+
+260386789A
+
+265.00 EUR
+
+30-Mar-2026
+
+260386789A
+
+285.00 EUR
+
+31-Mar-2026
+
+260386789A
+
+274.00 EUR
+
+01-Apr-2026
+
+260386789A
+
+305.00 EUR
+
+02-Apr-2026
+
+260386789A
+
+300.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+3353.00 EUR
+
+Credit Card Type:
+
+VI
+
+Name:
+
+MASKED_NAME_9554fc5015 MASKED_NAME_b4a42994ca MASKED_NAME_0bca870664
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-5126
+
+Expiry:
+
+XX28
+
+CVC:
+
+061
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/83d7b182-e0aa-4a04-92f5-ed34c8654a5c/2397186343
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

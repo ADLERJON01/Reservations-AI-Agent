@@ -1,0 +1,139 @@
+subject: FW: Expedia Booking for # 2397169703 for MASKED_NAME_e1a643ed6c MASKED_NAME_852de5b5f4, MASKED_NAME_91f81d0430, Arriving 25-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:01:02+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:00:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397169703 for MASKED_NAME_e1a643ed6c MASKED_NAME_852de5b5f4, MASKED_NAME_91f81d0430, Arriving 25-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_91f81d0430 MASKED_NAME_e1a643ed6c MASKED_NAME_852de5b5f4
+
+Pestana - Arena Barcelona | Expedia Affiliate Network
+
+Check-in: 25-Mar-2026
+
+Check-out: 26-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397169703
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+189.66 EUR
+
+ROOM - Standard Twin Room - NRF BB PKG - Package - LowestAvailableRate - MASKED_NUMBER_318b144df3/MASKED_NUMBER_ce2ec254bb
+
+Check In Date:
+
+25-Mar-2026
+
+Check Out Date:
+
+26-Mar-2026
+
+Guest:
+
+MASKED_NAME_91f81d0430 MASKED_NAME_e1a643ed6c MASKED_NAME_852de5b5f4
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+189.66 EUR
+
+Remarks:
+
+Expedia Collect Booking, 2 Twin Beds, Non-Smoking, CAMA MATRIMONIO., Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-Mar-2026
+
+MASKED_NUMBER_ce2ec254bb
+
+Promo Code: 10% Members 2023
+
+189.66 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+189.66 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-7007
+
+Expiry:
+
+XX29
+
+CVC:
+
+836
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/3099ad0c-8114-11e5-a029-02602716bbb1/2397169703
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

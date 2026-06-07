@@ -1,0 +1,161 @@
+subject: FW: Hotelbeds Booking for # 102-20193685 for MASKED_NAME_4a611a128f, MASKED_NAME_5666b274e8 , Arriving 28-Jul-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:16:21+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:15:51 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 102-20193685 for MASKED_NAME_4a611a128f, MASKED_NAME_5666b274e8 , Arriving 28-Jul-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_5666b274e8 MASKED_NAME_4a611a128f
+
+Pestana - Plaza Mayor Madrid |
+
+Check-in: 28-Jul-2026
+
+Check-out: 01-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+102-20193685
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+715.68 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - DOUBLE CLASSIC
+
+Check In Date:
+
+28-Jul-2026
+
+Check Out Date:
+
+01-Aug-2026
+
+Guest:
+
+MASKED_NAME_5666b274e8 MASKED_NAME_4a611a128f
+
+MASKED_NAME_5666b274e8 MASKED_NAME_4a611a128f
+
+Age:
+
+30
+
+30
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+715.68 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Meal Plan:
+
+ROOM ONLY
+
+Extra Information:
+
+Contract Name=OP OFFER RO, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+28-Jul-2026
+
+172.08 EUR
+
+29-Jul-2026
+
+172.80 EUR
+
+30-Jul-2026
+
+174.24 EUR
+
+31-Jul-2026
+
+196.56 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+715.68 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4821
+
+Expiry:
+
+XX28
+
+CVC:
+
+215
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+715.68 EUR
+
+Activation date:
+
+28-Jul-2026
+
+Deactivation date:
+
+24-Jan-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/c331a988-6b0f-41be-bc6e-0560b864d32c/102-20193685
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

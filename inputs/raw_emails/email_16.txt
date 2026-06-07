@@ -1,0 +1,48 @@
+subject: FW: Agoda Booking ID MASKED_NUMBER_eebee502ca - CANCELLED Pestana South Beach Hotel Hotel Country: United States / Language_English
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:37:26+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_ba1aa12653 <MASKED_EMAIL_ba1aa12653>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:37:10 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Agoda Booking ID MASKED_NUMBER_eebee502ca - CANCELLED Pestana South Beach Hotel Hotel Country: United States / Language_English
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Dear Reservations,,
+
+Cancellation Charge: USD 0.00
+Cancellation and Change Policy: Any cancellation received within 2 days prior to arrival date will incur the full period charge. Failure to arrive at your hotel or property will be treated as a No-Show and no refund will be given (Property policy).
+
+
+Details of Booking
+Booking ID : MASKED_NUMBER_eebee502ca
+Customer First Name : SILVIA
+Customer Last Name : SICILIA
+City : Miami Beach (FL)
+Country : United States
+Arrival : February 24, 2026
+Departure : February 26, 2026
+Hotel : Pestana South Beach Hotel
+Room Type : Superior King
+Free WiFi: Yes
+Number of Rooms: 1
+Number of Adults : 2
+Number of Children : 0
+Number of Extra Beds : 0
+Promotion :
+Notes :
+
+Agoda Customer Support
+*****************************************
+**********************************************
+Smart hotel reservations
+Agoda Company Pte Ltd
+

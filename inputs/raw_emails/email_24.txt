@@ -1,0 +1,24 @@
+subject: FW: Booking
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:05:39+00:00
+
+body:
+
+________________________________
+De: shannon o'brien <MASKED_EMAIL_994c3696c5>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:05:06 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Hello,
+
+I done a booking from booking.com<http://booking.com>, I wanted to know if you have parking and if you do, do we need to book that in ?
+
+Regards
+Shannon

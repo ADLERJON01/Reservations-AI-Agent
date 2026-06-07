@@ -1,0 +1,135 @@
+subject: FW: Expedia Booking for # 2397189376 for MASKED_NAME_14103f1ba1, MASKED_NAME_a3c0021a6c, Arriving 13-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:32:28+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:32:08 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397189376 for MASKED_NAME_14103f1ba1, MASKED_NAME_a3c0021a6c, Arriving 13-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_a3c0021a6c MASKED_NAME_14103f1ba1
+
+Pestana - Lisboa Vintage | A-Hotels.com
+
+Check-in: 13-May-2026
+
+Check-out: 16-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397189376
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+576.00 EUR
+
+ROOM - Classic Double or Twin Room - Special Offer - Standalone - SellRate - MASKED_NUMBER_30bc36b4a8/260298205A
+
+Check In Date:
+
+13-May-2026
+
+Check Out Date:
+
+16-May-2026
+
+Guest:
+
+MASKED_NAME_a3c0021a6c MASKED_NAME_14103f1ba1
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+576.00 EUR
+
+Remarks:
+
+Hotel Collect Booking, Hotel Collect Booking Collect Payment From Guest.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+13-May-2026
+
+260298205A
+
+Promo Code: Blue - MOD 10% All
+
+182.70 EUR
+
+14-May-2026
+
+260298205A
+
+Promo Code: Blue - MOD 10% All
+
+191.70 EUR
+
+15-May-2026
+
+260298205A
+
+Promo Code: Blue - MOD 10% All
+
+201.60 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+576.00 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+MASKED_NAME_dd4323353a MASKED_NAME_14103f1ba1
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2089
+
+Expiry:
+
+XX28
+
+CVC:
+
+917
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/20347ad1-2543-4f7e-993c-19cd6d203bf8/2397189376
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

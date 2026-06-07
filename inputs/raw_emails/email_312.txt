@@ -1,0 +1,29 @@
+subject: FW: New Booking Notification MASKED_NUMBER_e7c5e54d9e from EVT for AMTSPT0Q5W LUX ref 5486923
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:14:44+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:14:07 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_e2a7321200 <MASKED_EMAIL_e2a7321200>
+Assunto: New Booking Notification MASKED_NUMBER_e7c5e54d9e from EVT for AMTSPT0Q5W LUX ref 5486923
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Please click on the link below to open the site to Confirm!
+Product: Pestana Porto Santo
+
+Dear Partner;
+
+We kindly ask you to confirm the attached reservation from the link below. Once you click the link the reservation will be confirmed automatically.
+
+New Booking - Confirmation Link<http://adm.axisdata.net/b2b-confirmationconnector?ID=NDc4NDYzOTQwODI=&com_subtypecode=bookingnew&com-type=NOTIFY_PROV_BOOKING>
+
+Please do not hesitate to contact us if you have any further questions.

@@ -1,0 +1,165 @@
+subject: FW: Hotelbeds Booking for # 235-12645629 for MASKED_NAME_c493af7895, MASKED_NAME_179655bfd6 , Arriving 13-Sep-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:46:14+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:45:50 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 235-12645629 for MASKED_NAME_c493af7895, MASKED_NAME_179655bfd6 , Arriving 13-Sep-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_179655bfd6 MASKED_NAME_c493af7895
+
+Pestana - Orlando Suites Lake Buena Vista |
+
+Check-in: 13-Sep-2026
+
+Check-out: 17-Sep-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+235-12645629
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+298.80 USD
+
+Total Tax Amount:
+
+24.90 USD
+
+ROOM - SUITE Double Queen Suite
+
+Check In Date:
+
+13-Sep-2026
+
+Check Out Date:
+
+17-Sep-2026
+
+Guest:
+
+MASKED_NAME_179655bfd6 MASKED_NAME_c493af7895
+
+MASKED_NAME_a24bc9f826 MASKED_NAME_371bafa432
+
+Age:
+
+30
+
+30
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+298.80 USD
+
+Total Tax Amount:
+
+24.90 USD
+
+Remarks:
+
+Double bed / Except ground floor / Honeymoon / Non-smoking room
+
+Meal Plan:
+
+ROOM ONLY
+
+Extra Information:
+
+Contract Name=PKG LOS RO, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+13-Sep-2026
+
+73.80 USD
+
+14-Sep-2026
+
+74.70 USD
+
+15-Sep-2026
+
+74.70 USD
+
+16-Sep-2026
+
+75.60 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+298.80 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-8151
+
+Expiry:
+
+XX28
+
+CVC:
+
+185
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+298.80 USD
+
+Activation date:
+
+13-Sep-2026
+
+Deactivation date:
+
+12-Mar-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/f6953a71-227d-4915-acd7-fff19b0827ad/235-12645629
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

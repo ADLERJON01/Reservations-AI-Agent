@@ -1,0 +1,79 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:03:33+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:03:16 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_305c18e127/main_logo_original.png]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021953548
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953548%2F200533/1/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/tPAJJmd1uTAd-i683pqbrvXc01c=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953548%2F200533/2/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/VYmFhj3zTqt73cXYdBK7DbW8sTQ=466>
+
+Hotel Pestana CR7 Times Square ****
+
+338W 39th street
+
+10018 - Times Square
+
+Telephone: +1 646-998-3890
+
+MASKED_EMAIL_7370770106<mailto:MASKED_EMAIL_7370770106>
+
+https://www.pestanacr7.com/en/hotel/pestana-cr7-times-square<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestanacr7.com%2Fen%2Fhotel%2Fpestana-cr7-times-square/1/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/FdoN3tbncKVOiBxJN6IdS4upmc4=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/sn9VPP9AlZn0mhefhCDNo26tgOw=466>
+Your details
+
+Name: MASKED_NAME_37331f30ca MASKED_NAME_4059c5744b
+
+E-mail: MASKED_EMAIL_9ba31ea014<mailto:MASKED_EMAIL_9ba31ea014>
+
+Telephone: +1 3155606555
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+Feb 21, 2026    Feb 22, 2026    1       1
+
+1 x Superior King High Floor Room: Flexible rate (2 adults (Aged 13 or more at checkout)).
+
+  *   Sat, Feb 21, 2026 Room Only USD 143.65
+  *   USD 143.65
+(USD 164.84 with taxes)
+
+Booking total: USD 143.65
+(USD 164.84 with taxes)
+Not included USD 29.84 per room per night of Resort Fee. Also not included USD 3.50 per room per night of Local Tax.
+
+Payment method
+
+Payment is made directly at the property; exceptions are stated in the cancellation policy for payments in advance. The hotel reserves the right to pre-authorize your card prior to arrival.
+
+Cancellation policy
+
+The credit card provided as a guarantee for your reservation will be validated until the date of arrival. Reservation can be canceled until 11:00 of Feb 19, 2026. If you cancel before the deadline there will be no cost, otherwise you will be charged the full amount of the stay. In case of no-show, the full amount of the stay will also be charged. A usage fee of US$26 + 14.75% per night will be charged. This rate includes: Free high-speed WiFi, free 24/7 on-site gym access with Peloton bike, computer printing available, free digital newspapers with the Pressreader app, coffee and tea In-room Nespresso (supplied upon request), 375ml bottle of water per stay, discounted parking fee, plus 10% discount coupons for MACYS and Bloomingdales Big Brown Bag, exclusive discounts for local attractions. There is an occupancy tax of $3.50 per room per night and is not included in the total price of the stay as shown on the website, however it will be included in the final bill. When booking more than 5 rooms, the cancellation policy and conditions to be applied to the reservation will be different. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all reservations.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_305c18e127%26lang=en%26reservationCode=26021953548%26pinCode=200533%26code=0F0EABFD00702AA052F269095D544A4B61398DC9%26useWhiteLabel=true/1/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/lPNrObkiXVCfnwLLIHxarpHvkcA=466>
+
+Booking code:   26021953548
+Cancellation code:      200533
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c76a42b6f-ec49836c-592c-45ec-aec9-13378f71ced1-000000/DLBbiwKlg-yshH4MsLHYbu4Ar4o=466]

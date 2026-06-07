@@ -1,0 +1,71 @@
+subject: FW: Expedia Cancellation for # 2387450402 for MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2, MASKED_NAME_d889fce229, Arriving 23-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:36:40+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:36:19 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Cancellation for # 2387450402 for MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2, MASKED_NAME_d889fce229, Arriving 23-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+MASKED_NAME_d889fce229 MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2
+
+Pestana Tanger City Center Hotel Suites & Apartments | Expedia Affiliate Network
+
+Check-in: 23-Feb-2026
+
+Check-out: 26-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+06-Feb-2026
+
+Cancelled On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2387450402
+
+ROOM -
+
+Check In Date:
+
+23-Feb-2026
+
+Check Out Date:
+
+26-Feb-2026
+
+Guest:
+
+Guest Count:
+
+Number of adults : 1
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+0.00
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/1756ec78-104b-42bb-8c2e-99cf6d6d2cf6/2387450402
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

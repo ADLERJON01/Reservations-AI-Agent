@@ -1,0 +1,75 @@
+subject: FW: Paid Booking wth Ref. No. SDKM57
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:08:32+00:00
+
+body:
+
+________________________________
+De: On Pro Travel Solutions <MASKED_EMAIL_6dcb183352>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:08:11 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_0a2fae6dba <MASKED_EMAIL_0a2fae6dba>
+Assunto: Paid Booking wth Ref. No. SDKM57
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[On Pro Travel Solutions S.A]
+Booking Code
+SDKM57
+
+Please accept this booking with Ref. No. SDKM57 as a confirmed booking
+
+Agency Booking reference:
+
+Booking Code:
+
+SDKM57
+
+Name:
+
+Lisa margareta
+
+Last Name:
+
+Hansson
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Flight number: SK2901 Arrival time on airport: 2026-02-21 13:45 || Flight number: SK2902 Departure time from airport: 2026-02-28 14:35
+
+Accommodation
+Hotel:
+Pestana Promenade Hotel
+Board:
+Bed&Breakfast
+Arrival Date:
+21/02/2026
+Departure Date:
+28/02/2026
+Rooms:
+1 x SINGLE CLASSIC SEA VIEW (1 Adult, 1 Child)
+Cost:
+1,233.19 EUR
+Contracts:
+Contract:       21-27/2
+SINGLE CLASSIC SEA VIEW CHA
+
+Children ages:     12
+Promos:
+Discount:               [Sin descuentos]
+
+In order to confirm the booking status, please click here<https://store.on-travelsolutions.com/intranet/PublicAccess/notificationHandler.ashx?Id_Lre=809548&Loc_envio=20260220120809MASKED_TELEPHONE_f34db1b6ff&confStatus=1&Locenvio=true>
+
+In order to reject the booking status, please click here<https://store.on-travelsolutions.com/intranet/PublicAccess/alojamiento/MotivoRechazo.aspx?Id_Lre=809548&Loc_envio=20260220120809MASKED_TELEPHONE_f34db1b6ff&confStatus=2&Locenvio=true>
+
+Booking Department
+
+On Pro Travel Solutions S.A

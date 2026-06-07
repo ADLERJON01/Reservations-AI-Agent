@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Local DB / runtime artifacts
+*.db
+*.sqlite3
+
+# OS
+.DS_Store

@@ -1,0 +1,55 @@
+subject: FW: Booking.com Cancellation for # 6302171930 for MASKED_NAME_3cac108aee, MASKED_NAME_34fe4cdb1e, Arriving 27-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:03:12+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:02:48 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Cancellation for # 6302171930 for MASKED_NAME_3cac108aee, MASKED_NAME_34fe4cdb1e, Arriving 27-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+MASKED_NAME_34fe4cdb1e MASKED_NAME_3cac108aee
+
+Pestana - Chelsea Bridge Hotel & Spa London |
+
+Check-in: 27-Mar-2026
+
+Check-out: 31-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Cancelled On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+6302171930
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+0.00 GBP
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/309d03a7-8114-11e5-a029-02602716bbb1/6302171930
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

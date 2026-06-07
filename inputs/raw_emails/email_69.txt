@@ -1,0 +1,177 @@
+subject: FW: Booking.com Booking for # 6818561688 for MASKED_NAME_81971ed3c7, MASKED_NAME_26934bf5e1, Arriving 22-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:32:50+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:31:48 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 6818561688 for MASKED_NAME_81971ed3c7, MASKED_NAME_26934bf5e1, Arriving 22-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_26934bf5e1 MASKED_NAME_81971ed3c7
+
+Pestana - Chelsea Bridge Hotel & Spa London |
+
+Check-in: 22-Feb-2026
+
+Check-out: 23-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+6818561688
+
+Reservation Remarks:
+
+You have received a virtual credit card for this reservation.You may charge it as of 2026-02-20. Approximate time of arrival: between 13:00 and 14:00, booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+169.20 GBP
+
+Total Tax Amount:
+
+28.20 GBP
+
+Commission Payable:
+
+38.07 GBP
+
+ROOM - Deluxe Superior King - Non-refundable - Breakfast included
+
+Check In Date:
+
+22-Feb-2026
+
+Check Out Date:
+
+23-Feb-2026
+
+Guest:
+
+MASKED_NAME_356ce56b7f MASKED_NAME_fff34cf09e
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+169.20 GBP
+
+Total Tax Amount:
+
+28.20 GBP
+
+Commission Payable:
+
+38.07 GBP
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast is included in the room rate.
+
+Extra Information:
+
+Breakfast is included in the room rate. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: The guest will be charged a prepayment of the total price of the reservation at any time. Cancellation Policy: The guest will be charged the total price of the reservation if they cancel at any time.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+22-Feb-2026
+
+11064826
+
+169.20 GBP
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (20%)
+
+28.20 GBP
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+169.20 GBP
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9919
+
+Expiry:
+
+XX27
+
+CVC:
+
+831
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+169.20 GBP
+
+Activation date:
+
+20-Feb-2026
+
+Deactivation date:
+
+01-Feb-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/309d03a7-8114-11e5-a029-02602716bbb1/6818561688
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

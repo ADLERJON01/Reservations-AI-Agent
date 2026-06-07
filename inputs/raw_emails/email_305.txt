@@ -1,0 +1,82 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:50:00+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:49:40 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_98f831ec95/main_logo_original.png]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021953399
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953399%2F5055611/1/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/SDo07NLsQExr7MzavTe7xYjeEvo=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953399%2F5055611/2/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/GVCIGcK1elfSYnLo-P9xLhK6S4w=466>
+
+Hotel Pestana Dom MASKED_NAME_d12fa570d2 MASKED_NAME_51e8b2fa9e ****
+
+Praia do Alvor
+
+8500-088 - Alvor
+
+Telephone: MASKED_TELEPHONE_1b67fe041e
+
+MASKED_EMAIL_2ca0942781<mailto:MASKED_EMAIL_2ca0942781>
+
+https://www.pestana.com/en/hotel/pestana-dom-joao<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestana.com%2Fen%2Fhotel%2Fpestana-dom-joao/1/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/PjGwk5_Jf6WmJVZ3J0kldtp7EBs=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/FLLlCLlznWbpSGU58PHIs0AQeug=466>
+Your details
+
+Name: MASKED_NAME_e71494adb7 MASKED_NAME_507fc574d1
+
+E-mail: MASKED_EMAIL_d1b8a284fe<mailto:MASKED_EMAIL_d1b8a284fe>
+
+Telephone: +351 MASKED_NUMBER_4c9a527c8f
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+Aug 18, 2026    Aug 22, 2026    4       2
+
+2 x DELUXE Inland View: Special offer (2 adults (Aged 13 or more at checkout)).
+
+  *   Tue, Aug 18, 2026 Half board 304.80 EUR
+  *   Wed, Aug 19, 2026 Half board 304.80 EUR
+  *   Thu, Aug 20, 2026 Half board 304.80 EUR
+  *   Fri, Aug 21, 2026 Half board 304.80 EUR
+  *   1,219.20 EUR
+(Taxes included)
+
+Booking total: 2,438.40 EUR
+(Taxes included)
+Not included 2.00 EUR per person per night of Local Tax from 13 y.o..
+
+Payment method
+
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+
+Cancellation policy
+
+This booking is cancelable until 11:00 of the Aug 04, 2026. If you cancel before the deadline you will not incur any charge, otherwise you will be charged the full amount of the stay. In case of no-show, the total amount of the stay will also be charged. When booking over 9 rooms, the cancellation policy and conditions to be applied to the booking will vary. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all the bookings.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_98f831ec95%26lang=en%26reservationCode=26021953399%26pinCode=5055611%26code=D3B462283F9AAE2F19D6458BC9439CB368A1D51E%26useWhiteLabel=true/1/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/EWj63dPx8GhtPUmIxBBtC6XMFY4=466>
+
+Booking code:   26021953399
+Cancellation code:      5055611
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c7697b927-3d7ef474-30d8-4e98-b8c7-ab0f0bd57b65-000000/AFztnDVIcKJoNeaFlVIGcT6ljzI=466]

@@ -1,0 +1,24 @@
+subject: FW: Siteminder reservation delivery failure for Pestana - Royal Premium - Reservation [BAH-9GXBWM2-1-1517835523] from Channel British Airways Holidays
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:19:29+00:00
+
+body:
+
+
+
+________________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:19:11 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: E Distribution; Reservas - Pestana Portugal
+Assunto: Siteminder reservation delivery failure for Pestana - Royal Premium - Reservation [BAH-9GXBWM2-1-1517835523] from Channel British Airways Holidays
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+One or more cancellations for reservation [BAH-9GXBWM2-1-1517835523] received from [British Airways Holidays] were unable to be delivered to your PMS.
+
+Reason: The original reservation could not be found or has not been successfully processed by the Channel Manager. This happens most commonly when the Channel Manager has received a cancellation of a reservation before receiving the original reservation itself, or we have received a modification where the number of room stays are different to the original booking.
+
+Please note that the Channel Manager will never release inventory back to your third-party booking sites, and as such we recommend that you carefully check your hotel's inventory on the relevant rooms/nights upon receipt of a cancellation of a reservation, regardless of whether it is processed successfully by the Channel Manager.

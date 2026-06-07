@@ -1,0 +1,87 @@
+subject: FW: Pestana Promenade - Solução Vostio da AssaAbloy
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:03:11+00:00
+
+body:
+
+________________________________
+De: MASKED_NAME_2b226f535e MASKED_NAME_83d96668c2 Van MASKED_NAME_fc2e9aa9fa MASKED_NAME_bca372a0c8 <MASKED_EMAIL_ed5c6fd754>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:03:02 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: FW: Pestana Promenade - Solução Vostio da AssaAbloy
+
+Olá,
+
+Em âmbito do projeto em assunto, peço pf a reserva de alojamento no Promenade para o técnico que fará a intervenção. O custo será para afetar à unidade.
+
+MASKED_NAME_cb5dce86ac MASKED_NAME_f4becfef3f
+
+In: 02Março
+Out: 06Março
+
+Obrigado.
+
+MASKED_NAME_2b226f535e MASKED_NAME_fc2e9aa9fa MASKED_NAME_bca372a0c8
+IT Operations Manager & Infrastructure Projects
+Email: MASKED_EMAIL_ed5c6fd754<mailto:MASKED_EMAIL_ed5c6fd754>
+T.: MASKED_TELEPHONE_2930d4074e | M.: MASKED_TELEPHONE_b825d7c6e2 | VoIP: 50989
+
+From: MASKED_NAME_2b226f535e MASKED_NAME_83d96668c2 Van MASKED_NAME_fc2e9aa9fa MASKED_NAME_bca372a0c8
+Sent: 20 de fevereiro de 2026 11:00
+To: MASKED_NAME_ed0e4f91b5 MASKED_NAME_11b7af6e1b <MASKED_EMAIL_baf1ccbcf1>; MASKED_NAME_01376d4401 MASKED_NAME_2533f1bf25 <MASKED_EMAIL_dc61c532ba>; MASKED_NAME_8dedd073a9 MASKED_NAME_691d61039e <MASKED_EMAIL_33e1f8a05b>; MASKED_NAME_bc664011cc MASKED_NAME_2b840b4dcf <MASKED_EMAIL_b8a87f421e>; MASKED_NAME_53fb85b714 MASKED_NAME_f525c9244c <MASKED_EMAIL_454a158474>; MASKED_NAME_48e8699d18 MASKED_NAME_c1de721e2b <MASKED_EMAIL_723c4d2e3f>
+Cc: MASKED_NAME_982c1fae36 MASKED_NAME_8a17100cad <MASKED_EMAIL_7cea508d7e>; MASKED_NAME_fddf571db8 MASKED_NAME_8dedd073a9 <MASKED_EMAIL_0fa9cc4135>; MASKED_NAME_7890a8bbae MASKED_NAME_a43e826407 <MASKED_EMAIL_bdf5088c29>
+Subject: Pestana Promenade - Solução Vostio da AssaAbloy
+Importance: High
+
+Olá a todos,
+
+
+Na sequência da conversa com alguns de vós, formalizo que temos em curso um projeto que visa a substituição da atual solução de codificação de chaves das portas, Visionline da AssaAbloy, por uma nova solução também da AssaAbloy chamada Vostio, pelos seguintes motivos:
+
+
+  *   Segurança: Abolir por completo a utilização dos cartões Mifare Classic e Ultralight EV1 nas unidades do Grupo Pestana, face a facilidade de clonagem destes cartões ao dia de hoje.
+  *   Resiliência: Abolir computadores locais com bases de dados nas unidades sem qualquer manutenção, suporte especializado ou backups regulares, por uma solução cloud.
+  *   Assistência técnica: Assegurar um contrato de suporte especializado com o parceiro, direto às unidades.
+  *   Serviço Cliente: Possibilidade de implementar no futuro, Chaves Digitais via NFC, tais como Apple Wallet ou Google Wallet.
+  *   Normalização: Assegurar a estardatização dos sistemas de chaves no Grupo Pestana (atualmente temos 6 softwares de Parceiros diferentes com várias versões do mesmo parceiro, além das unidades com chaves mecânicas).
+
+Para a data de implementação, ficou alinhado efetuarmos a migração na semana de 02 de março (02 a 06/03), pelo que, peço pf que a mesma seja partilha pela restante equipa do Hotel. Incluo desde já quem considero elementos-chave para estarem presentes no que será a implementação.
+
+Como plano de projeto teremos 5 dias de intervenção, onde se incluem as seguintes ações:
+
+  *   Configurações centrais e de base de dados.
+  *   Upgrade a todas as fechaduras dos quartos (tempo de intervenção por fechadura com “porta aberta” de aproximadamente 5 minutos).
+  *   Substituição de todos os cartões de staff e cliente (no momento em que a fechadura é trocada, os cartões antigos deixam de funcionar). No caso de staff serão fornecidos keyfobs (70) além de alguns cartões (30). Necessidades de cartões adicionais e futuras, deverão ser feitas encomendas pela operação como até à data, mas para a nova referência de cartões.
+  *   Formações, em que, idealmente, teremos de ter presentes todas as equipas com necessidade de efetuar chaves, incluindo os colegas da manutenção e segurança, que incluo neste email, para a componente de desbloqueio ou leitura de portas.
+
+Em conjunto com a solução, iremos fornecer um tablet e dois cabos para efetuar o desbloqueio de portas, contudo, considerando que o software Vostio Services corre em sistema Android, temos também instalado a solução nos telemóveis de serviço das equipas (FO, Manutenção e Segurança). Se puderem ir partilhando comigo a lista de números que devem de ter acesso a esta funcionalidade, podemos ir “adiantando serviço” na instalação do software nos mesmos.
+
+Por fim, o MASKED_NAME_982c1fae36 MASKED_NAME_8a17100cad irá acompanhar os 5 dias de intervenção localmente para qualquer necessidade que surja, contudo, realço que a unidade deve de ficar autónoma nos processos relacionados com o sistema de portas, sendo muito importante a participação de todos nestes 5 dias de implementação. Agradecemos e reiteramos desde já, toda a vossa disponibilidade.
+
+Se tiverem dúvidas sobre o processo e pretendam ligar ou efetuar uma sessão Teams, estamos obviamente disponíveis, pelo que, não hesitem em contactar.
+
+Vamos falando.
+Obrigado.
+
+MASKED_NAME_2b226f535e MASKED_NAME_fc2e9aa9fa MASKED_NAME_bca372a0c8
+IT Operations Manager & Infrastructure Projects
+Email: MASKED_EMAIL_ed5c6fd754<mailto:MASKED_EMAIL_ed5c6fd754>
+T.: MASKED_TELEPHONE_2930d4074e | M.: MASKED_TELEPHONE_b825d7c6e2 | VoIP: 50989
+
+PESTANA HOTEL GROUP
+Rua dos Lusiadas, 134-D
+1300-376 Lisboa–Portugal
+
+[cid:image001.png@01DC0896.1153BF50]<http://www.pestana.com/pt>
+
+CLICK & FOLLOW US ON SOCIAL MEDIA:
+[iconfinder_2018_social_media_popular_app_logo_facebook_3225194]<https://www.facebook.com/pestanahotelgroup/>  [iconfinder_2018_social_media_popular_app_logo_instagram_3225191] <http://instagram.com/pestanagroup>   [iconfinder_2018_social_media_popular_app_logo_youtube_3225180] <http://www.youtube.com/c/PestanaHotelGroup>   [iconfinder_2018_social_media_popular_app_logo_linkedin_3225190] <https://www.linkedin.com/company/grupo-pestana>   [iconfinder_2018_social_media_popular_app_logo_pinterest_3225188] <https://www.pinterest.pt/pestanagroup/>   [iconfinder_2018_social_media_popular_app_logo_twitter_3225183] <https://twitter.com/PestanaHotels>
+DOWNLOAD OUR APP:
+[Download_on_the_App_Store_Badge_US-UK_blk_092917]<https://apps.apple.com/pt/app/pestana-hotel-group/id1457885466>  [google-play-badge_EN] <https://play.google.com/store/apps/details?id=com.guestu.pestanahotelgroup&hl=en>
+#TheTimeofYourLife | www.pestana.com
+[assinatura-retoma-banner1_505x240px_EN]<https://www.pestana.com/en>
+
+

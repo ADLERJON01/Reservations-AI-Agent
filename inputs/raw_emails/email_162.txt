@@ -1,0 +1,34 @@
+subject: FW: Hotel Pestana Sintra Golf - Reservation Confirmation.
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:07:32+00:00
+
+body:
+
+________________________________
+De: Pestana Guest Reservations <MASKED_EMAIL_d318460406>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:07:25 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Re: Hotel Pestana Sintra Golf - Reservation Confirmation.
+
+
+____________________________________________________________________________________
+
+
+Agradecemos a preferência pelo Pestana Hotel Group!
+Para que possamos dar seguimento ao seu pedido, solicitamos que preencha o nosso formulário de contacto, que poderá aceder clicando aqui<https://www.pestana.com/pt/home/contactus?utm_source=contact-form>.
+Em  alternativa, estamos também disponíveis através do telefone MASKED_TELEPHONE_4aeb0da9b0 ou do nosso CHAT<https://widget.hijiffy.com/index.html?token=mxCzBKFkJMIM5q&hj_wg_cm=welcome_email_link> .
+* *ESTE EMAIL É AUTOMÁTICO, POR FAVOR NÃO RESPONDA**
+
+Thank you for your preference for the Pestana Hotel Group!
+So that we can answer your request, please complete our contact request form, which you can access by clicking here<https://www.pestana.com/en/home/contactus?utm_source=contact-form>  .
+Alternatively, we are also available by telephone on MASKED_TELEPHONE_4aeb0da9b0 or through our CHAT<https://widget.hijiffy.com/index.html?token=mxCzBKFkJMIM5q&hj_wg_cm=welcome_email_link>.
+** THIS IS AN AUTOMATIC EMAIL, PLEASE DO NOT REPLY**
+
+
+____________________________________________________________________________________
+
+
+

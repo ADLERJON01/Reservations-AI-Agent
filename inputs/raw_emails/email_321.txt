@@ -1,0 +1,94 @@
+subject: FW: Paid Booking wth Ref. No. CWH3HM
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:55:04+00:00
+
+body:
+
+________________________________
+De: Juniper WebService <MASKED_EMAIL_b11f7ee075>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:54:43 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_947628ba3f <MASKED_EMAIL_947628ba3f>
+Assunto: Paid Booking wth Ref. No. CWH3HM
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[X]
+Reference
+
+Please quote the booking code on the invoice
+
+Please accept this booking wth Ref. No. CWH3HM as a confirmed booking
+
+Booking Code:
+
+CWH3HM
+
+Name:
+
+MASKED_NAME_730f3bc293
+
+Last Name:
+
+MASKED_NAME_0c718a031e
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Accommodation
+Agency booking reference:       20050383/S26H
+Hotel:
+Pestana Carlton Madeira Premium Ocean Resort
+Board:
+Bed&Breakfast
+Arrival Date:
+25/05/2026
+Departure Date:
+01/06/2026
+Rooms:
+1 x (Classic Bay / Sea View Room) 2 Adults
+
+Adults: 2
+Rooming List:
+
+Classic Bay / Sea View Room (Bed&Breakfast)
+* MASKED_NAME_730f3bc293 MASKED_NAME_0c718a031e (Years: 30)
+* MASKED_NAME_31278a470d MASKED_NAME_0c718a031e (Years: 30)
+Children ages:
+Contracts:
+Contract:       25-31/5
+Classic Bay / Sea View Room     GTD
+Cost Price:
+Classic Bay / Sea View Room
+        Date            Days                    Daily price                     Total
+        25/05/2026              7       2 x Adults              97.50   x 14            1365.00
+        1365.00
+5% 7 Nights+ Long Stay Discount S26
+Classic Bay / Sea View Room
+        Date            Days                    Daily price                     Total
+        25/05/2026              7       2 x Adults              -4.88   x 14            -68.32
+        -68.32
+Total: 1,296.68 EUR﻿﻿
+Promos: Without applied promotions
+
+5% 7 Nights+ Long Stay Discount S26
+
+To accept this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/BookingRejection/Accept?k=eEGqUBz0elYMWFZE3rOy8FZo8ixHW8yGgV8lQqSaG0605TiTdFphTni1yLfWO7gFLoc8%2b95Jwm5rNHcJ4ECIIw%3d%3d>
+If you are unable to confirm this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/Login?k=eEGqUBz0elYMWFZE3rOy8FZo8ixHW8yGgV8lQqSaG0605TiTdFphTni1yLfWO7gFLoc8%2b95Jwm5rNHcJ4ECIIw%3d%3d>
+
+
+
+If you have any queries relating to the cost of this booking please contact:
+
+MASKED_EMAIL_193bcd86a1<mailto:MASKED_EMAIL_193bcd86a1> stating your resort, hotel and booking code in the subject line and full details on the query in the body of the email.
+
+Booking Department
+
+Jet2holidays

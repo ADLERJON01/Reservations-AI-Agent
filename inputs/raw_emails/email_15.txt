@@ -1,0 +1,96 @@
+subject: FW: Agoda Booking ID MASKED_NUMBER_9d398a4318 - CONFIRMED Hotel Country: Portugal Check-in February 22, 2026 / Language_English
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:31:43+00:00
+
+body:
+
+________________________________
+De: agoda.com <MASKED_EMAIL_ba1aa12653>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:31:19 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Agoda Booking ID MASKED_NUMBER_9d398a4318 - CONFIRMED Hotel Country: Portugal Check-in February 22, 2026 / Language_English
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/booking_voucher_banner_updated.png]
+        [https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/YCS%20_icon_booking_voucher.png]
+
+        Discover traveler trends and booking performance in one place.
+
+
+VIEW YOUR INSIGHTS NOW <http://tracking.agoda.com/click?redirectUrl=https%3A%2F%2Fycs.agoda.com%2Fmldc%2Fen-us%2Fapp%2Freporting%2Fdashboard%2F61747086&uuid=20260220-681b-4519-a9ab-0b37b66ac899&name=HotelVoucherBanner&channel=email&propertyid=61747086&countryid=213&userid=cf016469-76c7-4447-a15c-83de8b0df706&source=partcomm_pigeon>
+
+[agoda]
+IATA 96-6 3780 0
+Booking ID
+MASKED_NUMBER_9d398a4318
+Reservation Information
+PREPAID
+Booking confirmation
+Pestana Casino Studios
+(Property ID 61747086)
+City : Madeira Island
+Marsha Code :
+Customer First Name     MASKED_NAME_7b92ea088e
+Customer Last Name      MASKED_NAME_77b08b8cf4
+Check-in        February 22, 2026
+Check-out       February 28, 2026
+Other Guests    [RmNo.1] MASKED_NAME_7b92ea088e MASKED_NAME_77b08b8cf4
+Room Type       No. of Rooms    Occupancy       No. of Extra Bed
+Sea View Studio         1       1 Adult         0
+Rate Plan name: NON REFUNDABLE - RO ()
+Benefits Included
+Free fitness center access, Free WiFi
+Cancellation Policy
+This booking is Non-Refundable and cannot be amended or modified.Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+This booking is Non-Refundable and cannot be amended or modified. Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+Room            Extra Bed               Other
+From - To       Rates
+February 22, 2026               EUR 108.24
+February 23, 2026               EUR 108.24
+February 24, 2026               EUR 164.04
+February 25, 2026               EUR 155.97
+February 26, 2026               EUR 100.17
+February 27, 2026               EUR 100.17
+Reference sell rate (incl. taxes & fees)        EUR 887.76
+Commission      EUR -150.93
+
+From - To       Rates
+
+Promotion :
+Last Minute Special. Price includes 19% discount!
+Rate Channel
+Mobile
+Benefit for Hotel
+You get 3% commission reduction as part of Agoda Intelligence
+Website Language
+English / United Kingdom
+Net rate (incl. taxes & fees)
+
+EUR 736.83
+
+[http://img.agoda.net/images/sign/stamp_2025.jpg]       Booked and Payable by
+
+Agoda Company Pte, Ltd.
+36 Robinson Road, City House #20-01,
+Singapore 068877
+Card Type       Card Number     CVV-code        Expiry Date     Card Holder Name
+-       -       -       -       -
+UPC is hidden as requested, please refer to YCS extranet to obtain the necessary details.
+Commission amount indicated is the remuneration for our service to you (the property) for facilitating the reservation in this transaction.
+This booking does not require acknowledgement.
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Agoda Hotline (Portugal) : (35) 12 1060 8380 | General Questions: MASKED_EMAIL_2037568791
+Hotline instruction: Please have your property ID
+

@@ -1,0 +1,139 @@
+subject: FW: Expedia Booking for # 2397222566 for MASKED_NAME_889e606221, MASKED_NAME_de126b2428, Arriving 08-Aug-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 17:16:06+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 17:15:46 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397222566 for MASKED_NAME_889e606221, MASKED_NAME_de126b2428, Arriving 08-Aug-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_de126b2428 MASKED_NAME_889e606221
+
+Pestana - Rovuma | Expedia Affiliate Network
+
+Check-in: 08-Aug-2026
+
+Check-out: 09-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397222566
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+119.88 USD
+
+ROOM - Standard Single Room - Early Booking OD Lite - Wholesale - LowestAvailableRate - MASKED_NUMBER_525a0b5348/MASKED_NUMBER_0f054a5ecd
+
+Check In Date:
+
+08-Aug-2026
+
+Check Out Date:
+
+09-Aug-2026
+
+Guest:
+
+MASKED_NAME_de126b2428 MASKED_NAME_889e606221
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+119.88 USD
+
+Remarks:
+
+Payment Method: VirtualCard, Remittance Model: Gross, Expedia Collect Booking, 1 Double Bed, Non-Smoking, Multi-room booking. Primary traveler:MASKED_NAME_889e606221, MASKED_NAME_de126b2428. 1 of 2 rooms., Please note late arrival at: 18:00 If possible, provide adjoining rooms. If possible, provide non-smoking room, Remittance amount: 119.88, Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+08-Aug-2026
+
+MASKED_NUMBER_0f054a5ecd
+
+Promo Code: Blue - blue, silver gold
+
+119.88 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+119.88 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-7594
+
+Expiry:
+
+XX29
+
+CVC:
+
+770
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+119.88 USD
+
+Activation date:
+
+08-Aug-2026
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/b55e5c0c-0019-4345-92a2-fcd08fd17180/2397222566
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

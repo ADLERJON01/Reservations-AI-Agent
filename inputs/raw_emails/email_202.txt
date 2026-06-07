@@ -1,0 +1,47 @@
+subject: FW: Important! Additional information for the booking #9014448675666 guest name: MASKED_NAME_a329272c1b MASKED_NAME_e6a1b02380
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:12:14+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_058985de30 <MASKED_EMAIL_058985de30>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:11:52 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Important! Additional information for the booking #9014448675666 guest name: MASKED_NAME_a329272c1b MASKED_NAME_e6a1b02380
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+### write your answer above this line (d5wn9|okvgi) ###
+
+Dear team,
+
+Reservation # 9014448675666 for MASKED_NAME_a329272c1b MASKED_NAME_e6a1b02380 for the dates 26.02.2026 - 04.03.2026
+
+The guest for this reservation would like to confirm that the room type booked is "Comfort Double Room, 2 Double Beds (4 Adults)" (2 Double Beds)
+
+
+Hotel: Pestana CR7 Times Square
+Address: 338 West 39th Street, New York
+Name: MASKED_NAME_a329272c1b MASKED_NAME_e6a1b02380, , ,
+Adults: 4
+Children: 0
+Arrival/departure: 26.02.2026 - 04.03.2026
+Room type: Superior room
+Meal type: Meal not included
+
+Thank you in advance for prompt response.
+
+
+--
+
+Best regards,
+
+MASKED_NAME_465d606c9f MASKED_NAME_ae7983de9b
+
+Travel Assistant
+

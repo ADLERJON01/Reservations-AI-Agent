@@ -1,0 +1,207 @@
+subject: FW: Hotelbeds Booking for # 59-5750829 for MASKED_NAME_c0f7a94dc8, MASKED_NAME_f77f4a3558 , Arriving 14-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:46:09+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:45:46 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 59-5750829 for MASKED_NAME_c0f7a94dc8, MASKED_NAME_f77f4a3558 , Arriving 14-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_f77f4a3558 MASKED_NAME_c0f7a94dc8
+
+Pestana - Lisboa Vintage |
+
+Check-in: 14-May-2026
+
+Check-out: 18-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+59-5750829
+
+Guest Count:
+
+Number of adults : 4
+
+Total Price:
+
+1294.14 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - DOUBLE VINTAGE
+
+Check In Date:
+
+14-May-2026
+
+Check Out Date:
+
+18-May-2026
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+647.07 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Remarks:
+
+Camas separadas.
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=BAR-OP-LS-BB, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+14-May-2026
+
+160.74 EUR
+
+15-May-2026
+
+167.58 EUR
+
+16-May-2026
+
+171.69 EUR
+
+17-May-2026
+
+147.06 EUR
+
+ROOM - DOUBLE VINTAGE
+
+Check In Date:
+
+14-May-2026
+
+Check Out Date:
+
+18-May-2026
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+647.07 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Remarks:
+
+Camas separadas.
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=BAR-OP-LS-BB, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+14-May-2026
+
+160.74 EUR
+
+15-May-2026
+
+167.58 EUR
+
+16-May-2026
+
+171.69 EUR
+
+17-May-2026
+
+147.06 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1294.14 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-6537
+
+Expiry:
+
+XX28
+
+CVC:
+
+123
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+1294.14 EUR
+
+Activation date:
+
+18-May-2026
+
+Deactivation date:
+
+14-Nov-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/20347ad1-2543-4f7e-993c-19cd6d203bf8/59-5750829
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

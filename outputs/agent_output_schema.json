@@ -1,0 +1,168 @@
+{
+  "$schema_purpose": "Defines the full JSON shape that the agent pipeline produces per email. Composed of: input metadata snapshot + LLM output (classification + extraction) + validator output + audit + retrieval + routing + output + guardrails + logs. This is the canonical record persisted to SQLite (agent_results.full_output_json) and returned by the API.",
+  "version": "1.0.0",
+  "locked_date": "2026-05-25",
+  "status": "locked",
+  "depends_on": ["taxonomy.json v1.0.0", "llm_output_schema.json v1.0.0"],
+  "schema": {
+    "email_id": null,
+    "processing_timestamp": null,
+    "input_metadata": {
+      "source_file": null,
+      "subject": null,
+      "from_raw": null,
+      "to_raw": null,
+      "cc_raw": null,
+      "date_raw": null,
+      "date_parsed": null,
+      "thread_length_estimate": null,
+      "body_clean_length": null
+    },
+    "llm_output": {
+      "classification": {
+        "predicted_category": null,
+        "sender_type": null,
+        "request_type": null,
+        "booking_lifecycle_stage": null,
+        "expects_human_response": null,
+        "urgency_signal": null,
+        "confidence": null,
+        "evidence_short": null,
+        "reasoning_short": null
+      },
+      "extraction": {
+        "booking_identity": {
+          "source_channel": null,
+          "notification_type": null,
+          "booking_reference": null,
+          "hotel_name": null,
+          "property_id": null,
+          "booking_created_date": null,
+          "modified_on_date": null,
+          "cancelled_on_date": null
+        },
+        "guest": {
+          "guest_name": null,
+          "guest_email": null,
+          "guest_phone": null,
+          "guest_language": null,
+          "additional_travelers": []
+        },
+        "stay": {
+          "check_in_date": null,
+          "check_out_date": null,
+          "number_of_nights": null,
+          "number_of_rooms": null,
+          "adults": null,
+          "children": null,
+          "child_ages": []
+        },
+        "room_and_rate": {
+          "room_type": null,
+          "rate_plan": null,
+          "meal_plan": null,
+          "daily_rate_breakdown": [],
+          "promotion": null,
+          "benefits_included": null
+        },
+        "financials": {
+          "currency": null,
+          "total_amount": null,
+          "tax_amount": null,
+          "tax_breakdown": [],
+          "commission_amount": null,
+          "balance": null
+        },
+        "payment": {
+          "payment_method": null,
+          "payment_status": null,
+          "guarantee_type": null,
+          "virtual_card_present": null,
+          "virtual_card_activation_date": null,
+          "virtual_card_deactivation_date": null,
+          "card_type": null,
+          "card_last4": null
+        },
+        "policies": {
+          "cancellation_policy": null,
+          "free_cancellation_deadline": null,
+          "non_refundable": null,
+          "no_show_policy": null,
+          "prepayment_policy": null
+        },
+        "requests_and_remarks": {
+          "raw_remarks": null,
+          "hotel_staff_instructions": null
+        },
+        "links": {
+          "secure_extranet_link": null,
+          "source_links": []
+        }
+      }
+    },
+    "validator": {
+      "validation_result": null,
+      "flagged_fields": [],
+      "reasoning_short": null,
+      "revised_confidence": null
+    },
+    "audit": {
+      "audit_finding": null,
+      "missing_fields": [],
+      "inconsistencies": [],
+      "risk_flags": []
+    },
+    "routing": {
+      "outbound_action_required": null,
+      "requires_internal_system": null,
+      "kb_answerable": null,
+      "recommended_action": null,
+      "routing_reason": null,
+      "applied_rule_id": null
+    },
+    "retrieval": {
+      "used": false,
+      "sources": []
+    },
+    "output": {
+      "audit_checklist": [],
+      "escalation_summary": null,
+      "clarification_draft": null,
+      "draft_reply": null,
+      "internal_notes": null
+    },
+    "guardrails": {
+      "passed": true,
+      "blocked_claims": [],
+      "escalation_reason": null
+    },
+    "logs": {
+      "pipeline_version": null,
+      "taxonomy_version": null,
+      "llm_output_schema_version": null,
+      "agent_output_schema_version": null,
+      "model_name": null,
+      "embedding_model_name": null,
+      "errors": [],
+      "agent_path": []
+    }
+  },
+  "block_descriptions": {
+    "input_metadata": "Snapshot of selected fields from the emails table. Self-contains the record for API/dashboard use without joining.",
+    "llm_output": "Produced by the Classifier+Extractor Agent. Pure description of the email. See llm_output_schema.json.",
+    "validator": "Produced by the Validator Agent. Critique/verification of the llm_output. validation_result in {confirmed, flagged}. flagged_fields lists JSON paths the validator disputes (e.g., 'extraction.guest.guest_name'). revised_confidence is the validator's confidence floor; the router uses min(classification.confidence, validator.revised_confidence) for thresholding.",
+    "audit": "Produced by the Audit Agent. audit_finding in {clean, missing_fields, suspected_error, n/a} per taxonomy.json. missing_fields and inconsistencies are JSON paths into llm_output.extraction. risk_flags is a list of named flags (e.g., 'requires_internal_system_access', 'payment_topic_with_no_amount').",
+    "routing": "Produced by the Router Agent. Decisions derived from llm_output + validator + audit + (optional) retrieval. applied_rule_id references the matched rule in routing_rules.json.",
+    "retrieval": "Produced by the RAG Agent (conditional). used=false when RAG was skipped. sources is a list of {source_id, source_title, source_url_or_path, chunk_text, score}.",
+    "output": "Produced by the Output Generator Agent. Only one of the four output forms is populated per email; others remain null/empty. internal_notes is a free-form note for the human reviewer (not customer-facing).",
+    "guardrails": "Produced by the Guardrails Agent. passed=false blocks the output and forces escalation. blocked_claims is a list of {claim_text, rule_id, reason}.",
+    "logs": "Pipeline metadata. agent_path is the ordered list of agent names that executed (e.g., ['preprocessor','classifier_extractor','validator','audit','router','output_generator','guardrails']). errors is a list of {agent_name, error_type, message, retry_count}."
+  },
+  "spec_references": {
+    "vocabulary": "taxonomy.json",
+    "llm_output_block": "llm_output_schema.json",
+    "routing_rules": "routing_rules.json",
+    "extraction_field_docs": "llm_output_schema.md",
+    "taxonomy_prose": "taxonomy_proposal.md"
+  }
+}

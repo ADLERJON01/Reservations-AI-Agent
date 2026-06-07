@@ -1,0 +1,171 @@
+subject: FW: Expedia Booking for # 2397154536 for vendrig, jeanine, Arriving 26-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:43:07+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:42:46 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397154536 for vendrig, jeanine, Arriving 26-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+jeanine vendrig
+
+Pestana Kruger Lodge | Expedia Affiliate Network
+
+Check-in: 26-Apr-2026
+
+Check-out: 01-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397154536
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+13352.80 ZAR
+
+ROOM - Classic Room - Early Booking HB OD Lite - Wholesale - LowestAvailableRate - MASKED_NUMBER_223b5e67ac/MASKED_NUMBER_2232bfa2c9
+
+Check In Date:
+
+26-Apr-2026
+
+Check Out Date:
+
+01-May-2026
+
+Guest:
+
+jeanine vendrig
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+13352.80 ZAR
+
+Remarks:
+
+Payment Method: VirtualCard, Remittance Model: Gross, Expedia Collect Booking, 2 Twin Beds, Non-Smoking, ., Remittance amount: 13,352.80, Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+26-Apr-2026
+
+MASKED_NUMBER_2232bfa2c9
+
+Promo Code: Blue - blue silver gold
+
+2644.12 ZAR
+
+27-Apr-2026
+
+MASKED_NUMBER_2232bfa2c9
+
+Promo Code: Blue - blue silver gold
+
+2644.12 ZAR
+
+28-Apr-2026
+
+MASKED_NUMBER_2232bfa2c9
+
+Promo Code: Blue - blue silver gold
+
+2644.12 ZAR
+
+29-Apr-2026
+
+MASKED_NUMBER_2232bfa2c9
+
+Promo Code: Blue - blue silver gold
+
+2644.12 ZAR
+
+30-Apr-2026
+
+MASKED_NUMBER_2232bfa2c9
+
+Promo Code: Blue - blue silver gold
+
+2644.12 ZAR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+13352.80 ZAR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4426
+
+Expiry:
+
+XX31
+
+CVC:
+
+144
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+13352.80 ZAR
+
+Activation date:
+
+26-Apr-2026
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/39caec1f-a699-42f5-84ee-4d5f752eb97e/2397154536
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

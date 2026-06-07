@@ -1,0 +1,71 @@
+subject: FW: Expedia Cancellation for # 2397747592 for MASKED_NAME_bfc49859ac MASKED_NAME_e6b994a0f9 MASKED_NAME_81c0a8e8af, MASKED_NAME_26183ed6e6 MASKED_NAME_736064d4bb, Arriving 21-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:32:39+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:32:17 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Cancellation for # 2397747592 for MASKED_NAME_bfc49859ac MASKED_NAME_e6b994a0f9 MASKED_NAME_81c0a8e8af, MASKED_NAME_26183ed6e6 MASKED_NAME_736064d4bb, Arriving 21-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+MASKED_NAME_26183ed6e6 MASKED_NAME_736064d4bb MASKED_NAME_bfc49859ac MASKED_NAME_e6b994a0f9 MASKED_NAME_81c0a8e8af
+
+Pestana - Brussels | A-Hotels.com
+
+Check-in: 21-Mar-2026
+
+Check-out: 22-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Cancelled On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397747592
+
+ROOM -
+
+Check In Date:
+
+21-Mar-2026
+
+Check Out Date:
+
+22-Mar-2026
+
+Guest:
+
+Guest Count:
+
+Number of adults : 2
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+0.00
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/2397747592
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

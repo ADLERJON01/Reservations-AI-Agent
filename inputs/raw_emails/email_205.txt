@@ -1,0 +1,33 @@
+subject: FW: Mirai: Alert for no availability
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:15:25+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e827d4f874 <MASKED_EMAIL_e827d4f874>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:15:09 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Mirai: Alert for no availability
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Hotel Pousada Vila Real de Santo António ****
+
+The reservation with code: 26022061256 has left the system without
+availability for the following days and roomtypes:
+
+  Days: Jun 26, 2026, Jun 27, 2026, Jun 28, 2026, Jun 29, 2026, Jun 30, 2026
+  Room type: Suite Alfândega
+
+
+You can add availability at: click here<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fadmin.mirai.com/1/0102019c7ac2c0df-93e06a33-8c49-40bc-85a8-acdbf447cf6b-000000/6VXmgxokmynSHdKSWkd_qxLjfiM=466>
+
+Regards,
+Mirai
+
+  Note: Do not respond to this message. [https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c7ac2c0df-93e06a33-8c49-40bc-85a8-acdbf447cf6b-000000/B8Cyhbnl-bMy7JPDPatsd2mw9FY=466]

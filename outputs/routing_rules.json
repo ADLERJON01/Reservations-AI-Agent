@@ -1,0 +1,60 @@
+{
+  "$schema_purpose": "Specification record for the Router Agent (#5). The RUNTIME is the pure-Python guard-clause function route() in app/agents/router.py; this file is the maintained documentation of those rules (mirrored by routing_rules.generated.json). Rules are evaluated in ascending priority; the first matching guard wins. applied_rule_id in agent_output references the rule ids below.",
+  "version": "1.1.0",
+  "locked_date": "2026-06-07",
+  "status": "locked",
+  "supersedes": "1.0.0 (WIP, never validated) — removed LLM-confidence gating; see CHANGELOG.md",
+  "depends_on": ["taxonomy.json v1.0.0"],
+  "evaluation_order": "ascending priority; first matching guard wins; categories are mutually exclusive so only the global pre-empts (R001-R003) cross-cut category dispatch",
+  "routing_philosophy": {
+    "principle": "LLM describes, code decides. Routing is fully deterministic.",
+    "confidence": "Classifier confidence and validator revised_confidence are LOGGED, NEVER gated on (decision 2026-06-06). The v1.0.0 low_confidence rule (confidence < 0.75) is removed.",
+    "deterministic_backbone": "The deterministic Audit (audit_finding / consistency) is the routing backbone for booking_notification.",
+    "validator_effect": "The Validator flag is a CONTRIBUTING signal, not a sole gate: it only changes an otherwise-clean booking_notification (clean + flagged -> audit_only_with_note). For hard-escalation categories the route stays category-driven.",
+    "category_primary": "Each email is exactly one category; audit/validator/risk signals are modifiers WITHIN a category branch, never global overrides of a category escalation."
+  },
+  "rules": [
+    { "id": "R001_SCHEMA_INVALID", "priority": 1, "condition": "schema_valid is False (no usable LLM output)", "action": "manual_review_unclear" },
+    { "id": "R002_FORCE_MANUAL", "priority": 2, "condition": "force_manual_review is True", "action": "manual_review_unclear" },
+    { "id": "R003_OTHER_UNCLEAR", "priority": 3, "condition": "category == other_or_unclear", "action": "manual_review_unclear" },
+    { "id": "R020_BN_SUSPECTED", "priority": 20, "condition": "booking_notification AND audit_finding == suspected_error", "action": "audit_with_attention" },
+    { "id": "R021_BN_MISSING", "priority": 21, "condition": "booking_notification AND audit_finding == missing_fields", "action": "audit_with_attention" },
+    { "id": "R022_BN_CLEAN_FLAGGED", "priority": 22, "condition": "booking_notification AND audit_finding == clean AND validator flagged", "action": "audit_only_with_note" },
+    { "id": "R023_BN_CLEAN", "priority": 23, "condition": "booking_notification AND audit_finding == clean AND not flagged", "action": "audit_only" },
+    { "id": "R024_BN_OTHER", "priority": 24, "condition": "booking_notification AND audit_finding == n/a (unexpected)", "action": "audit_with_attention" },
+    { "id": "R030_INQ_POLICY", "priority": 30, "condition": "service_or_information_inquiry AND request_type == policy_or_general_question", "action": "draft_reply_with_rag" },
+    { "id": "R031_INQ_WITHDRAWAL", "priority": 31, "condition": "service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment", "action": "audit_only_with_note" },
+    { "id": "R032_INQ_DEFAULT", "priority": 32, "condition": "service_or_information_inquiry (any other request_type)", "action": "escalate_to_reservations_team" },
+    { "id": "R040_PAYMENT", "priority": 40, "condition": "category == payment_billing_or_rate_issue", "action": "escalate_to_payment_or_billing" },
+    { "id": "R041_INVENTORY", "priority": 41, "condition": "category == inventory_availability_or_stop_sales", "action": "escalate_to_inventory_or_operations" },
+    { "id": "R042_SYSTEM", "priority": 42, "condition": "category == system_or_channel_delivery_exception", "action": "escalate_to_technical_or_operations" },
+    { "id": "R043_CHANGE_CANCEL", "priority": 43, "condition": "category == booking_change_or_cancellation", "action": "escalate_to_reservations_team" },
+    { "id": "R999_FALLBACK", "priority": 999, "condition": "no rule matched (defensive; categories are exhaustive)", "action": "manual_review_unclear" }
+  ],
+  "decision_flags": {
+    "description": "Computed in build_router_signals() and attached to every result for the dashboard / output context (not used to pick the action directly).",
+    "outbound_action_required": "yes if expects_human_response == yes OR audit_finding in {missing_fields, suspected_error} OR urgency_signal in {urgent, sensitive_complaint}",
+    "requires_internal_system": "yes if category in {booking_change_or_cancellation, payment_billing_or_rate_issue, inventory_availability_or_stop_sales, system_or_channel_delivery_exception} OR audit_finding in {missing_fields, suspected_error} OR (service_or_information_inquiry AND request_type not in {policy_or_general_question, withdrawal_or_acknowledgment})",
+    "rag_required": "yes if category == service_or_information_inquiry AND request_type == policy_or_general_question"
+  },
+  "rag_answerable_resolution": {
+    "description": "kb_answerable is NOT known at routing time. Policy questions are routed to draft_reply_with_rag as a CANDIDATE (rag_required=true). The RAG Agent (#6) runs after the Router and resolves the final outcome.",
+    "rules": [
+      { "if": "retrieval best score >= 0.65", "then": "kb_answerable = yes -> draft_reply_with_rag stands" },
+      { "if": "retrieval empty OR best score < 0.65", "then": "kb_answerable = no -> escalate_to_reservations_team" }
+    ],
+    "threshold_note": "0.65 is the suggested starting cosine-similarity threshold; tune during evaluation."
+  },
+  "validation_status": {
+    "validated_by": "40-email subset batch run, 2026-06-07",
+    "result": "100% schema-valid; full coverage (no R024_BN_OTHER or R999_FALLBACK fired); category/action distributions consistent with documented shares.",
+    "note": "Routing logic validated independently of the separate (upstream) extraction-completeness issue."
+  },
+  "spec_references": {
+    "vocabulary": "taxonomy.json",
+    "agent_output_schema": "agent_output_schema.json",
+    "runtime": "app/agents/router.py (route)",
+    "generated_doc": "routing_rules.generated.json / routing_rules.generated.md",
+    "taxonomy_prose": "taxonomy_proposal.md"
+  }
+}

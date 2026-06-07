@@ -1,0 +1,141 @@
+subject: FW: Booking.com Booking for # 6MASKED_TELEPHONE_b1c7c4222d for Read, Lucy, Arriving 27-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:08:33+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:06:54 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 6MASKED_TELEPHONE_b1c7c4222d for Read, Lucy, Arriving 27-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+Lucy Read
+
+Pestana - Chelsea Bridge Hotel & Spa London |
+
+Check-in: 27-Feb-2026
+
+Check-out: 28-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+6MASKED_TELEPHONE_b1c7c4222d
+
+Reservation Remarks:
+
+Collect payment from guests at your property. For cancellation and no-show fees, please visit extranet, booker_is_genius
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+134.46 GBP
+
+Total Tax Amount:
+
+22.41 GBP
+
+Commission Payable:
+
+30.25 GBP
+
+ROOM - Twin Room - Disability Access - General - Mobile(App) Rate
+
+Check In Date:
+
+27-Feb-2026
+
+Check Out Date:
+
+28-Feb-2026
+
+Guest:
+
+Lucy Read
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+134.46 GBP
+
+Total Tax Amount:
+
+22.41 GBP
+
+Commission Payable:
+
+30.25 GBP
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs GBP20.50 per person per night.
+
+Extra Information:
+
+Breakfast costs GBP20.50 per person per night. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+27-Feb-2026
+
+720823
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+134.46 GBP
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (20%)
+
+22.41 GBP
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+134.46 GBP
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/309d03a7-8114-11e5-a029-02602716bbb1/6MASKED_TELEPHONE_b1c7c4222d
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

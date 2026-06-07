@@ -1,0 +1,147 @@
+subject: FW: Expedia Booking for # 2397787769 for MASKED_NAME_7d4aed4887 MASKED_NAME_19f62e6888 MASKED_NAME_a1fd12048f, MASKED_NAME_f748d312fa MASKED_NAME_e706a9423b MASKED_NAME_a209612ce6, Arriving 20-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:32:34+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:32:16 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397787769 for MASKED_NAME_7d4aed4887 MASKED_NAME_19f62e6888 MASKED_NAME_a1fd12048f, MASKED_NAME_f748d312fa MASKED_NAME_e706a9423b MASKED_NAME_a209612ce6, Arriving 20-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_f748d312fa MASKED_NAME_e706a9423b MASKED_NAME_a209612ce6 MASKED_NAME_7d4aed4887 MASKED_NAME_19f62e6888 MASKED_NAME_a1fd12048f
+
+Pestana - Brussels | A-Hotels.com
+
+Check-in: 20-Mar-2026
+
+Check-out: 22-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397787769
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+302.40 EUR
+
+ROOM - Standard Room, 1 King Bed - SPECIAL OFFER BB - Standalone - SellRate - MASKED_NUMBER_6e6d586935/406978339A
+
+Check In Date:
+
+20-Mar-2026
+
+Check Out Date:
+
+22-Mar-2026
+
+Guest:
+
+MASKED_NAME_f748d312fa MASKED_NAME_e706a9423b MASKED_NAME_a209612ce6 MASKED_NAME_7d4aed4887 MASKED_NAME_19f62e6888 MASKED_NAME_a1fd12048f
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+302.40 EUR
+
+Remarks:
+
+Hotel Collect Booking, 1 King Bed, Non-Smoking, Multi-room booking. Primary traveler:MASKED_NAME_73b8185e34 MASKED_NAME_0fdac02584 MASKED_NAME_2d972ae50b, MASKED_NAME_5b05a2b332 MASKED_NAME_76300690ec MASKED_NAME_2d972ae50b. 2 of 4 rooms., Collect payment from traveler upon arrival. This virtual card can only be used in the case of a no-show or cancellation, after the booking has been reconciled. You cannot charge this card prior to reconciliation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+20-Mar-2026
+
+406978339A
+
+Promo Code: March Sale 2026
+
+151.20 EUR
+
+21-Mar-2026
+
+406978339A
+
+Promo Code: March Sale 2026
+
+151.20 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+302.40 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-7092
+
+Expiry:
+
+XX29
+
+CVC:
+
+582
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/2397787769
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

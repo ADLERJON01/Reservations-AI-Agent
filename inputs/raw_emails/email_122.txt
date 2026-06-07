@@ -1,0 +1,155 @@
+subject: FW: Expedia Booking for # 2397192672 for MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2, MASKED_NAME_d889fce229, Arriving 23-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:36:36+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:36:19 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397192672 for MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2, MASKED_NAME_d889fce229, Arriving 23-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_d889fce229 MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2
+
+Pestana Tanger City Center Hotel Suites & Apartments | Expedia Affiliate Network
+
+Check-in: 23-Feb-2026
+
+Check-out: 26-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397192672
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+3401.97 MAD
+
+ROOM - Standard Suite - Bar BB - Standalone - SellRate - MASKED_NUMBER_05b153f6d1/383984511A
+
+Check In Date:
+
+23-Feb-2026
+
+Check Out Date:
+
+26-Feb-2026
+
+Guest:
+
+MASKED_NAME_d889fce229 MASKED_NAME_7a833d870a MASKED_NAME_067596f6f2
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+3401.97 MAD
+
+Remarks:
+
+Payment Method: VirtualCard, Remittance Model: Gross, Expedia Collect Booking, 1 King Bed and 1 Twin Sofa Bed, Non-Smoking, Remittance amount: 3,401.97, Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+23-Feb-2026
+
+MASKED_NUMBER_46eb2e37ff
+
+Promo Code: MOD 10% OFF
+
+1133.99 MAD
+
+24-Feb-2026
+
+MASKED_NUMBER_46eb2e37ff
+
+Promo Code: MOD 10% OFF
+
+1133.99 MAD
+
+25-Feb-2026
+
+MASKED_NUMBER_46eb2e37ff
+
+Promo Code: MOD 10% OFF
+
+1133.99 MAD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+3401.97 MAD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-0199
+
+Expiry:
+
+XX29
+
+CVC:
+
+487
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+3401.97 MAD
+
+Activation date:
+
+23-Feb-2026
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/1756ec78-104b-42bb-8c2e-99cf6d6d2cf6/2397192672
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

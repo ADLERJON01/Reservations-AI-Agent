@@ -1,0 +1,173 @@
+subject: FW: Hotelbeds Booking for # 60-2752623 for MASKED_NAME_152ff1a6a4, MASKED_NAME_9802a7ad39 , Arriving 03-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:45:36+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:45:14 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 60-2752623 for MASKED_NAME_152ff1a6a4, MASKED_NAME_9802a7ad39 , Arriving 03-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_9802a7ad39 MASKED_NAME_152ff1a6a4
+
+Pestana - Grand |
+
+Check-in: 03-Mar-2026
+
+Check-out: 10-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+60-2752623
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1201.83 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - Double or Twin CLASSIC LAND VIEW
+
+Check In Date:
+
+03-Mar-2026
+
+Check Out Date:
+
+10-Mar-2026
+
+Guest:
+
+MASKED_NAME_9802a7ad39 MASKED_NAME_152ff1a6a4
+
+MASKED_NAME_2c8bb1f6ba MASKED_NAME_f35ea3d58d
+
+Age:
+
+30
+
+30
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1201.83 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Meal Plan:
+
+HALF BOARD
+
+Extra Information:
+
+Contract Name=BAR-PK-SP-LS-HB, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+03-Mar-2026
+
+171.69 EUR
+
+04-Mar-2026
+
+171.69 EUR
+
+05-Mar-2026
+
+171.69 EUR
+
+06-Mar-2026
+
+171.69 EUR
+
+07-Mar-2026
+
+171.69 EUR
+
+08-Mar-2026
+
+171.69 EUR
+
+09-Mar-2026
+
+171.69 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1201.83 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9012
+
+Expiry:
+
+XX28
+
+CVC:
+
+293
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+1201.83 EUR
+
+Activation date:
+
+10-Mar-2026
+
+Deactivation date:
+
+06-Sep-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/c5cd719e-50ac-4e01-8ac7-3fbe432404ab/60-2752623
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

@@ -1,0 +1,48 @@
+subject: FW: BOOKING CONFIRMED PUSH EASYJET HOLIDAYS [ResID: 5252442, Provider: SiteMinder(SMINDER) ]
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:04:27+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_dafdac17a8 <MASKED_EMAIL_dafdac17a8>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:04:06 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_8b9282522b <MASKED_EMAIL_8b9282522b>
+Assunto: BOOKING CONFIRMED PUSH EASYJET HOLIDAYS [ResID: 5252442, Provider: SiteMinder(SMINDER) ]
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Customer:       Mr MASKED_NAME_22ef886fec MASKED_NAME_6d920308eb
+Arrival Date:   2026-03-09
+Departure Date: 2026-03-16
+Hotel:  Pestana Alvor Praia Hotel, Code: 60533
+Booked Rooms:   1
+Room:   1
+Room Name (Code):       Deluxe Double ( DLXDBL )
+Board Name (Code):      Bed_And_breakfast ( 3 )
+RatePlan Name (Code):   Package Early booking bed and breakfast ( PKGEBBB )
+Room Price (Taxes included):    579.95 EUR
+Room Price Taxes:       0.00 EUR
+Room Price Taxes Not Included:  0 EUR
+Total Commission to deduct:     0 %
+Number Guests Room:     2
+Room Holder:    MASKED_NAME_22ef886fec MASKED_NAME_6d920308eb
+Pax Details:    Pax 1: MASKED_NAME_22ef886fec MASKED_NAME_6d920308eb (Age 36)
+Pax 2: MASKED_NAME_66ce0f572f MASKED_NAME_6d920308eb (Age 30)
+Total Amount (Taxes included):  579.95 EUR
+Total Amount Taxes:     0.00 EUR
+Total Amount Taxes Not Included:        0
+Total Net Amount:       579.95 EUR
+Payment Type:   Payment in Agency
+Internal ResID: 5252442
+Client ResID:   UBO_8220792_3_1 ( EasyJet Holidays )
+Provider ResID: EJT-UBO_8220792_3_1 ( SiteMinder )
+Comments:       Flight Details. 09-Mar-26 SEN 15:40 - FAO 18:45 EZY5717. Flight Details. 16-Mar-26 FAO 19:25 - SEN 22:05 EZY5718
+
+
+This is an automatically generated email – please do not reply to it. If you have any queries regarding your order please email MASKED_EMAIL_8b9282522b<mailto:MASKED_EMAIL_8b9282522b>.

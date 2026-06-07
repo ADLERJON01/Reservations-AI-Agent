@@ -1,0 +1,143 @@
+subject: FW: Booking.com Booking for # 5MASKED_TELEPHONE_dc977d228a for van den Ende, Juliette, Arriving 23-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:17:28+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:17:12 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 5MASKED_TELEPHONE_dc977d228a for van den Ende, Juliette, Arriving 23-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+Juliette van den Ende
+
+Pestana - Chelsea Bridge Hotel & Spa London |
+
+Check-in: 23-Mar-2026
+
+Check-out: 25-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5MASKED_TELEPHONE_dc977d228a
+
+Reservation Remarks:
+
+Collect payment from guests at your property. For cancellation and no-show fees, please visit extranet, booker_is_genius
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+522.90 GBP
+
+Total Tax Amount:
+
+87.15 GBP
+
+Commission Payable:
+
+117.65 GBP
+
+ROOM - Deluxe King Room - General - Breakfast included
+
+Check In Date:
+
+23-Mar-2026
+
+Check Out Date:
+
+25-Mar-2026
+
+Guest:
+
+Juliette van den Ende
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+522.90 GBP
+
+Total Tax Amount:
+
+87.15 GBP
+
+Commission Payable:
+
+117.65 GBP
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast is included in the room rate.
+
+Extra Information:
+
+Breakfast is included in the room rate. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+23-Mar-2026
+
+11064801
+
+202.50 GBP
+
+24-Mar-2026
+
+11064801
+
+320.40 GBP
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (20%)
+
+87.15 GBP
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+522.90 GBP
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/309d03a7-8114-11e5-a029-02602716bbb1/5MASKED_TELEPHONE_dc977d228a
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

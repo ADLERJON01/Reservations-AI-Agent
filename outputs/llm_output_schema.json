@@ -1,0 +1,121 @@
+{
+  "$schema_purpose": "Defines the JSON shape that the Classifier+Extractor Agent emits per email. Pure description of the email — no routing decisions, no audit findings. The LLM produces exactly this structure. Loaded as a Pydantic model via Instructor at runtime.",
+  "version": "1.0.0",
+  "locked_date": "2026-05-25",
+  "status": "locked",
+  "depends_on": ["taxonomy.json v1.0.0"],
+  "schema": {
+    "classification": {
+      "predicted_category": null,
+      "sender_type": null,
+      "request_type": null,
+      "booking_lifecycle_stage": null,
+      "expects_human_response": null,
+      "urgency_signal": null,
+      "confidence": null,
+      "evidence_short": null,
+      "reasoning_short": null
+    },
+    "extraction": {
+      "booking_identity": {
+        "source_channel": null,
+        "notification_type": null,
+        "booking_reference": null,
+        "hotel_name": null,
+        "property_id": null,
+        "booking_created_date": null,
+        "modified_on_date": null,
+        "cancelled_on_date": null
+      },
+      "guest": {
+        "guest_name": null,
+        "guest_email": null,
+        "guest_phone": null,
+        "guest_language": null,
+        "additional_travelers": []
+      },
+      "stay": {
+        "check_in_date": null,
+        "check_out_date": null,
+        "number_of_nights": null,
+        "number_of_rooms": null,
+        "adults": null,
+        "children": null,
+        "child_ages": []
+      },
+      "room_and_rate": {
+        "room_type": null,
+        "rate_plan": null,
+        "meal_plan": null,
+        "daily_rate_breakdown": [],
+        "promotion": null,
+        "benefits_included": null
+      },
+      "financials": {
+        "currency": null,
+        "total_amount": null,
+        "tax_amount": null,
+        "tax_breakdown": [],
+        "commission_amount": null,
+        "balance": null
+      },
+      "payment": {
+        "payment_method": null,
+        "payment_status": null,
+        "guarantee_type": null,
+        "virtual_card_present": null,
+        "virtual_card_activation_date": null,
+        "virtual_card_deactivation_date": null,
+        "card_type": null,
+        "card_last4": null
+      },
+      "policies": {
+        "cancellation_policy": null,
+        "free_cancellation_deadline": null,
+        "non_refundable": null,
+        "no_show_policy": null,
+        "prepayment_policy": null
+      },
+      "requests_and_remarks": {
+        "raw_remarks": null,
+        "hotel_staff_instructions": null
+      },
+      "links": {
+        "secure_extranet_link": null,
+        "source_links": []
+      }
+    }
+  },
+  "field_notes": {
+    "classification.predicted_category": "Must be one of the 7 category names defined in taxonomy.json.",
+    "classification.sender_type": "Must be one of the 5 sender_type values in taxonomy.json.",
+    "classification.request_type": "Must be one of the 10 request_type values in taxonomy.json.",
+    "classification.booking_lifecycle_stage": "Must be one of the 6 lifecycle values in taxonomy.json. Mirrors extraction.booking_identity.notification_type — the LLM should output the same value in both fields.",
+    "classification.expects_human_response": "Must be one of: yes / no / unclear.",
+    "classification.urgency_signal": "Must be one of: routine / urgent / sensitive_complaint.",
+    "classification.confidence": "Float 0-1. Self-reported confidence. Used by the router only as a coarse signal (threshold 0.75).",
+    "classification.evidence_short": "Brief quoted span(s) from the email supporting the classification. Max 200 chars.",
+    "classification.reasoning_short": "One-sentence reasoning for the category choice. Max 200 chars.",
+    "extraction.booking_identity.notification_type": "Canonical lifecycle field. classification.booking_lifecycle_stage mirrors this.",
+    "extraction.guest.additional_travelers": "List of {name: str|null, age: int|null}. Empty list when no rooming list / only lead guest named.",
+    "extraction.stay.adults / children": "Integers. Leave null if not stated.",
+    "extraction.stay.child_ages": "List of int. Empty list when no children or ages not stated.",
+    "extraction.financials.tax_breakdown": "List of {description: str, amount: float, currency: str|null}. Empty list when no per-component breakdown is shown.",
+    "extraction.room_and_rate.daily_rate_breakdown": "List of {date: str, rate_id: str|null, price: float|null, currency: str|null, description: str|null}. Empty list otherwise.",
+    "extraction.requests_and_remarks.raw_remarks": "Verbatim remarks text. Do NOT interpret. Boilerplate distinction is the audit module's job."
+  },
+  "rules": [
+    "All absent scalar values are JSON null (never the string 'null').",
+    "All absent lists are [] (never null).",
+    "Anonymized tokens (MASKED_NAME_xxx, MASKED_EMAIL_xxx, etc.) are retained verbatim.",
+    "Never invent values for fields not present in the email.",
+    "total_amount = 0.00 is valid for cancellation notifications — not a missing field.",
+    "classification.booking_lifecycle_stage MUST equal extraction.booking_identity.notification_type (when applicable).",
+    "classification.predicted_intent.belongs_to(classification.predicted_category) — facets are orthogonal but values must come from the enums in taxonomy.json."
+  ],
+  "spec_references": {
+    "vocabulary": "taxonomy.json",
+    "human_readable_extraction_doc": "llm_output_schema.md",
+    "full_pipeline_output_schema": "agent_output_schema.json"
+  }
+}

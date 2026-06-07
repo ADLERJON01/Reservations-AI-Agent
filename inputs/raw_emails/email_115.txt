@@ -1,0 +1,147 @@
+subject: FW: Expedia Booking for # 2397178558 for MASKED_NAME_1a1732ad15, MASKED_NAME_32ad357f1a, Arriving 25-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:16:48+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:16:29 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397178558 for MASKED_NAME_1a1732ad15, MASKED_NAME_32ad357f1a, Arriving 25-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_32ad357f1a MASKED_NAME_1a1732ad15
+
+Pestana Pousada Porto | Expedia Affiliate Network
+
+Check-in: 25-May-2026
+
+Check-out: 27-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397178558
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+581.05 EUR
+
+ROOM - Superior Double or Twin Room - SPECIAL OFFER BB OD Lite - Wholesale - LowestAvailableRate - MASKED_NUMBER_a85b4120c4/MASKED_NUMBER_aaca791d0d
+
+Check In Date:
+
+25-May-2026
+
+Check Out Date:
+
+27-May-2026
+
+Guest:
+
+MASKED_NAME_32ad357f1a MASKED_NAME_1a1732ad15
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+581.05 EUR
+
+Remarks:
+
+Expedia Collect Booking, 1 Queen Bed, Non-Smoking, Couple please add double bed., Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-May-2026
+
+MASKED_NUMBER_aaca791d0d
+
+Promo Code: Blue - 10% MOD
+
+292.33 EUR
+
+26-May-2026
+
+MASKED_NUMBER_aaca791d0d
+
+Promo Code: Blue - 10% MOD
+
+288.72 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+581.05 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-8860
+
+Expiry:
+
+XX29
+
+CVC:
+
+806
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/61190538-fb8c-4faf-90d9-56419a750049/2397178558
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

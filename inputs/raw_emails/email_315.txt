@@ -1,0 +1,49 @@
+subject: FW: Notificación de reserva realizada
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:15:27+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_c280a4b6c8 <MASKED_EMAIL_c280a4b6c8>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:15:07 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>; MASKED_EMAIL_133d543e64 <MASKED_EMAIL_133d543e64>
+Assunto: Notificación de reserva realizada
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Estimado colaborador le informamos que se ha realizado una reserva
+
+Customer:       MASKED_NAME_18a107d8a5 MASKED_NAME_507fc574d1
+Arrival Date:   2026-06-19
+Departure Date: 2026-06-26
+Hotel:  Pestana Viking Beach & Golf Resort, Code: Alg0152
+Booked Rooms:   1
+Room:   1
+Room Name (Code):       Deluxe sea view (2pax+1chd) (DLXSV2+1 )
+Board Name (Code):      Media Pensión (MP )
+RatePlan Name (Code):   NRFLONG (NRFLONG )
+Room Price (Taxas included):    EUR
+Room Price Taxes:       1394.89 EUR
+Total Commission to deduct:     EUR
+Number Guests Room:     3
+Pax Ages:
+Pax MASKED_NAME_18a107d8a5: 30
+Pax Pasajero: 13
+Pax Pasajero: 3
+Total Amount (Taxes included):  1394.89 EUR
+Total Amount Taxes:     0.0 EUR
+Total Net Amount:       1394.89 EUR
+Payment Type:   Payment in Agency
+Internal ResID: 4085368
+Client ResID:   4085368 (Tour10)
+Provider ResID: TDT-4085368 (Siteminder)
+Comments:       Bom dia! Agradecia se pud?ssemos ficar alojados numa zona calma, e de prefer?ncia sem vizinhos por cima por causa do barulho ? a minha filha e genro (MASKED_NAME_e71494adb7 MASKED_NAME_950a1e400c/Lu?s Rodrigues) v?o reservar em simult?neo e gostar?amos de ficar no mesmo andar, se poss?vel. Obrigada desde j?!
+
+Para cualquier duda por favor póngase en contanto con el departamento de booking
+
+Un saludo

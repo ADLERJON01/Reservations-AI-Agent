@@ -1,0 +1,185 @@
+subject: FW: Booking.com Booking for # 6034073978 for MASKED_NAME_59ff56c1a5, MASKED_NAME_4e0056ab2d, Arriving 19-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:02:03+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:01:40 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 6034073978 for MASKED_NAME_59ff56c1a5, MASKED_NAME_4e0056ab2d, Arriving 19-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_4e0056ab2d MASKED_NAME_59ff56c1a5
+
+Pestana - Orlando Suites Lake Buena Vista |
+
+Check-in: 19-Feb-2026
+
+Check-out: 22-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6034073978
+
+Reservation Remarks:
+
+booker_is_genius
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+439.20 USD
+
+Total Tax Amount:
+
+92.02 USD
+
+Commission Payable:
+
+82.64 USD
+
+ROOM - Double Queen Superior Suite - General - Breakfast included - Mobile(App) Rate
+
+Check In Date:
+
+19-Feb-2026
+
+Check Out Date:
+
+22-Feb-2026
+
+Guest:
+
+MASKED_NAME_4e0056ab2d MASKED_NAME_59ff56c1a5
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+439.20 USD
+
+Total Tax Amount:
+
+92.02 USD
+
+Commission Payable:
+
+82.64 USD
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast is included in the room rate.
+
+Extra Information:
+
+Breakfast is included in the room rate. Children and Extra Bed Policy: Children of all ages are allowed. 1 child (up to and including 3 years old) stays for free when using available cribs. You haven't added any extra beds. The maximum number of cribs is 1. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 2 days before arrival. The guest will be charged the cost of the first night if they cancel in the 2 days before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+19-Feb-2026
+
+42419978
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+153.90 USD
+
+20-Feb-2026
+
+42419978
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+140.40 USD
+
+21-Feb-2026
+
+42419978
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+144.90 USD
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+Resort fee
+
+33.00 USD
+
+TAX (12.5%)
+
+59.02 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+439.20 USD
+
+Credit Card Type:
+
+VI
+
+Name:
+
+Funny Tours
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-3910
+
+Expiry:
+
+XX30
+
+CVC:
+
+061
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/f6953a71-227d-4915-acd7-fff19b0827ad/6034073978
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

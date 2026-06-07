@@ -1,0 +1,101 @@
+subject: FW: Mirai:: Reservation with code 26021957156 cancelled AFTER DEADLINE
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:31:22+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e827d4f874 <MASKED_EMAIL_e827d4f874>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:30:58 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Mirai:: Reservation with code 26021957156 cancelled AFTER DEADLINE
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Dear partners,
+ We inform you that the next reservation has been cancelled by the client:
+Hotel Pousada Convento Arraiolos ****
+Reservation code: 26021957156
+Checkin: Feb 22, 2026
+Check-out: Feb 26, 2026
+Client: MASKED_NAME_1625001f0e MASKED_NAME_c640f19a35 MASKED_NAME_16fa407b3e
+Date of cancelation: Feb-20-2026 11:30:58
+Reason: Booking cancelled by hotel
+More details provided by the guest: Cancelled from extranet - User: PestanaCCENTER
+
+Payment Method:
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+Cancellation Policy:
+This booking is cancelable until 11:00 of the Feb 20, 2026. If you cancel before the deadline you will not incur any charge, otherwise you will be charged the full amount of the stay. In case of no-show, the total amount of the stay will also be charged.
+
+Hotel Pousada Convento Arraiolos ****
+Website:https://www.pousadas.pt/en/hotel/pousada-arraiolos
+[X]
+RESERVATION CODE:       26021957156
+GUEST INFO:
+Name:
+E-Mail:
+Company:
+Promotional Code:
+Phone:
+Language:
+Country by IP:
+Device:
+MASKED_NAME_1625001f0e MASKED_NAME_c640f19a35 MASKED_NAME_16fa407b3e
+MASKED_EMAIL_bc49cbf418<mailto:MASKED_EMAIL_bc49cbf418>
+
+
++351 MASKED_NUMBER_ba70353ca5
+Portuguese
+Portugal
+Mobile
+Check-in:
+Check-out:      Feb 22, 2026
+Feb 26, 2026
+Club - membership:
+Club - member ID:
+Club - signup source:
+Club - level:   Existing
+MASKED_EMAIL_bc49cbf418
+Website
+BRONZE
+Type: Superior Family, Alentejo Valley View: Mobile Exclusive Offer (1 adult (Aged 13 or more at checkout))   Number of rooms: 1
+Sun, Feb 22, 2026       99.45 EUR       Breakfast included
+Mon, Feb 23, 2026       99.45 EUR       Breakfast included
+Tue, Feb 24, 2026       107.10 EUR      Breakfast included
+Wed, Feb 25, 2026       107.10 EUR      Breakfast included
+Total:413.10 EUR. (Taxes included)
+TOTAL AMOUNT PAYABLE FOR THE RESERVATION: 413.10 EUR. (Taxes included)
+ADDITIONAL REQUESTS:
+
+
+COMMENTS:
+
+Gostaria de um quarto com cama de casal, em andar alto se possivel virado a sul. Muito obrigada
+METHOD OF PAYMENT:      Pay on arrival at the property. Credit Card only as a booking guarantee.
+GUARANTEE OF THE RESERVATION:     Owner Name: MASKED_NAME_1625001f0e MASKED_NAME_16fa407b3e
+  Type: Visa
+  Number: Click here <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fadmin.mirai.com%2FMRE%2FReservationDetails.do%3Fhcode=MASKED_NUMBER_c6b52cd298%26rcode=26021957156%26order=5/1/0102019c7ad13c85-5bc215b3-0861-4f7a-a9be-a8e542fddc42-000000/o8zS3SW81ttFMdb7PhdSYO-YG4w=466>
+CANCELLATION POLICY:
+
+This booking is cancelable until 11:00 of the Feb 20, 2026. If you cancel before the deadline you will not incur any charge, otherwise you will be charged the full amount of the stay. In case of no-show, the total amount of the stay will also be charged.
+OTHER CONDITIONS:
+
+<p>The Hotel reserves the right to pre-authorize the credit card, with the amount corresponding to one night, to verify its validity.</p><p><br></p>We inform you that you can check in from&nbsp;15h00&nbsp;on &nbsp;arrival day. Check-out can be done until&nbsp;12h00&nbsp;on departure date.
+PRIVACY POLICY:
+
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+
+*Remember* that you can see all reservations data of your hotel in reservation system management.
+
+ Regards,
+Administration department
+Mirai
+www.mirai.com
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c7ad13c85-5bc215b3-0861-4f7a-a9be-a8e542fddc42-000000/s4fppuqp5RJae4WvZMyyiw48a7k=466]

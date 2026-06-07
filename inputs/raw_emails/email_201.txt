@@ -1,0 +1,112 @@
+subject: FW: Identificador de Reserva de Agoda MASKED_NUMBER_4833f8fe04 - CONFIRMADO País del Hotel: Spain
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:32:23+00:00
+
+body:
+
+________________________________
+De: agoda.com <MASKED_EMAIL_ba1aa12653>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:31:56 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Identificador de Reserva de Agoda MASKED_NUMBER_4833f8fe04 - CONFIRMADO País del Hotel: Spain
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/booking_voucher_banner_updated.png]
+        [https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/YCS%20_icon_booking_voucher.png]
+
+        Encuentre las tendencias de los viajeros y el rendimiento de las reservas en un mismo lugar.
+
+
+VEA YA TODA LA INFORMACIÓN <http://tracking.agoda.com/click?redirectUrl=https%3A%2F%2Fycs.agoda.com%2Fmldc%2Fen-us%2Fapp%2Freporting%2Fdashboard%2F31437572&uuid=20260220-582d-4f1f-a6ba-d1876bc79d98&name=HotelVoucherBanner&channel=email&propertyid=31437572&countryid=167&userid=dba7648e-1525-4328-80bc-34b1a328158d&source=partcomm_pigeon>
+
+[agoda]
+IATA 96-6 3780 0
+Booking ID
+Número de reserva
+MASKED_NUMBER_4833f8fe04
+Reservation Information
+INFORMACION DE LA RESERVA
+PREPAGO
+Booking confirmation
+Confirmación de reserva
+Pestana Collection Plaza Mayor
+(Property ID 31437572)
+City Ciudad : Madrid
+Marsha Code :
+Customer First Name Nombre      Sanit MASKED_NAME_3b6b4203ab
+Customer Last Name Apellidos    MASKED_NAME_455ce4a931
+Check-in Entrada        17-May-2026 (17-05-2026)
+Check-out Salida        20-May-2026 (20-05-2026)
+Other Guests Otros Huéspedes    [RmNo.1] Gayatri Sanit MASKED_NAME_455ce4a931 , [RmNo.1] MASKED_NAME_e612b2a64e MASKED_NAME_a9d546ab7e MASKED_NAME_ab8bad0ac0 , [RmNo.1] Sanit MASKED_NAME_3b6b4203ab MASKED_NAME_455ce4a931 , [RmNo.1] MASKED_NAME_92c2c97832 MASKED_NAME_e612b2a64e MASKED_NAME_ab8bad0ac0
+Room Type
+Tipo de Habitación      No. of Rooms
+Nº de habitaciones      Occupancy
+Ocupación       No. of Extra Bed
+Número de Camas Extra :
+Superior Room   2       4 Adults        0
+Nombre del Plan de Tarifas: PKG / SPECIAL OFFER - BB (O4BFSPK / B2B) (O4BFSPK)
+Benefits Included Servicios incluidos:
+Breakfast
+Special Requests Peticiones especiales ( All special requests are subject to availability upon arrival. Todos los requisitos especiales se encuentran sujetos a disponibilidad al momento del arrivo. )
+AdditionalNotes:none
+Cancellation Policy Política de cancelación
+Any cancellation received within 14 days prior to the arrival date will be charged for the entire stay.Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+¡Reserva sin riesgo! Puedes cancelar antes del 3 de mayo de 2026 sin pagar nada. Cualquier cancelación recibida con menos de 14 días de antelación a la fecha de llegada conlleva un cargo por penalización del importe completo de la reserva. No presentarse en el hotel o alojamiento se considera «No-Show» y conlleva un cargo por penalización de 100% del importe de la reserva (Política del Hotel).
+Room Habitación                 Extra Bed Cama extra            Other Other
+From - To Desde - Hasta         Rates Tarifa
+May 17, 2026            EUR 627.12
+May 18, 2026            EUR 664.56
+May 19, 2026            EUR 661.44
+Reference sell rate (incl. taxes & fees)
+Tarifa de venta de referencia (gastos y tasas incluidos)        EUR 2,504.00
+Commission
+Comisión        EUR -550.88
+
+From - To Desde - Hasta         Rates Tarifa
+
+Rate Channel Canal de Venta
+Partner Exclusive - B2B
+Benefit for Hotel
+You get 3% commission reduction as part of Agoda Intelligence
+Website Language Idioma del portal
+English
+Net rate (incl. taxes & fees)
+Tarifa Neta (gastos y tasas incluidos)
+
+EUR 1,953.12
+
+[http://img.agoda.net/images/sign/stamp_2025.jpg]       Booked and Payable by
+Reservado y a pagar por
+
+Agoda Company Pte, Ltd.
+36 Robinson Road, City House #20-01,
+Singapore 068877
+Card Type
+Tipo de Tarjeta         Card Number
+No de Tarjeta :         CVV-code
+CVV :   Expiry Date
+Válida hasta :  Card Holder Name
+Nombre del titular
+-       -       -       -       -
+UPC is hidden as requested, please refer to YCS extranet to obtain the necessary details.
+La tarjeta de Agoda (UPC) no se muestra, siguiendo sus indicaciones. Por favor consulte en la extranet de YCS para más información.
+Commission amount indicated is the remuneration for our service to you (the property) for facilitating the reservation in this transaction.
+El importe de la comisión indicada es la remuneración de nuestro servicio (a la propiedad) por facilitar la reserva de esta transacción.
+This booking does not require acknowledgement.
+ATENCION STAFF DEL HOTEL
+Debe asegurar lo siguiente al momento del check-in
+- El Huésped tiene la confirmación del hotel con los detalles correctos de la reserva
+- El cliente tiene una identificación con foto válida
+ATENCION STAFF DEL HOTEL
+Debe asegurar lo siguiente al momento del check-in
+- El Huésped tiene la confirmación del hotel con los detalles correctos de la reserva
+- El cliente tiene una identificación con foto válida
+Atención de Hoteles Agoda (Spain) : (34) 91 754 7013 | Cuestiones Generales: MASKED_EMAIL_2037568791
+Hotline instruction: Please have your property ID
+Servicio de Atención a hoteles: Debes tener el ID del establecimiento
+

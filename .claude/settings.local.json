@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /\")",
+      "Read(//Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/**)",
+      "Bash(mv \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Phase 2 - Taxonomy revision\" \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation\")",
+      "Bash(mkdir \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Sandbox\")",
+      "Bash(ls -la Sandbox/)",
+      "Bash(ls -la Implementation/)",
+      "Bash(cd \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation\" && mkdir -p app/models app/llm app/agents app/db app/api tests && python3 --version && echo \"---\" && ls -d app app/* tests)",
+      "Bash(python3 -m venv .venv)",
+      "Bash(./.venv/bin/pip install *)",
+      "Bash(./.venv/bin/python -c \"import app, app.config, app.llm, app.db, app.models.state; print\\('imports OK'\\)\")",
+      "Bash(./.venv/bin/pytest)",
+      "Bash(./.venv/bin/python -c ' *)",
+      "Bash(./.venv/bin/pytest tests/test_classifier_extractor.py tests/test_preprocessor.py tests/test_schema_contract.py tests/test_router_signals.py -v -k \"not real_email and not oracle\")",
+      "Bash(./.venv/bin/pytest tests/test_classifier_extractor.py -k real_email -q)",
+      "Bash(./.venv/bin/pytest -q -k \"not real_email and not oracle and not real_ollama and not classify_then_validate\")",
+      "Bash(timeout 180 ./.venv/bin/python -c ' *)",
+      "Bash(cd \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation\" && rm HANDOVER.md && echo \"HANDOVER.md removed\" && ls *.md)"
+    ],
+    "additionalDirectories": [
+      "/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation/app",
+      "/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation"
+    ]
+  }
+}

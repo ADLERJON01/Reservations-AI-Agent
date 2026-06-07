@@ -1,0 +1,211 @@
+subject: FW: Booking.com Booking for # 5360487678 for WIESENBACH DE LAMAZIERE, MASKED_NAME_bd5ebe55e2, Arriving 27-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:40:59+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:40:36 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Booking.com Booking for # 5360487678 for WIESENBACH DE LAMAZIERE, MASKED_NAME_bd5ebe55e2, Arriving 27-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_bd5ebe55e2 MASKED_NAME_12e4ebe349 DE LAMAZIERE
+
+Pestana - Rua Augusta |
+
+Check-in: 27-Feb-2026
+
+Check-out: 28-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5360487678
+
+Reservation Remarks:
+
+Recolha o pagamento dos clientes na sua propriedade. Para taxas de cancelamento ou de não comparência, por favor, aceda à extranet Estou a viajar em trabalho e poderei usar um cartão de crédito empresarial. Este cliente solicitou a fatura relativa à sua estadia, booker_is_genius
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+552.00 EUR
+
+Total Tax Amount:
+
+39.24 EUR
+
+Commission Payable:
+
+96.60 EUR
+
+ROOM - Quarto Duplo ou Twin Premium de Canto - General - Breakfast included
+
+Check In Date:
+
+27-Feb-2026
+
+Check Out Date:
+
+28-Feb-2026
+
+Guest:
+
+MASKED_NAME_bd5ebe55e2 MASKED_NAME_12e4ebe349 DE LAMAZIERE
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+276.00 EUR
+
+Total Tax Amount:
+
+19.62 EUR
+
+Commission Payable:
+
+48.30 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+O pequeno-almoço está incluído na tarifa do quarto.
+
+Extra Information:
+
+O pequeno-almoço está incluído na tarifa do quarto. Regulamento para Crianças e Camas Extra: São permitidas crianças de qualquer idade. Não adicionou nenhum berço. Não adicionou nenhuma cama extra. O número máximo de clientes no total é de 2. Condições para Depósitos/Pré-pagamentos: Não é necessário pré-pagamento. Condições de Cancelamento: O cliente pode cancelar gratuitamente até 2 dias antes da chegada. O cliente deverá pagar o valor total da reserva se cancelar nos 2 dias anteriores à data de chegada. Em caso de não comparência,, o hóspede terá de pagar o valor total da reserva.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+27-Feb-2026
+
+61428566
+
+276.00 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+IVA (6%)
+
+15.62 EUR
+
+imposto municipal
+
+4.00 EUR
+
+ROOM - Quarto Duplo ou Twin Premium de Canto - General - Breakfast included
+
+Check In Date:
+
+27-Feb-2026
+
+Check Out Date:
+
+28-Feb-2026
+
+Guest:
+
+MASKED_NAME_bd5ebe55e2 MASKED_NAME_12e4ebe349 DE LAMAZIERE
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+276.00 EUR
+
+Total Tax Amount:
+
+19.62 EUR
+
+Commission Payable:
+
+48.30 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+O pequeno-almoço está incluído na tarifa do quarto.
+
+Extra Information:
+
+O pequeno-almoço está incluído na tarifa do quarto. Regulamento para Crianças e Camas Extra: São permitidas crianças de qualquer idade. Não adicionou nenhum berço. Não adicionou nenhuma cama extra. O número máximo de clientes no total é de 2. Condições para Depósitos/Pré-pagamentos: Não é necessário pré-pagamento. Condições de Cancelamento: O cliente pode cancelar gratuitamente até 2 dias antes da chegada. O cliente deverá pagar o valor total da reserva se cancelar nos 2 dias anteriores à data de chegada. Em caso de não comparência,, o hóspede terá de pagar o valor total da reserva.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+27-Feb-2026
+
+61428566
+
+276.00 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+IVA (6%)
+
+15.62 EUR
+
+imposto municipal
+
+4.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+552.00 EUR
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/ae0f6e1e-2ed3-456f-9adb-635e12e20ef3/5360487678
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

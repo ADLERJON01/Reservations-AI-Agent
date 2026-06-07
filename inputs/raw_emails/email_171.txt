@@ -1,0 +1,157 @@
+subject: FW: Hotelbeds Booking for # 102-20197574 for SCHMELING, ENRIQUE  VON, Arriving 09-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:00:53+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:00:32 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 102-20197574 for SCHMELING, ENRIQUE VON, Arriving 09-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+ENRIQUE VON SCHMELING
+
+Pestana - CR7 Gran Vía |
+
+Check-in: 09-Apr-2026
+
+Check-out: 12-Apr-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+102-20197574
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+702.00 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - DOUBLE Superior
+
+Check In Date:
+
+09-Apr-2026
+
+Check Out Date:
+
+12-Apr-2026
+
+Guest:
+
+ENRIQUE VON SCHMELING
+
+MASKED_NAME_1625001f0e MASKED_NAME_3bf6000561 DE VON SCHMELING
+
+Age:
+
+30
+
+30
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+702.00 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=BAR OPAQUE BB, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+09-Apr-2026
+
+208.80 EUR
+
+10-Apr-2026
+
+241.20 EUR
+
+11-Apr-2026
+
+252.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+702.00 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-6022
+
+Expiry:
+
+XX28
+
+CVC:
+
+392
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+702.00 EUR
+
+Activation date:
+
+09-Apr-2026
+
+Deactivation date:
+
+06-Oct-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/83d7b182-e0aa-4a04-92f5-ed34c8654a5c/102-20197574
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

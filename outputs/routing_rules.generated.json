@@ -1,0 +1,102 @@
+{
+  "description": "Generated from app/agents/router.py route(). Documentation only; runtime behaviour is the Python router, not this file.",
+  "evaluation_order": "ascending priority; first matching guard wins",
+  "rules": [
+    {
+      "id": "R001_SCHEMA_INVALID",
+      "priority": 1,
+      "condition": "schema_valid is False (no usable LLM output)",
+      "action": "manual_review_unclear"
+    },
+    {
+      "id": "R002_FORCE_MANUAL",
+      "priority": 2,
+      "condition": "force_manual_review is True",
+      "action": "manual_review_unclear"
+    },
+    {
+      "id": "R003_OTHER_UNCLEAR",
+      "priority": 3,
+      "condition": "category == other_or_unclear",
+      "action": "manual_review_unclear"
+    },
+    {
+      "id": "R020_BN_SUSPECTED",
+      "priority": 20,
+      "condition": "booking_notification AND audit_finding == suspected_error",
+      "action": "audit_with_attention"
+    },
+    {
+      "id": "R021_BN_MISSING",
+      "priority": 21,
+      "condition": "booking_notification AND audit_finding == missing_fields",
+      "action": "audit_with_attention"
+    },
+    {
+      "id": "R022_BN_CLEAN_FLAGGED",
+      "priority": 22,
+      "condition": "booking_notification AND clean AND validator flagged",
+      "action": "audit_only_with_note"
+    },
+    {
+      "id": "R023_BN_CLEAN",
+      "priority": 23,
+      "condition": "booking_notification AND clean AND not flagged",
+      "action": "audit_only"
+    },
+    {
+      "id": "R024_BN_OTHER",
+      "priority": 24,
+      "condition": "booking_notification AND audit_finding == n/a (unexpected)",
+      "action": "audit_with_attention"
+    },
+    {
+      "id": "R030_INQ_POLICY",
+      "priority": 30,
+      "condition": "service_or_information_inquiry AND request_type == policy_or_general_question",
+      "action": "draft_reply_with_rag"
+    },
+    {
+      "id": "R031_INQ_WITHDRAWAL",
+      "priority": 31,
+      "condition": "service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment",
+      "action": "audit_only_with_note"
+    },
+    {
+      "id": "R032_INQ_DEFAULT",
+      "priority": 32,
+      "condition": "service_or_information_inquiry (any other request_type)",
+      "action": "escalate_to_reservations_team"
+    },
+    {
+      "id": "R040_PAYMENT",
+      "priority": 40,
+      "condition": "category == payment_billing_or_rate_issue",
+      "action": "escalate_to_payment_or_billing"
+    },
+    {
+      "id": "R041_INVENTORY",
+      "priority": 41,
+      "condition": "category == inventory_availability_or_stop_sales",
+      "action": "escalate_to_inventory_or_operations"
+    },
+    {
+      "id": "R042_SYSTEM",
+      "priority": 42,
+      "condition": "category == system_or_channel_delivery_exception",
+      "action": "escalate_to_technical_or_operations"
+    },
+    {
+      "id": "R043_CHANGE_CANCEL",
+      "priority": 43,
+      "condition": "category == booking_change_or_cancellation",
+      "action": "escalate_to_reservations_team"
+    },
+    {
+      "id": "R999_FALLBACK",
+      "priority": 999,
+      "condition": "no rule matched",
+      "action": "manual_review_unclear"
+    }
+  ]
+}

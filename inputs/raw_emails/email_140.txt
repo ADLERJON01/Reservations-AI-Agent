@@ -1,0 +1,155 @@
+subject: FW: Expedia Booking for # 2397773878 for VON SCHMELING, ANDREA, Arriving 09-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:02:06+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:01:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397773878 for VON SCHMELING, ANDREA, Arriving 09-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+ANDREA VON SCHMELING
+
+Pestana - CR7 Gran Vía | Expedia Affiliate Network
+
+Check-in: 09-Apr-2026
+
+Check-out: 12-Apr-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397773878
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+702.02 EUR
+
+ROOM - Superior Room - Breakfast Included OD Lite - Wholesale - LowestAvailableRate - MASKED_NUMBER_d51207eb74/MASKED_NUMBER_1ccbb0cf15
+
+Check In Date:
+
+09-Apr-2026
+
+Check Out Date:
+
+12-Apr-2026
+
+Guest:
+
+ANDREA VON SCHMELING
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+702.02 EUR
+
+Remarks:
+
+Expedia Collect Booking, 1 Queen Bed, Non-Smoking, ., Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+09-Apr-2026
+
+MASKED_NUMBER_1ccbb0cf15
+
+Promo Code: 10% Members deal
+
+208.80 EUR
+
+10-Apr-2026
+
+MASKED_NUMBER_1ccbb0cf15
+
+Promo Code: 10% Members deal
+
+241.21 EUR
+
+11-Apr-2026
+
+MASKED_NUMBER_1ccbb0cf15
+
+Promo Code: 10% Members deal
+
+252.01 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+702.02 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-4185
+
+Expiry:
+
+XX29
+
+CVC:
+
+591
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/83d7b182-e0aa-4a04-92f5-ed34c8654a5c/2397773878
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

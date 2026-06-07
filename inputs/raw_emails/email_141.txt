@@ -1,0 +1,139 @@
+subject: FW: Expedia Booking for # 2397774020 for MASKED_NAME_50f795dffe, MASKED_NAME_4552c70037, Arriving 01-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:02:26+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:02:12 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397774020 for MASKED_NAME_50f795dffe, MASKED_NAME_4552c70037, Arriving 01-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_4552c70037 MASKED_NAME_50f795dffe
+
+Pestana - Brussels | Expedia Affiliate Network
+
+Check-in: 01-Mar-2026
+
+Check-out: 02-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397774020
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+95.76 EUR
+
+ROOM - Standard Twin Room - BAR BB - Standalone - Derived - MASKED_NUMBER_607ad87500/MASKED_NUMBER_f109b7217c
+
+Check In Date:
+
+01-Mar-2026
+
+Check Out Date:
+
+02-Mar-2026
+
+Guest:
+
+MASKED_NAME_4552c70037 MASKED_NAME_50f795dffe
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+95.76 EUR
+
+Remarks:
+
+Expedia Collect Booking, 2 Twin Beds, Non-Smoking, Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+01-Mar-2026
+
+MASKED_NUMBER_f109b7217c
+
+Promo Code: Blue - Member 10% off
+
+95.76 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+95.76 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9911
+
+Expiry:
+
+XX29
+
+CVC:
+
+433
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/3c0e2e0b-4eb2-4233-8659-29c6e6fc04ee/2397774020
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

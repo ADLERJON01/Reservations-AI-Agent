@@ -1,0 +1,65 @@
+subject: FW: Pestana Sao Tome Ocean and Spa Hotel (Sao Tome)  2026-02-20/5694107
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:11:57+00:00
+
+body:
+
+________________________________
+De: Abreu Online Booking <MASKED_EMAIL_f9ec4f0942>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:11:36 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Pestana Sao Tome Ocean and Spa Hotel (Sao Tome) 2026-02-20/5694107
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Booking Report: New Booking
+
+This booking is confirmed.
+Do Not Reply to this email but please acknowledge its reception and share your internal confirmation number by clicking on the link below or open this address directly from your browser
+
+https://online.abreu.pt/CRSysDataManagement/servlet/ReportConfirmServlet?enc_data=SkuTVVy0ThwPQOmztGK16PMQAmWxXhaY6EnvnMXVuHqEolO4iOHA4AlCnLgx3BSdf0GODImpIsnzwtawpftePZ4XTgPpT0sChf+meCVQqIDEfFg7hQr7jqpnt57SF1VN
+
+Notes:
+
+CONTRACT TEXT: TO Rates (Pool Operadores)
+
+Hotel:  Pestana Sao Tome Ocean and Spa Hotel    City:   Sao Tome        Date:   20 Feb 2026
+! Mandatory reference for invoicing: 9669335-5694107
+Ref:    Ind:    Status: Check In:       Check Out:      Rooms:
+5694107 OK      FROM ALLOT      7 Mar 2026      11 Mar 2026     2x1Pax
+Client: MASKED_NAME_8dedd073a9/MASKED_NAME_982c1fae36
+
+Room:   Description:
+1       Standard Room
+(1 Adult, 0 Children) - Booked Occupation
+
+(1 Adult, 0 Children) - Invoiced Occupation
+Meal:
+Breakfast(FROM 07/03/2026 TO 11/03/2026)
+Title:  First Name:     Surname:
+Mr.     MASKED_NAME_8dedd073a9 MASKED_NAME_982c1fae36
+2       Standard Room
+(1 Adult, 0 Children) - Booked Occupation
+
+(1 Adult, 0 Children) - Invoiced Occupation
+Meal:
+Breakfast(FROM 07/03/2026 TO 11/03/2026)
+Title:  First Name:     Surname:
+Mr.     MASKED_NAME_1ebd3342ce MASKED_NAME_5d12db23a3
+
+Check In:       Check Out:      Rooms:  Use:    Rate:   Subtotal:
+7 Mar 2026      11 Mar 2026     1       Sgl     178.50 EUR/night        714.00 EUR
+7 Mar 2026      11 Mar 2026     --      Special Offer - FEBRUARY OFFER - 20% Discount   -142.80 EUR     -142.80 EUR
+7 Mar 2026      11 Mar 2026     --      Special Offer February 2026 - 5% Discount       -28.56 EUR      -28.56 EUR
+7 Mar 2026      11 Mar 2026     1       Sgl     178.50 EUR/night        714.00 EUR
+7 Mar 2026      11 Mar 2026     --      Special Offer - FEBRUARY OFFER - 20% Discount   -142.80 EUR     -142.80 EUR
+7 Mar 2026      11 Mar 2026     --      Special Offer February 2026 - 5% Discount       -28.56 EUR      -28.56 EUR
+Total:
+1085.28 EUR
+
+
+

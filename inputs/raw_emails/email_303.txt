@@ -1,0 +1,79 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:15:54+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:15:22 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_4ee1b06e14/main_logo_original.png]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021953584
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953584%2F3107810/1/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/wqHbY6DzOU85bX_GtkZCdF9v-vM=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021953584%2F3107810/2/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/DsDvT8rMCd4iZaC23en0hUTR5y4=466>
+
+Hotel Pestana Porto - A Brasileira *****
+
+Rua Sá da Bandeira 91
+
+4000-427 - Porto
+
+Telephone: +351 22 976 6470
+
+MASKED_EMAIL_3672a0b24c<mailto:MASKED_EMAIL_3672a0b24c>
+
+https://www.pestana.com/pt/hotel/pestana-porto-brasileira<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestana.com%2Fpt%2Fhotel%2Fpestana-porto-brasileira/1/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/zktqQ3hVzo3HptJ9H1obPleERII=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/_pNojubw0bnFAC7zDPuguaN4fg8=466>
+Your details
+
+Name: MASKED_NAME_378a8665f4 MASKED_NAME_898b9a5aa4
+
+E-mail: MASKED_EMAIL_8dac2be2ac<mailto:MASKED_EMAIL_8dac2be2ac>
+
+Telephone: +351 MASKED_NUMBER_70289ee607
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+Feb 28, 2026    Mar 01, 2026    1       1
+
+1 x Superior Deluxe: Special offer (2 adults (Aged 13 or more at checkout)).
+
+  *   Sat, Feb 28, 2026 Breakfast included 180.00 EUR
+  *   180.00 EUR
+(Taxes included)
+
+Booking total: 180.00 EUR
+(Taxes included)
+Not included 3.00 EUR per person per night of Local Tax from 13 y.o..
+
+Payment method
+
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+
+Cancellation policy
+
+This booking is cancelable until 11:00 of the Feb 26, 2026. If you cancel before the deadline you will not incur any charge, otherwise you will be charged the full amount of the stay. In case of no-show, the total amount of the stay will also be charged. When booking over 9 rooms, the cancellation policy and conditions to be applied to the booking will vary. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all the bookings.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_4ee1b06e14%26lang=en%26reservationCode=26021953584%26pinCode=3107810%26code=C79B70346575C9DEC2004D595FA347A739E217D9%26useWhiteLabel=true/1/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/pKAGxqf-etXgW7Zg4yeYsDFhKRQ=466>
+
+Booking code:   26021953584
+Cancellation code:      3107810
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c76af3ebf-ffa7bfb8-8c45-4630-a90a-02951e1f2e1f-000000/_nMwgpYSvQE-v2OpVd6GMW8aLiQ=466]

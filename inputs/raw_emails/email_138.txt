@@ -1,0 +1,149 @@
+subject: FW: Expedia Booking for # 2397769486 for MASKED_NAME_859cb99c93, MASKED_NAME_981bc00ba2, Arriving 09-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:51:54+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:51:29 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397769486 for MASKED_NAME_859cb99c93, MASKED_NAME_981bc00ba2, Arriving 09-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_981bc00ba2 MASKED_NAME_859cb99c93
+
+Pestana CR7 Times Square | Egencia
+
+Check-in: 09-Mar-2026
+
+Check-out: 12-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+2397769486
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+489.60 USD
+
+ROOM - Comfort Room - Standard Rate RO - Standalone - Derived - MASKED_NUMBER_96814650cb/MASKED_NUMBER_c7039b5847
+
+Check In Date:
+
+09-Mar-2026
+
+Check Out Date:
+
+12-Mar-2026
+
+Guest:
+
+MASKED_NAME_981bc00ba2 MASKED_NAME_859cb99c93
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+489.60 USD
+
+Remarks:
+
+Expedia Collect Booking, 1 Queen Bed, Non-Smoking, Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+09-Mar-2026
+
+MASKED_NUMBER_c7039b5847
+
+147.20 USD
+
+10-Mar-2026
+
+MASKED_NUMBER_c7039b5847
+
+179.20 USD
+
+11-Mar-2026
+
+MASKED_NUMBER_c7039b5847
+
+163.20 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+489.60 USD
+
+Credit Card Type:
+
+AX
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-8972
+
+Expiry:
+
+XX31
+
+CVC:
+
+8271
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/cb1c4acb-c234-4461-a61e-3c06aef208e9/2397769486
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

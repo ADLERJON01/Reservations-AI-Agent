@@ -1,0 +1,87 @@
+subject: FW: Booking.com Cancellation for # 6MASKED_TELEPHONE_7cf4107fea for MASKED_NAME_1f42c009f0, MASKED_NAME_f1ead2ee8a, Arriving 01-Aug-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:47:07+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:46:52 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Cancellation for # 6MASKED_TELEPHONE_7cf4107fea for MASKED_NAME_1f42c009f0, MASKED_NAME_f1ead2ee8a, Arriving 01-Aug-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+MASKED_NAME_f1ead2ee8a MASKED_NAME_1f42c009f0
+
+Pestana CR7 Marrakech Lifestyle |
+
+Check-in: 01-Aug-2026
+
+Check-out: 02-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+16-Feb-2026
+
+Cancelled On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+6MASKED_TELEPHONE_7cf4107fea
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+0.00 MAD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2701
+
+Expiry:
+
+XX27
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 MAD
+
+Activation date:
+
+30-Jul-2026
+
+Deactivation date:
+
+01-Aug-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/9b01989f-c4dc-4bae-b37f-5829d55c230b/6MASKED_TELEPHONE_7cf4107fea
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

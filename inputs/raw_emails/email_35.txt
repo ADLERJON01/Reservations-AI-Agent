@@ -1,0 +1,193 @@
+subject: FW: Booking.com Booking for # 5420631780 for MASKED_NAME_c088f04583, MASKED_NAME_83143d79cf, Arriving 29-Apr-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 17:06:55+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 17:06:34 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Booking.com Booking for # 5420631780 for MASKED_NAME_c088f04583, MASKED_NAME_83143d79cf, Arriving 29-Apr-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_83143d79cf MASKED_NAME_c088f04583
+
+Pestana - Vila Sol |
+
+Check-in: 29-Apr-2026
+
+Check-out: 02-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5420631780
+
+Reservation Remarks:
+
+Recebeu um cartão de crédito virtual associado a esta reserva.Poderá fazer a cobrança a partir de 2026-04-27. Approximate time of arrival: between 11:00 and 12:00 I will staying at the hotel from 26/4/26 to 29/4/26 booked with "Golf Breaks". Please could I stay in the same room and not have to move on 29/4/26?
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+500.09 EUR
+
+Total Tax Amount:
+
+34.31 EUR
+
+Commission Payable:
+
+112.52 EUR
+
+ROOM - Superior Garden - Single Use - General - Breakfast included
+
+Check In Date:
+
+29-Apr-2026
+
+Check Out Date:
+
+02-May-2026
+
+Guest:
+
+MASKED_NAME_83143d79cf MASKED_NAME_c088f04583
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+500.09 EUR
+
+Total Tax Amount:
+
+34.31 EUR
+
+Commission Payable:
+
+112.52 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+O pequeno-almoço está incluído na tarifa do quarto.
+
+Extra Information:
+
+O pequeno-almoço está incluído na tarifa do quarto. Regulamento para Crianças e Camas Extra: São permitidas crianças de qualquer idade. Não adicionou nenhum berço. Não adicionou nenhuma cama extra. O número máximo de clientes no total é de 3. Condições para Depósitos/Pré-pagamentos: Não é necessário pré-pagamento. Condições de Cancelamento: O cliente pode cancelar gratuitamente até 2 dias antes da chegada. O cliente deverá pagar o valor total da reserva se cancelar nos 2 dias anteriores à data de chegada.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+29-Apr-2026
+
+1885220
+
+137.88 EUR
+
+30-Apr-2026
+
+1885220
+
+163.13 EUR
+
+01-May-2026
+
+1885220
+
+199.08 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+IVA (6%)
+
+28.31 EUR
+
+imposto municipal
+
+6.00 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+500.09 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-7744
+
+Expiry:
+
+XX27
+
+CVC:
+
+901
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 EUR
+
+Activation date:
+
+27-Apr-2026
+
+Deactivation date:
+
+01-May-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/30b51d7f-8114-11e5-a029-02602716bbb1/5420631780
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

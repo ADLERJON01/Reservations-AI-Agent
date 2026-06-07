@@ -1,0 +1,82 @@
+subject: FW: Modified Reservation
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 17:04:20+00:00
+
+body:
+
+________________________________
+De: Mirai <MASKED_EMAIL_604026f4f3>
+Enviado: quinta-feira, 19 de fevereiro de 2026 17:03:53 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Modified Reservation
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://images.mirai.com/LOGOS/MASKED_NUMBER_3ed0681030/main_logo_original.png]
+
+null Find next what you have sent to the guest:
+
+Booking code: 26021058740
+
+  *   [Apple Wallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021058740%2F6833299/1/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/B7I8FZjm0SbHV1_5ZCg6GODRSv8=466>
+  *   [Passwallet]  <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fapi.mirai.com%2FMiraiWebService%2Fpassbook%2F26021058740%2F6833299/2/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/QVNx01DL-P-rU8Rj0EqWO1mSsH8=466>
+
+Hotel Pestana Viking ****
+
+Praia Senhora da Rocha
+
+8400-450 - Porches/Lagoa
+
+Telephone: MASKED_TELEPHONE_828a776c3a
+
+MASKED_EMAIL_d40967728d<mailto:MASKED_EMAIL_d40967728d>
+
+https://www.pestana.com/en/hotel/pestana-viking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.pestana.com%2Fen%2Fhotel%2Fpestana-viking/1/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/H83pZ4rKQjblUT5e56jgyXvNXsE=466>
+
+[https://maps.googleapis.com/maps/api/staticmap?center=,&zoom=&size=600x150&markers=color:red|,&key=AIzaSyAKDBjUr7k3BVlRQRa1V4HunaseR-V0wIo] <https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Fmaps.google.com%2Fmaps%3F%26z=%26q=%2B%26ll=%2B/1/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/BJVBOUO7bQ6oGENhdPDJyqVDzG0=466>
+Your details
+
+Name: MASKED_NAME_6797bf9be3 MASKED_NAME_21846cf788
+
+E-mail: MASKED_EMAIL_a22ad8213b<mailto:MASKED_EMAIL_a22ad8213b>
+
+Telephone: +351 MASKED_NUMBER_05b8d0bcbd
+
+Dates and rooms
+Check-in:       Check-out:      Nights: Room:
+Feb 26, 2026    Mar 02, 2026    4       1
+
+1 x Deluxe Partial Sea View: Non Refundable Rate (2 adults (Aged 13 or more at checkout)).
+
+  *   Thu, Feb 26, 2026 Breakfast Included 65.25 EUR
+  *   Fri, Feb 27, 2026 Breakfast Included 65.25 EUR
+  *   Sat, Feb 28, 2026 Breakfast Included 65.25 EUR
+  *   Sun, Mar 1, 2026 Breakfast Included 65.25 EUR
+  *   261.00 EUR
+(Taxes included)
+
+Booking total: 261.00 EUR
+(Taxes included)
+Not included 1.00 EUR per person per night of Local Tax from 13 y.o.. Also not included 2.00 EUR per person per night of Local Tax from 13 y.o.. Also not included 1.00 EUR per person per night of Local Tax from 13 y.o..
+
+Payment method
+
+Pay on arrival at the property. Credit Card only as a booking guarantee.
+
+Cancellation policy
+
+This reservation is non cancellable. If you cancel it or in case of no-show, the total amount of the stay will be charged. When booking over 9 rooms, the cancellation policy and conditions to be applied to the booking will vary. If the conditions are not accepted by the customer, the hotel reserves the right to cancel all the bookings.
+
+To view or cancel the booking, you will need: Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/https:%2F%2Freservation.mirai.com%2FXMAS%2Freservation%2Fforwarder_manage_reservation.htm%3FidHotel=MASKED_NUMBER_3ed0681030%26lang=en%26reservationCode=26021058740%26pinCode=6833299%26code=35804BFBC64ACCCABE39D51E62D6BE93AB19058E%26useWhiteLabel=true/1/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/drW_PXtLQ563t03B9X1uuf78SyI=466>
+
+Booking code:   26021058740
+Cancellation code:      6833299
+Privacy policy
+
+  *   Do you accept the privacy policy of this web site?: Yes
+
+[https://9q1sp24m.r.eu-west-1.awstrack.me/I0/0102019c76dbab57-c56ca096-0aec-4760-84bb-021cb6b487b3-000000/34suJdm3qI2xvjrSdw68goz0n90=466]

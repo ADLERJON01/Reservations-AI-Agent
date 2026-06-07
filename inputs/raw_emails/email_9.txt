@@ -1,0 +1,89 @@
+subject: FW: Agoda Booking ID MASKED_NUMBER_03b41506c1 - CONFIRMED Hotel Country: Spain Check-in February 24, 2026 / Language_English
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:34:33+00:00
+
+body:
+
+________________________________
+De: agoda.com <MASKED_EMAIL_ba1aa12653>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:34:11 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Agoda Booking ID MASKED_NUMBER_03b41506c1 - CONFIRMED Hotel Country: Spain Check-in February 24, 2026 / Language_English
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/booking_voucher_banner_updated.png]
+        [https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/YCS%20_icon_booking_voucher.png]
+
+        Discover traveler trends and booking performance in one place.
+
+
+VIEW YOUR INSIGHTS NOW <http://tracking.agoda.com/click?redirectUrl=https%3A%2F%2Fycs.agoda.com%2Fmldc%2Fen-us%2Fapp%2Freporting%2Fdashboard%2F60235812&uuid=20260220-2d01-410b-9cbc-81165aec5137&name=HotelVoucherBanner&channel=email&propertyid=60235812&countryid=167&userid=cf016469-76c7-4447-a15c-83de8b0df706&source=partcomm_pigeon>
+
+[agoda]
+IATA 96-6 3780 0
+Booking ID
+MASKED_NUMBER_03b41506c1
+Reservation Information
+PREPAID
+Booking confirmation
+Pestana CR7 Gran Via Madrid
+(Property ID 60235812)
+City : Madrid
+Marsha Code :
+Customer First Name     MASKED_NAME_f525c9244c
+Customer Last Name      MASKED_NAME_860d7242f1 MASKED_NAME_5dbe1fc05e
+Check-in        February 24, 2026
+Check-out       February 25, 2026
+Other Guests    [RmNo.1] MASKED_NAME_f525c9244c MASKED_NAME_860d7242f1 MASKED_NAME_5dbe1fc05e , [RmNo.1] Guest of MASKED_NAME_f525c9244c MASKED_NAME_860d7242f1 MASKED_NAME_5dbe1fc05e
+Room Type       No. of Rooms    Occupancy       No. of Extra Bed
+Superior Room   1       2 Adults        0
+Rate Plan name: BAR - RO (B2C) ()
+Benefits Included
+Free WiFi
+Cancellation Policy
+Any cancellation received within 2 days prior to the arrival date will be charged for the entire stay.Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+Stay flexible! Cancel for free before February 22, 2026 Any cancellation received within 2 days prior to the arrival date will be charged for the entire stay. Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+Room            Extra Bed               Other
+From - To       Rates
+February 24, 2026               EUR 157.06
+Reference sell rate (incl. taxes & fees)        EUR 188.10
+Commission      EUR -31.04
+
+From - To       Rates
+
+Promotion :
+Limited Time Offer. Price includes 10% discount!
+Rate Channel
+Private Sale
+Benefit for Hotel
+You get 3% commission reduction as part of Agoda Intelligence
+Net rate (incl. taxes & fees)
+
+EUR 157.06
+
+[http://img.agoda.net/images/sign/stamp_2025.jpg]       Booked and Payable by
+
+Agoda Company Pte, Ltd.
+36 Robinson Road, City House #20-01,
+Singapore 068877
+Card Type       Card Number     CVV-code        Expiry Date     Card Holder Name
+-       -       -       -       -
+UPC is hidden as requested, please refer to YCS extranet to obtain the necessary details.
+Commission amount indicated is the remuneration for our service to you (the property) for facilitating the reservation in this transaction.
+This booking does not require acknowledgement.
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Agoda Hotline (Spain) : (34) 91 754 7013 | General Questions: MASKED_EMAIL_2037568791
+Hotline instruction: Please have your property ID
+

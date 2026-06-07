@@ -1,0 +1,185 @@
+subject: FW: Booking.com Booking for # 6521373339 for MASKED_NAME_ee8d1e8705, MASKED_NAME_32ad357f1a, Arriving 18-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:03:34+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:03:17 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 6521373339 for MASKED_NAME_ee8d1e8705, MASKED_NAME_32ad357f1a, Arriving 18-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_32ad357f1a MASKED_NAME_ee8d1e8705
+
+Pestana CR7 Times Square |
+
+Check-in: 18-Mar-2026
+
+Check-out: 19-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6521373339
+
+Reservation Remarks:
+
+You've received a virtual credit card for this reservation.You can charge it as of 2026-03-16., booker_is_genius
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+249.00 USD
+
+Total Tax Amount:
+
+70.06 USD
+
+Commission Payable:
+
+48.12 USD
+
+ROOM - Comfort Room - General
+
+Check In Date:
+
+18-Mar-2026
+
+Check Out Date:
+
+19-Mar-2026
+
+Guest:
+
+MASKED_NAME_32ad357f1a MASKED_NAME_ee8d1e8705
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+249.00 USD
+
+Total Tax Amount:
+
+70.06 USD
+
+Commission Payable:
+
+48.12 USD
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+No meal is included in this room rate.
+
+Extra Information:
+
+No meal is included in this room rate. Children and Extra Bed Policy: Children 3 and older are allowed. You haven't added any cribs. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: The guest will be charged a prepayment of the total price of the reservation in the 2 days before arrival. Cancellation Policy: The guest can cancel free of charge until 2 days before arrival. The guest will be charged the total price of the reservation if they cancel in the 2 days before arrival.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+18-Mar-2026
+
+22342279
+
+249.00 USD
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+Resort fee
+
+26.00 USD
+
+City tax
+
+3.50 USD
+
+TAX (14.75%)
+
+40.56 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+249.00 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-8879
+
+Expiry:
+
+XX31
+
+CVC:
+
+133
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 USD
+
+Activation date:
+
+16-Mar-2026
+
+Deactivation date:
+
+01-Feb-2031
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/cb1c4acb-c234-4461-a61e-3c06aef208e9/6521373339
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

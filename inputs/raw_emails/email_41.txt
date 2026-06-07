@@ -1,0 +1,185 @@
+subject: FW: Booking.com Booking for # 5MASKED_TELEPHONE_182183adb7 for MASKED_NAME_4cfb0622f9, MASKED_NAME_1625001f0e, Arriving 28-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:05:09+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:04:50 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 5MASKED_TELEPHONE_182183adb7 for MASKED_NAME_4cfb0622f9, MASKED_NAME_1625001f0e, Arriving 28-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_1625001f0e MASKED_NAME_4cfb0622f9
+
+Pestana - Orlando Suites Lake Buena Vista |
+
+Check-in: 28-Feb-2026
+
+Check-out: 01-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5MASKED_TELEPHONE_182183adb7
+
+Reservation Remarks:
+
+You've received a virtual credit card for this reservation.You can charge it as of 2026-02-21.
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD, Type: PrePay, Description: payment_on_Booking.com (Payout type: Virtual credit card)
+
+Guest Count:
+
+Number of adults : 3
+
+Total Price:
+
+188.00 USD
+
+Total Tax Amount:
+
+35.88 USD
+
+Commission Payable:
+
+34.83 USD
+
+ROOM - Double Queen Suite Triple - Special Conditions 2 - 20% Basic Deal
+
+Check In Date:
+
+28-Feb-2026
+
+Check Out Date:
+
+01-Mar-2026
+
+Guest:
+
+MASKED_NAME_1625001f0e MASKED_NAME_4cfb0622f9
+
+Age:
+
+Guest Count:
+
+Number of adults : 3
+
+Total Price:
+
+188.00 USD
+
+Total Tax Amount:
+
+35.88 USD
+
+Commission Payable:
+
+34.83 USD
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Enjoy a convenient Breakfast at the property for US$17 per person, per night.
+
+Extra Information:
+
+Enjoy a convenient Breakfast at the property for US$17 per person, per night. Children and Extra Bed Policy: Children of all ages are allowed. 1 child (up to and including 3 years old) stays for free when using available cribs. You haven't added any extra beds. The maximum number of cribs is 1. The maximum number of guests is 3. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 7 days before arrival. The guest will be charged the total price of the reservation if they cancel in the 7 days before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+28-Feb-2026
+
+42420113
+
+20% Basic Deal
+
+Derived Rate : 0
+
+188.00 USD
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+Resort fee
+
+11.00 USD
+
+TAX (12.5%)
+
+24.88 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+188.00 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1579
+
+Expiry:
+
+XX31
+
+CVC:
+
+405
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+223.88 USD
+
+Activation date:
+
+21-Feb-2026
+
+Deactivation date:
+
+01-Feb-2031
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/f6953a71-227d-4915-acd7-fff19b0827ad/5MASKED_TELEPHONE_182183adb7
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

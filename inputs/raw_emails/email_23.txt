@@ -1,0 +1,68 @@
+subject: FW: Booking – Schauinsland - PCARLTON
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:44:18+00:00
+
+body:
+
+________________________________
+De: MASKED_NAME_64a3dc9982 MASKED_NAME_2b840b4dcf <MASKED_EMAIL_5005ef6370>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:44:01 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking – Schauinsland - PCARLTON
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+Exmo Caro Parceiro, Favor notar abaixo reservas novas, cancelamentos e alterações por parte do Operador Schauinsland. Aguardamos a vossa resposta a este email até 24 horas. Findo este prazo vamos considerar que a reservas/cancelamento/alteração está confirmada.
+HOTEL
+Checkin
+Voo C
+Hora C
+Nº A
+Nº C
+Checkout
+Voo S
+Hora S
+Nome
+Essen
+Nº Reserva
+Estado
+Tip. Quarto
+Nº Noites
+Obs
+Data de Reserva
+Pacotes
+Idades
+PCARLTON
+19/03/2026
+1
+0
+22/03/2026
+GEISLER, BAERBEL
+F
+D228593
+Nova reserva
+DZ=EZ Superior Meerblick
+3
+19/02/2026
+0
+PCARLTON
+24/08/2026
+DE 6578
+16:55
+2
+0
+03/09/2026
+DE 6579
+10:55
+KLINGNER, ALFRED/ KLINGNER, PIA
+F
+D222693
+Favor notar Cancelamento
+Doppelzimmer Meerblick
+10
+19/02/2026
+63 , 59
+

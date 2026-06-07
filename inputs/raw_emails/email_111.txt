@@ -1,0 +1,151 @@
+subject: FW: Expedia Booking for # 2397156083 for MASKED_NAME_157650a638, MASKED_NAME_d80d3a72db, Arriving 20-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:43:30+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:43:13 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397156083 for MASKED_NAME_157650a638, MASKED_NAME_d80d3a72db, Arriving 20-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_d80d3a72db MASKED_NAME_157650a638
+
+Pestana - Orlando Suites Lake Buena Vista | Hotels.com
+
+Check-in: 20-Feb-2026
+
+Check-out: 22-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397156083
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+256.50 USD
+
+Total Tax Amount:
+
+28.50 USD
+
+ROOM - Superior Suite, 2 Queen Beds (Double Queen Superior Suite) - BAR RO - Standalone - Derived - MASKED_NUMBER_e1a8d23c74/MASKED_NUMBER_ef0b481d0f
+
+Check In Date:
+
+20-Feb-2026
+
+Check Out Date:
+
+22-Feb-2026
+
+Guest:
+
+MASKED_NAME_d80d3a72db MASKED_NAME_157650a638
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+256.50 USD
+
+Total Tax Amount:
+
+28.50 USD
+
+Remarks:
+
+Expedia Collect Booking, Virtual card will be activated from the day of Check-in., Value Add Promotion: USD 20 food and beverage (soft drinks) credit per stay
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+20-Feb-2026
+
+MASKED_NUMBER_ef0b481d0f
+
+112.00 USD
+
+21-Feb-2026
+
+MASKED_NUMBER_ef0b481d0f
+
+116.00 USD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+256.50 USD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1182
+
+Expiry:
+
+XX29
+
+CVC:
+
+989
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/f6953a71-227d-4915-acd7-fff19b0827ad/2397156083
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

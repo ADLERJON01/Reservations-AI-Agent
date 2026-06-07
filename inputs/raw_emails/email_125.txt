@@ -1,0 +1,149 @@
+subject: FW: Expedia Booking for # 2397199491 for veasey, anna, Arriving 03-May-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:46:20+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:46:02 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Expedia Booking for # 2397199491 for veasey, anna, Arriving 03-May-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+anna veasey
+
+Pestana - Plaza Mayor Madrid | Hotels.com
+
+Check-in: 03-May-2026
+
+Check-out: 06-May-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397199491
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1112.00 EUR
+
+ROOM - Deluxe Plaza Mayor - Room Only - Standalone - Derived - MASKED_NUMBER_3f1f0a2bfd/MASKED_NUMBER_8768432398
+
+Check In Date:
+
+03-May-2026
+
+Check Out Date:
+
+06-May-2026
+
+Guest:
+
+anna veasey
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1112.00 EUR
+
+Remarks:
+
+Expedia Collect Booking, Prefer feather bedding, king bed, higher floor room, fresh milk in fridge for tea/coffee, celebrating my birthday on May 4, Virtual card will be activated from the day of Check-in., Value Add Promotion: 20% off food and beverage (once per stay)
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+03-May-2026
+
+MASKED_NUMBER_8768432398
+
+362.40 EUR
+
+04-May-2026
+
+MASKED_NUMBER_8768432398
+
+368.80 EUR
+
+05-May-2026
+
+MASKED_NUMBER_8768432398
+
+380.80 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1112.00 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-1374
+
+Expiry:
+
+XX29
+
+CVC:
+
+687
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/c331a988-6b0f-41be-bc6e-0560b864d32c/2397199491
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

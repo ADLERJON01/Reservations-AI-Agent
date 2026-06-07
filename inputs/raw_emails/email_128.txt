@@ -1,0 +1,137 @@
+subject: FW: Expedia Booking for # 2397205494 for MASKED_NAME_40fc830d4e MASKED_NAME_b0dea00934, MASKED_NAME_2ef6621447, Arriving 17-Aug-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:51:35+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:51:14 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Expedia Booking for # 2397205494 for MASKED_NAME_40fc830d4e MASKED_NAME_b0dea00934, MASKED_NAME_2ef6621447, Arriving 17-Aug-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_2ef6621447 MASKED_NAME_40fc830d4e MASKED_NAME_b0dea00934
+
+Pestana - Pousada Castelo De Obidos | Expedia Affiliate Network
+
+Check-in: 17-Aug-2026
+
+Check-out: 18-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397205494
+
+Guarantee Information:
+
+GuaranteeType: VIRTUAL CREDITCARD
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+259.20 EUR
+
+ROOM - Superior Room, Balcony - Breakfast Included OD Lite - Wholesale - LowestAvailableRate - MASKED_NUMBER_918d972968/MASKED_NUMBER_f3c8e975d6
+
+Check In Date:
+
+17-Aug-2026
+
+Check Out Date:
+
+18-Aug-2026
+
+Guest:
+
+MASKED_NAME_2ef6621447 MASKED_NAME_40fc830d4e MASKED_NAME_b0dea00934
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+259.20 EUR
+
+Remarks:
+
+Expedia Collect Booking, 1 Double Bed, Non-Smoking, Multi-room booking. Primary traveler:MASKED_NAME_b0dea00934, Timothy. 2 of 2 rooms., Travel Agent. Please provide nice room, if possible upgrade., Virtual card will be activated from the day of Check-in.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+17-Aug-2026
+
+MASKED_NUMBER_f3c8e975d6
+
+259.20 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+259.20 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Expedia VirtualCard
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-6091
+
+Expiry:
+
+XX29
+
+CVC:
+
+156
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+
+
+Activation date:
+
+
+
+Deactivation date:
+
+
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/30c0b6b8-8114-11e5-a029-02602716bbb1/2397205494
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

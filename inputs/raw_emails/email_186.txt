@@ -1,0 +1,225 @@
+subject: FW: Hotelbeds Booking for # 59-5750881 for MASKED_NAME_e66a98228a, MASKED_NAME_1625001f0e , Arriving 05-Aug-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:15:39+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:15:16 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Hotelbeds Booking for # 59-5750881 for MASKED_NAME_e66a98228a, MASKED_NAME_1625001f0e , Arriving 05-Aug-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_1625001f0e MASKED_NAME_e66a98228a
+
+Pestana - Pousada Castelo De Obidos |
+
+Check-in: 05-Aug-2026
+
+Check-out: 06-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+59-5750881
+
+Guest Count:
+
+Number of adults : 6
+
+Total Price:
+
+674.40 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+ROOM - Double or Twin Double or twin with views
+
+Check In Date:
+
+05-Aug-2026
+
+Check Out Date:
+
+06-Aug-2026
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+224.80 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Remarks:
+
+Double bed / Non-smoking room / Adjacent rooms
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=CGW-BAR, Contract Description=Free Sale
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+05-Aug-2026
+
+224.80 EUR
+
+ROOM - Double or Twin Double or twin with views
+
+Check In Date:
+
+05-Aug-2026
+
+Check Out Date:
+
+06-Aug-2026
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+224.80 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Remarks:
+
+Double bed / Non-smoking room / Adjacent rooms
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=CGW-BAR, Contract Description=Free Sale
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+05-Aug-2026
+
+224.80 EUR
+
+ROOM - Double or Twin Double or twin with views
+
+Check In Date:
+
+05-Aug-2026
+
+Check Out Date:
+
+06-Aug-2026
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+224.80 EUR
+
+Total Tax Amount:
+
+0.00 EUR
+
+Remarks:
+
+Double bed / Non-smoking room / Adjacent rooms
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=CGW-BAR, Contract Description=Free Sale
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+05-Aug-2026
+
+224.80 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+674.40 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-2009
+
+Expiry:
+
+XX28
+
+CVC:
+
+414
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+674.40 EUR
+
+Activation date:
+
+06-Aug-2026
+
+Deactivation date:
+
+02-Feb-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/30c0b6b8-8114-11e5-a029-02602716bbb1/59-5750881
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

@@ -1,0 +1,262 @@
+subject: FW: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312    [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:28:23+00:00
+
+body:
+
+________________________________
+De: MASKED_NAME_6bac08a2a6 MASKED_NAME_6736a2dbf4 <MASKED_EMAIL_1f846ff24d>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:27:54 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>; MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c <MASKED_EMAIL_516c5f52ab>
+Cc: Golf Algarve <MASKED_EMAIL_130f7dd506>; MASKED_NAME_35cb385bdf MASKED_NAME_c257abadc6 <MASKED_EMAIL_2239f36c73>
+Assunto: RE: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+Good morning, all,
+
+The way we rollover doesn’t specify that we have rolled over with +5%. We firmly load the rates into our system with the 5% increase on the base rate of the 2026 contract for next year.
+
+The agreed rollover was +5% on contracted rates. The contracted rates include the EBD. Our estimate, agreed with MASKED_NAME_35cb385bdf, is that there will be around a 5% increase to the base rate for the 2027 contract, which will include the EBD as these are early bookings. This is therefore how we have implemented it.
+
+If it would make things clearer for the reservations team next year, we could instead rollover at the same base rate and exclude the EBD from the rollover, this is something we do with some other accounts.
+
+In any case, the resulting rate reflects the intended 5% increase.
+
+Apologies if this has caused difficulties for your team. My understanding was that as long as the final rate aligned with the agreed increase, it would not create any issues.
+
+Best regards,
+
+MASKED_NAME_6bac08a2a6 MASKED_NAME_6736a2dbf4
+​​​​
+Product Manager – Europe
+Direct: 01753911369<tel:01753911369>
+Main: 01753752900<tel:01753752900>
+[cid:image001.png@01DCA25A.0CD452B0]
+
+From: MASKED_EMAIL_851d9c9d5e <MASKED_EMAIL_851d9c9d5e>
+Sent: 20 February 2026 11:14
+To: MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c <MASKED_EMAIL_516c5f52ab>
+Cc: MASKED_NAME_6bac08a2a6 MASKED_NAME_6736a2dbf4 <MASKED_EMAIL_1f846ff24d>; MASKED_EMAIL_130f7dd506; MASKED_EMAIL_2239f36c73
+Subject: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+Good Morning, Please note that we didn't said that you cannot add 5% of EBD. What we are saying is that in the reservation you do not specify that you applied +5% rollover and if you add the rollover +5 and then do -5 for EBD then the difference
+ZjQcmQRYFpfptBannerStart
+This Message Is From an External Sender
+This message came from outside your organization.
+ZjQcmQRYFpfptBannerEnd
+Good Morning,
+
+Please note that we didn't said that you cannot add 5% of EBD.
+
+What we are saying is that in the reservation you do not specify that you applied +5% rollover and if you add the rollover +5 and then do -5 for EBD then the difference is 0.30€ per night.
+
+Melhores Cumprimentos/ Best Regards,
+
+MASKED_NAME_38e02a3de4 MASKED_NAME_ab79e0e640 MASKED_NAME_54777f9aa0
+______________________________________________________________
+
+PESTANA HOTEL GROUP
+Global Reservations Office
+E.: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e> or MASKED_EMAIL_ad2337faa9<mailto:MASKED_EMAIL_ad2337faa9>
+T.:MASKED_TELEPHONE_27812414f9
+
+
+--------------- Original Message ---------------
+From: MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c [MASKED_EMAIL_d5d8929ae1]
+Sent: 19/02/2026, 11:45
+To: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_d004fbfa24<mailto:MASKED_EMAIL_d004fbfa24>; MASKED_EMAIL_130f7dd506<mailto:MASKED_EMAIL_130f7dd506>; MASKED_EMAIL_2239f36c73<mailto:MASKED_EMAIL_2239f36c73>
+Subject: RE: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+
+Good morning MASKED_NAME_38e02a3de4,
+
+Thank you for your response regarding Mr MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f’s booking (771977).
+
+Please be advised that our agreement is an increase of 5% on the 2026 contact rates and inclusive of our 5% EBD, which has been agreed with MASKED_NAME_35cb385bdf.
+
+Please can you confirm the 5% rollover and the 5% EBD for this booking?
+
+Thank you
+
+MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c
+????
+European Product Assistant
+
+Direct: 01753911157<tel:01753911157>
+Main: 01753752900<tel:01753752900>
+[cid:image001.png@01DCA25A.0CD452B0]
+
+From: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e> <MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>>
+Sent: Monday, February 16, 2026 2:49 PM
+To: MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c <MASKED_EMAIL_516c5f52ab<mailto:MASKED_EMAIL_516c5f52ab>>
+Cc: MASKED_EMAIL_130f7dd506<mailto:MASKED_EMAIL_130f7dd506>
+Subject: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+Good afternoon, If you apply the rollover +5%, you cannot use -5% EBD because that will be 0 on the end. Melhores Cumprimentos/ Best Regards, MASKED_NAME_38e02a3de4 MASKED_NAME_ab79e0e640 MASKED_NAME_54777f9aa0 ______________________________________________________________ PESTANA HOTEL GROUP Global
+ZjQcmQRYFpfptBannerStart
+This Message Is From an External Sender
+This message came from outside your organization.
+ZjQcmQRYFpfptBannerEnd
+Good afternoon,
+
+If you apply the rollover +5%, you cannot use -5% EBD because that will be 0 on the end.
+
+[cid:image002.png@01DCA25A.0CD452B0]
+
+Melhores Cumprimentos/ Best Regards,
+
+MASKED_NAME_38e02a3de4 MASKED_NAME_ab79e0e640 MASKED_NAME_54777f9aa0
+______________________________________________________________
+
+PESTANA HOTEL GROUP
+Global Reservations Office
+E.: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e> or MASKED_EMAIL_ad2337faa9<mailto:MASKED_EMAIL_ad2337faa9>
+T.:MASKED_TELEPHONE_27812414f9
+
+
+--------------- Original Message ---------------
+From: MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c [MASKED_EMAIL_d5d8929ae1]
+Sent: 12/02/2026, 13:44
+To: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_130f7dd506<mailto:MASKED_EMAIL_130f7dd506>
+Subject: RE: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+
+Good afternoon MASKED_NAME_38e02a3de4,
+
+We have applied 2026 rates + 5% rollover for 2027 travel.
+
+Please can you confirm whether we are meant to be applying the same rate as 2026?
+
+Thank you
+
+MASKED_NAME_b08f64cca0 MASKED_NAME_842fb9050c
+????
+European Product Assistant
+
+Direct: 01753911157<tel:01753911157>
+Main: 01753752900<tel:01753752900>
+[cid:image001.png@01DCA25A.0CD452B0]
+
+From: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e> <MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>>
+Sent: Thursday, February 5, 2026 4:31 PM
+To: Partner Confirmations <MASKED_EMAIL_55ebe8b8e4<mailto:MASKED_EMAIL_55ebe8b8e4>>
+Cc: MASKED_EMAIL_130f7dd506<mailto:MASKED_EMAIL_130f7dd506>
+Subject: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063### - Case Number: 03241312 [ ref:!00D0N0gGNy.!500MI0jHGzO:ref ]
+
+_Good afternoon, Please apply the rollover. Reservation not accepted Melhores Cumprimentos/ Best Regards, MASKED_NAME_38e02a3de4 MASKED_NAME_ab79e0e640 MASKED_NAME_54777f9aa0 ______________________________________________________________ PESTANA HOTEL GROUP Global Reservations Office E.?: trade@?pestana.?com<mailto:trade@?pestana.?com>
+ZjQcmQRYFpfptBannerStart
+This Message Is From an External Sender
+This message came from outside your organization.
+ZjQcmQRYFpfptBannerEnd
+_Good afternoon,
+
+Please apply the rollover.
+
+Reservation not accepted
+
+Melhores Cumprimentos/ Best Regards,
+
+MASKED_NAME_38e02a3de4 MASKED_NAME_ab79e0e640 MASKED_NAME_54777f9aa0
+______________________________________________________________
+
+PESTANA HOTEL GROUP
+Global Reservations Office
+E.: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e> or MASKED_EMAIL_ad2337faa9<mailto:MASKED_EMAIL_ad2337faa9>
+T.:MASKED_TELEPHONE_27812414f9
+
+
+--------------- Original Message ---------------
+From: MASKED_EMAIL_55ebe8b8e4<mailto:MASKED_EMAIL_55ebe8b8e4> [MASKED_EMAIL_55ebe8b8e4]
+Sent: 04/02/2026, 13:49
+To: MASKED_EMAIL_851d9c9d5e<mailto:MASKED_EMAIL_851d9c9d5e>
+Subject: Golfbreaks.com - please confirm booking 771977 - (16-Feb-2027) - (MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f) - ###1764063###
+
+
+[Image removed by sender. Golfbreaks]<http://www.golfbreaks.com/>
+RESERVATION
+Please reply with your confirmation
+To
+Central Reservations at Pestana Alvor Praia Beach & Golf Hotel
+From
+Cameron
+Today's date
+Wed 4 Feb 2026
+
+Client name
+Mr. MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f
+Booking number: 771977
+Group size
+6
+Golfbreaks ID: 1764063
+Arrangements
+
+Accommodation
+
+  1.  BOOK: Tue 16 Feb 2027, 1 × Deluxe Twin Garden View room for 5 nights, Bed & Breakfast, Pestana Alvor Praia (Occupancy: 2 guests)
+  2.  BOOK: Tue 16 Feb 2027, 2 × Deluxe Double Garden View rooms for 5 nights, Bed & Breakfast, Pestana Alvor Praia (Occupancy: 4 guests)
+
+Golf tee times
+
+  1.  BOOK: Wed 17 Feb 2027, 08:06 on Gramacho, 1 tee time (2 golfers)
+  2.  BOOK: Thu 18 Feb 2027, 08:06 on Silves Golf, 1 tee time (2 golfers)
+  3.  BOOK: Sat 20 Feb 2027, 08:06 on Vale da Pinta, 1 tee time (2 golfers)
+
+Others
+
+  1.  BOOK: 6 x 2027: 5% Winter EBD (Book By 31 Aug)
+  2.  BOOK: 1 x There will be one 5 year old child in one of the Deluxe Double Garden View Rooms with an extra bed
+
+Rates
+
+  1.  30 x
+1 night's bed & breakfast at Pestana Alvor Praia
+@ 63.00 EUR
+
+  1.  6 x
+1 round of golf on Alto Golf, Silves, Pinta, Gramacho or Pestana Vila Sol (Pestana Alvor Praia Resident)
+@ 68.00 EUR
+
+  1.  2 x
+2027: 5% Winter EBD (Book By 31 Aug)
+@ -15.75 EUR
+
+  1.  4 x
+2027: 5% Winter EBD (Book By 31 Aug)
+@ -15.75 EUR
+
+Billback to Golfbreaks total cost: 2,203.50 EUR
+
+
+Dear Central Reservations,
+
+Please find the above confirmation for the booking for Mr. MASKED_NAME_e4a53ca7ff MASKED_NAME_d5f1bd067f.
+
+Please reply with your confirmation email, thank you.
+
+Yours sincerely,
+
+Cameron
+Tel: (01753) 752900
+
+Golfbreaks.com is a trading name of Golfbreaks Ltd. Registered in England and Wales No 3571913.
+Registered office: Minton Place, Victoria Street, Windsor, MASKED_NAME_d11ae2b3a7 MASKED_NAME_ce20c15eb5
+Tel: 0845 678 2400 Fax: 0845 678 2500 Email: MASKED_EMAIL_88c954e8ed<mailto:MASKED_EMAIL_88c954e8ed> Website: www.golfbreaks.com<http://www.golfbreaks.com>
+[Image removed by sender. ABTA logo]
+
+
+[Image removed by sender.]
+
+ref:!00D0N0gGNy.!500MI0jHGzO:ref
+
+
+[Image removed by sender.]
+
+
+[https://pestana.my.salesforce.com/servlet/servlet.ImageServer?oid=00D0N000000gGNy&esid=018MI00000Y6RoM&from=ext]
+ 

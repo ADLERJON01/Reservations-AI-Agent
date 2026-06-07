@@ -1,0 +1,51 @@
+subject: FW: Hotelbeds Cancellation for # 59-5702621 for MASKED_NAME_da46474c41, DOLORES  DEL MASKED_NAME_c1ee349e39, Arriving 17-Aug-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:30:45+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:30:30 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Cancellation for # 59-5702621 for MASKED_NAME_da46474c41, DOLORES DEL MASKED_NAME_c1ee349e39, Arriving 17-Aug-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+DOLORES DEL MASKED_NAME_c1ee349e39 MASKED_NAME_da46474c41
+
+Pestana - Lisboa Vintage |
+
+Check-in: 17-Aug-2026
+
+Check-out: 22-Aug-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Jan-2026
+
+Cancelled On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+59-5702621
+
+PAYMENT DETAILS
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/20347ad1-2543-4f7e-993c-19cd6d203bf8/59-5702621
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

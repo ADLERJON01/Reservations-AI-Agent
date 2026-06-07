@@ -1,0 +1,99 @@
+subject: FW: Paid Booking wth Ref. No. 11M4SP
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:29:26+00:00
+
+body:
+
+________________________________
+De: Juniper WebService <MASKED_EMAIL_b11f7ee075>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:28:58 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Cc: MASKED_EMAIL_947628ba3f <MASKED_EMAIL_947628ba3f>
+Assunto: Paid Booking wth Ref. No. 11M4SP
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[X]
+Reference
+
+Please quote the booking code on the invoice
+
+Please accept this booking wth Ref. No. 11M4SP as a confirmed booking
+
+Booking Code:
+
+11M4SP
+
+Name:
+
+MASKED_NAME_bd561b4555
+
+Last Name:
+
+MASKED_NAME_0b30842c31
+
+Date of Booking:
+
+20/02/2026
+
+Remarks:
+
+Accommodation
+Agency booking reference:       20050694/S26H
+Hotel:
+Pestana Carlton Madeira Premium Ocean Resort
+Board:
+Half Board
+Arrival Date:
+14/10/2026
+Departure Date:
+21/10/2026
+Rooms:
+1 x (Classic Land View (City View)) 2 Adults
+
+Adults: 2
+Rooming List:
+
+Classic Land View (City View) (Half Board)
+* MASKED_NAME_bd561b4555 MASKED_NAME_0b30842c31 (Years: 30)
+* MASKED_NAME_46e55b614d MASKED_NAME_0b30842c31 (Years: 30)
+Children ages:
+Contracts:
+Contract:       14-20/10
+Classic Land View (City View)   GTD
+Cost Price:
+Classic Land View (City View)
+        Date            Days                    Daily price                     Total
+        14/10/2026              7       2 x Adults              72.38   x 14            1013.32
+        1013.32
+Half Board
+Classic Land View (City View)
+        Date            Days                    Daily price                     Total
+        14/10/2026              7       2 x Adults              28.50   x 14            399.00
+        399.00
+5% 7 Nights+ Long Stay Discount S26
+Classic Land View (City View)
+        Date            Days                    Daily price                     Total
+        14/10/2026              7       2 x Adults              -5.04   x 14            -70.56
+        -70.56
+Total: 1,341.76 EUR﻿﻿
+Promos: Without applied promotions
+
+5% 7 Nights+ Long Stay Discount S26
+
+To accept this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/BookingRejection/Accept?k=eEGqUBz0elYMWFZE3rOy8HWNV1LsOZBd%2fdlHt33MdbCl%2boTDUnDAccclrjFWKc9mz5j08CaPJHU7kWYNa59qvw%3d%3d>
+If you are unable to confirm this booking: Click here<http://juniper.jet2holidays.com//intranet/mvc/Public/Login?k=eEGqUBz0elYMWFZE3rOy8HWNV1LsOZBd%2fdlHt33MdbCl%2boTDUnDAccclrjFWKc9mz5j08CaPJHU7kWYNa59qvw%3d%3d>
+
+
+
+If you have any queries relating to the cost of this booking please contact:
+
+MASKED_EMAIL_193bcd86a1<mailto:MASKED_EMAIL_193bcd86a1> stating your resort, hotel and booking code in the subject line and full details on the query in the body of the email.
+
+Booking Department
+
+Jet2holidays

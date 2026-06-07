@@ -1,0 +1,87 @@
+subject: FW: Booking.com Cancellation for # 5369852499 for MASKED_NAME_f3f5216a54, MASKED_NAME_773278a578, Arriving 23-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:45:42+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:44:59 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Cancellation for # 5369852499 for MASKED_NAME_f3f5216a54, MASKED_NAME_773278a578, Arriving 23-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Cancellation
+
+MASKED_NAME_773278a578 MASKED_NAME_f3f5216a54
+
+Pestana - Alvor Atlântico |
+
+Check-in: 23-Mar-2026
+
+Check-out: 30-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+06-Nov-2025
+
+Cancelled On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5369852499
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+0.00 EUR
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Bookingcom Agent
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-3880
+
+Expiry:
+
+XX27
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+0.00 EUR
+
+Activation date:
+
+16-Mar-2026
+
+Deactivation date:
+
+01-Mar-2027
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/8c0f73eb-c959-4e0b-97a8-f24f805bb9ac/5369852499
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

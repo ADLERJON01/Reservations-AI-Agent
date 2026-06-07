@@ -1,0 +1,215 @@
+subject: FW: Booking.com Booking for # 6431617683 for MASKED_NAME_898b9a5aa4, MASKED_NAME_fb2245a929, Arriving 28-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:42:07+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:41:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Booking.com Booking for # 6431617683 for MASKED_NAME_898b9a5aa4, MASKED_NAME_fb2245a929, Arriving 28-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_fb2245a929 MASKED_NAME_898b9a5aa4
+
+Pestana - Pousada de Arraiolos |
+
+Check-in: 28-Feb-2026
+
+Check-out: 01-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+6431617683
+
+Reservation Remarks:
+
+Collect payments from guests at your property. For cancellation and no-show fees, visit the Extranet Gostaria que os quartos fosse perto um do outro. Um quarto é para o casal e o outro para as nossas duas filhas. Temos uma cachorrinha e gostaria de saber se pode ficar connosco. BED PREFERENCE:Classic Double or Twin Room: 2 singles - Classic Double or Twin Room: 1 double, booker_is_genius
+
+Guest Count:
+
+Number of adults : 3
+
+Number of children aged 14 : 1
+
+Total Price:
+
+218.70 EUR
+
+Total Tax Amount:
+
+12.38 EUR
+
+Commission Payable:
+
+38.28 EUR
+
+ROOM - Classic Double or Twin Room - General - Breakfast included - Mobile(App) Rate
+
+Check In Date:
+
+28-Feb-2026
+
+Check Out Date:
+
+01-Mar-2026
+
+Guest:
+
+MASKED_NAME_fb2245a929 MASKED_NAME_898b9a5aa4
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+109.35 EUR
+
+Total Tax Amount:
+
+6.19 EUR
+
+Commission Payable:
+
+19.14 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast is included in the room rate.
+
+Extra Information:
+
+Breakfast is included in the room rate. Children and Extra Bed Policy: Children of all ages are allowed. 1 child (up to and including 2 years old) stays for free when using available cribs. You haven't added any extra beds. The maximum number of cribs is 1. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 2 days before arrival. The guest will be charged the total price of the reservation if they cancel in the 2 days before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+28-Feb-2026
+
+65891
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+109.35 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (6%)
+
+6.19 EUR
+
+ROOM - Classic Double or Twin Room - General - Breakfast included - Mobile(App) Rate
+
+Check In Date:
+
+28-Feb-2026
+
+Check Out Date:
+
+01-Mar-2026
+
+Guest:
+
+MASKED_NAME_fb2245a929 MASKED_NAME_898b9a5aa4
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Number of children aged 14 : 1
+
+Total Price:
+
+109.35 EUR
+
+Total Tax Amount:
+
+6.19 EUR
+
+Commission Payable:
+
+19.14 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast is included in the room rate.
+
+Extra Information:
+
+Number of children aged 14: 1; Breakfast is included in the room rate. Children and Extra Bed Policy: Children of all ages are allowed. 1 child (up to and including 2 years old) stays for free when using available cribs. You haven't added any extra beds. The maximum number of cribs is 1. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 2 days before arrival. The guest will be charged the total price of the reservation if they cancel in the 2 days before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+28-Feb-2026
+
+65891
+
+Mobile(App) Rate
+
+Derived Rate : 0
+
+109.35 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (6%)
+
+6.19 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+218.70 EUR
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/ee0a5702-00f6-4618-a38e-0780043d69e3/6431617683
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

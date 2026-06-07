@@ -1,0 +1,91 @@
+subject: FW: Agoda Booking ID MASKED_NUMBER_14f8c1bba7 - CONFIRMED Hotel Country: Portugal Check-in February 21, 2026 / Language_English
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:07:04+00:00
+
+body:
+
+________________________________
+De: agoda.com <MASKED_EMAIL_ba1aa12653>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:06:46 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Agoda Booking ID MASKED_NUMBER_14f8c1bba7 - CONFIRMED Hotel Country: Portugal Check-in February 21, 2026 / Language_English
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/booking_voucher_banner_updated.png]
+        [https://cdn0.agoda.net/images/emailmarketing/partcomm_elements/YCS%20_icon_booking_voucher.png]
+
+        Discover traveler trends and booking performance in one place.
+
+
+VIEW YOUR INSIGHTS NOW <http://tracking.agoda.com/click?redirectUrl=https%3A%2F%2Fycs.agoda.com%2Fmldc%2Fen-us%2Fapp%2Freporting%2Fdashboard%2F71402&uuid=20260220-73e7-44d4-91cc-f13f9d1f682c&name=HotelVoucherBanner&channel=email&propertyid=71402&countryid=213&userid=cf016469-76c7-4447-a15c-83de8b0df706&source=partcomm_pigeon>
+
+[agoda]
+IATA 96-6 3780 0
+Booking ID
+MASKED_NUMBER_14f8c1bba7
+Reservation Information
+PREPAID
+Booking confirmation
+Pestana Sintra Golf Resort & Spa Hotel
+(Property ID 71402)
+City : Sintra
+Marsha Code :
+Customer First Name     Lara
+Customer Last Name      Bigodinho
+Check-in        February 21, 2026
+Check-out       February 22, 2026
+Other Guests    [RmNo.1] Guest of Lara Bigodinho , [RmNo.1] Lara Bigodinho
+Room Type       No. of Rooms    Occupancy       No. of Extra Bed
+Classic Garden View Room        1       2 Adults        0
+Rate Plan name: SPECIAL OFFER NRF - BB (B2C) ()
+Benefits Included
+Breakfast, Free fitness center access, Free WiFi
+Cancellation Policy
+This booking is Non-Refundable and cannot be amended or modified.Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+This booking is Non-Refundable and cannot be amended or modified. Failure to arrive at your hotel or property will be treated as a No-Show and will incur a charge of 100% of the booking value (Hotel policy).
+Room            Extra Bed               Other
+From - To       Rates
+February 21, 2026               EUR 90.05
+Reference sell rate (incl. taxes & fees)        EUR 108.49
+Commission      EUR -18.44
+
+From - To       Rates
+
+Promotion :
+Last Minute Special. Price includes 19% discount!
+Rate Channel
+Mobile
+Benefit for Hotel
+You get 3% commission reduction as part of Agoda Intelligence
+Website Language
+English / United Kingdom
+Net rate (incl. taxes & fees)
+
+EUR 90.05
+
+[http://img.agoda.net/images/sign/stamp_2025.jpg]       Booked and Payable by
+
+Agoda Company Pte, Ltd.
+36 Robinson Road, City House #20-01,
+Singapore 068877
+Card Type       Card Number     CVV-code        Expiry Date     Card Holder Name
+-       -       -       -       -
+UPC is hidden as requested, please refer to YCS extranet to obtain the necessary details.
+Commission amount indicated is the remuneration for our service to you (the property) for facilitating the reservation in this transaction.
+This booking does not require acknowledgement.
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Attention Hotel Staff
+You need to ensure the following at check-in
+- Guest holds booking confirmation with the correct reservation details
+- Guest has valid photo ID
+Agoda Hotline (Portugal) : (35) 12 1060 8380 | General Questions: MASKED_EMAIL_2037568791
+Hotline instruction: Please have your property ID
+

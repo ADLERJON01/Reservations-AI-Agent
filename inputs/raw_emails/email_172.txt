@@ -1,0 +1,201 @@
+subject: FW: Hotelbeds Booking for # 136-3745223 for MASKED_NAME_5bbca9749a, MASKED_NAME_1625001f0e MASKED_NAME_1dceb896e5 , Arriving 05-Jun-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 15:46:11+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 15:45:41 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Hotelbeds Booking for # 136-3745223 for MASKED_NAME_5bbca9749a, MASKED_NAME_1625001f0e MASKED_NAME_1dceb896e5 , Arriving 05-Jun-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_1625001f0e MASKED_NAME_1dceb896e5 MASKED_NAME_5bbca9749a
+
+Pestana - Casablanca |
+
+Check-in: 05-Jun-2026
+
+Check-out: 19-Jun-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+136-3745223
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+20137.60 MAD
+
+Total Tax Amount:
+
+0.00 MAD
+
+ROOM - JUNIOR SUITE JUNIOR SUITE
+
+Check In Date:
+
+05-Jun-2026
+
+Check Out Date:
+
+19-Jun-2026
+
+Guest:
+
+MASKED_NAME_1625001f0e MASKED_NAME_1dceb896e5 MASKED_NAME_5bbca9749a
+
+MASKED_NAME_09ad819034 MASKED_NAME_5bbca9749a
+
+Age:
+
+30
+
+30
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+20137.60 MAD
+
+Total Tax Amount:
+
+0.00 MAD
+
+Meal Plan:
+
+BED AND BREAKFAST
+
+Extra Information:
+
+Contract Name=BAR LS BB 1, Contract Description=Included Allotment
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+05-Jun-2026
+
+1411.20 MAD
+
+06-Jun-2026
+
+1411.20 MAD
+
+07-Jun-2026
+
+1411.20 MAD
+
+08-Jun-2026
+
+1411.20 MAD
+
+09-Jun-2026
+
+1411.20 MAD
+
+10-Jun-2026
+
+1411.20 MAD
+
+11-Jun-2026
+
+1411.20 MAD
+
+12-Jun-2026
+
+1585.60 MAD
+
+13-Jun-2026
+
+1617.60 MAD
+
+14-Jun-2026
+
+1411.20 MAD
+
+15-Jun-2026
+
+1411.20 MAD
+
+16-Jun-2026
+
+1411.20 MAD
+
+17-Jun-2026
+
+1411.20 MAD
+
+18-Jun-2026
+
+1411.20 MAD
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+20137.60 MAD
+
+Credit Card Type:
+
+MC
+
+Name:
+
+Hotelbeds
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-6487
+
+Expiry:
+
+XX28
+
+CVC:
+
+103
+
+Payment method:
+
+Virtual Card
+
+Balance:
+
+20137.60 MAD
+
+Activation date:
+
+19-Jun-2026
+
+Deactivation date:
+
+16-Dec-2026
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/HBD/eef737bd-c583-4449-b026-7deMASKED_TELEPHONE_24afab9e5c/136-3745223
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

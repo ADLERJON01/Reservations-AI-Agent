@@ -1,0 +1,141 @@
+subject: FW: Booking.com Modification for # 5501675678 for MASKED_NAME_691d61039e MASKED_NAME_787ffaacd4, MASKED_NAME_1625001f0e MASKED_NAME_edc21ba476, Arriving 25-Feb-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:39:03+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:38:44 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Modification for # 5501675678 for MASKED_NAME_691d61039e MASKED_NAME_787ffaacd4, MASKED_NAME_1625001f0e MASKED_NAME_edc21ba476, Arriving 25-Feb-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+Reservation Modification
+
+MASKED_NAME_1625001f0e MASKED_NAME_edc21ba476 MASKED_NAME_691d61039e MASKED_NAME_787ffaacd4
+
+Pestana - CR7 Gran Vía |
+
+Check-in: 25-Feb-2026
+
+Check-out: 26-Feb-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+12-Nov-2025
+
+Modified On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+5501675678
+
+Reservation Remarks:
+
+Collect payment from guests at your property. For cancellation and no-show fees, please visit extranet, booker_is_genius
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+189.00 EUR
+
+Total Tax Amount:
+
+17.18 EUR
+
+Commission Payable:
+
+31.18 EUR
+
+ROOM - Superior Room - General
+
+Check In Date:
+
+25-Feb-2026
+
+Check Out Date:
+
+26-Feb-2026
+
+Guest:
+
+MASKED_NAME_1625001f0e MASKED_NAME_edc21ba476 MASKED_NAME_691d61039e MASKED_NAME_787ffaacd4
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+189.00 EUR
+
+Total Tax Amount:
+
+17.18 EUR
+
+Commission Payable:
+
+31.18 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs EUR 20 per person per night.
+
+Extra Information:
+
+Breakfast costs EUR 20 per person per night. Children and Extra Bed Policy: Children of any age are allowed. 1 child (up to and including 2 years old) stays for free when using available cots. You haven't added any extra beds. The maximum number of cots is 1. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+25-Feb-2026
+
+21644187
+
+189.00 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (10%)
+
+17.18 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+189.00 EUR
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/83d7b182-e0aa-4a04-92f5-ed34c8654a5c/5501675678
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

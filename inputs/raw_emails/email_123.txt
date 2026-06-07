@@ -1,0 +1,135 @@
+subject: FW: Expedia Booking for # 2397193344 for MASKED_NAME_22212dbec1, MASKED_NAME_2d00e7fe8f, Arriving 12-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-19 16:36:20+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: quinta-feira, 19 de fevereiro de 2026 16:36:03 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Reservas - Pestana Portugal <MASKED_EMAIL_394c225146>
+Assunto: Expedia Booking for # 2397193344 for MASKED_NAME_22212dbec1, MASKED_NAME_2d00e7fe8f, Arriving 12-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_2d00e7fe8f MASKED_NAME_22212dbec1
+
+Pestana - Vintage Porto | A-Expedia
+
+Check-in: 12-Mar-2026
+
+Check-out: 15-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+19-Feb-2026
+
+Booking Confirmation Id:
+
+2397193344
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1054.22 EUR
+
+ROOM - Room, Balcony, River View (Vintage River View Balcony) - Special Offer 1 LSD - Standalone - SellRate
+
+Check In Date:
+
+12-Mar-2026
+
+Check Out Date:
+
+15-Mar-2026
+
+Guest:
+
+MASKED_NAME_2d00e7fe8f MASKED_NAME_22212dbec1
+
+Age:
+
+Guest Count:
+
+Number of adults : 2
+
+Total Price:
+
+1054.22 EUR
+
+Remarks:
+
+Hotel Collect Booking, Hotel Collect Booking Collect Payment From Guest., Value Add Promotion: 1 Free bottle of wine per stay
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+12-Mar-2026
+
+210724149A
+
+Promo Code: MOD
+
+329.18 EUR
+
+13-Mar-2026
+
+210724149A
+
+Promo Code: MOD
+
+355.68 EUR
+
+14-Mar-2026
+
+210724149A
+
+Promo Code: MOD
+
+369.36 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+1054.22 EUR
+
+Credit Card Type:
+
+VI
+
+Name:
+
+MASKED_NAME_2d00e7fe8f MASKED_NAME_22212dbec1
+
+Credit Card Number:
+
+XXXX-XXXX-XXXX-9493
+
+Expiry:
+
+XX31
+
+CVC:
+
+640
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/EXP/aa8034a5-73e4-43c1-a954-e791af49c375/2397193344
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

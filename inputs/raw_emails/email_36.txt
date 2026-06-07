@@ -1,0 +1,159 @@
+subject: FW: Booking.com Booking for # 5435797109 for MASKED_NAME_698c578e78, MASKED_NAME_f36bb2ced8, Arriving 01-Mar-2026
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 10:45:28+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_e2a105e443 <MASKED_EMAIL_e2a105e443>
+Enviado: sexta-feira, 20 de fevereiro de 2026 10:45:07 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking.com Booking for # 5435797109 for MASKED_NAME_698c578e78, MASKED_NAME_f36bb2ced8, Arriving 01-Mar-2026
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+[channel manager logo]
+
+New Reservation
+
+MASKED_NAME_f36bb2ced8 MASKED_NAME_698c578e78
+
+Pestana Amsterdam Riverside |
+
+Check-in: 01-Mar-2026
+
+Check-out: 05-Mar-2026
+
+RESERVATION DETAILS
+
+Booked On:
+
+20-Feb-2026
+
+Booking Confirmation Id:
+
+5435797109
+
+Reservation Remarks:
+
+Collect payment from guests at your property. For cancellation and no-show fees, please visit extranet Printed Invoice Required. This is a BCD Travel booking for the company GROUPM UK LTD. PLEASE ENSURE AN INVOICE IS PROVIDED TO THE GUEST ON DEPARTURE. King, Nonsmoking, - WPP VIP ROOM IN MAIN HOUSE a quiet ROOM area away from elevators, bars and restaurants. Approximate time of arrival: between 12:00 and 13:00
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+840.00 EUR
+
+Total Tax Amount:
+
+232.57 EUR
+
+Commission Payable:
+
+170.26 EUR
+
+ROOM - Premium Deluxe Room - General
+
+Check In Date:
+
+01-Mar-2026
+
+Check Out Date:
+
+05-Mar-2026
+
+Guest:
+
+MASKED_NAME_f36bb2ced8 MASKED_NAME_698c578e78
+
+Age:
+
+Guest Count:
+
+Number of adults : 1
+
+Total Price:
+
+840.00 EUR
+
+Total Tax Amount:
+
+232.57 EUR
+
+Commission Payable:
+
+170.26 EUR
+
+Smoking:
+
+No
+
+Remarks:
+
+Printed Invoice Required. This is a BCD Travel booking for the company GROUPM UK LTD. PLEASE ENSURE AN INVOICE IS PROVIDED TO THE GUEST ON DEPARTURE. King, Nonsmoking, - WPP VIP ROOM IN MAIN HOUSE a quiet ROOM area away from elevators, bars and restaurants. Approximate time of arrival: between 12:00 and 13:00, smoking preference: Non-Smoking
+
+Meal Plan:
+
+Breakfast costs EUR 27 per person per night. Dinner costs EUR 45 per person per night.
+
+Extra Information:
+
+Breakfast costs EUR 27 per person per night. Dinner costs EUR 45 per person per night. Children and Extra Bed Policy: Children of any age are allowed. You haven't added any cots. You haven't added any extra beds. The maximum number of guests is 2. Deposit Policy: No prepayment is needed. Cancellation Policy: The guest can cancel free of charge until 1 day before arrival. The guest will be charged the total price of the reservation if they cancel within 1 day before arrival. If the guest doesn’t show up, they will be charged the total price of the reservation.
+
+Daily Room Rate Breakdown:
+
+Date    Rate Id Name    Description     Price
+
+01-Mar-2026
+
+10130354
+
+195.00 EUR
+
+02-Mar-2026
+
+10130354
+
+199.00 EUR
+
+03-Mar-2026
+
+10130354
+
+223.00 EUR
+
+04-Mar-2026
+
+10130354
+
+223.00 EUR
+
+Room Taxes and Fees Breakdown:
+
+Description     Tax Amount
+
+VAT (21%)
+
+145.79 EUR
+
+City tax (12.5%)
+
+86.78 EUR
+
+PAYMENT DETAILS
+
+Total Booking Cost:
+
+840.00 EUR
+
+To ensure your guest data is always secure, authorised users can view guest contact details and reservation payment details via the reservations search or by clicking the link below.
+
+http://app.siteminder.com/web/42db340/BDC/27daba7b-f760-4845-9a86-08753a2480a9/5435797109
+
+MASKED_EMAIL_af159f07c3<mailto:MASKED_EMAIL_af159f07c3>

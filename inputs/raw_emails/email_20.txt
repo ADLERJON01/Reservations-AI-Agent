@@ -1,0 +1,33 @@
+subject: FW: Booking Alert easyJet holidays Extranet
+
+from: Trade <MASKED_EMAIL_851d9c9d5e>
+to: Pestana Hotel Group RPA <MASKED_EMAIL_5c2bfff769>;	"MASKED_EMAIL_d8512392b3"	<MASKED_EMAIL_d8512392b3>
+cc: 
+date: 2026-02-20 11:00:45+00:00
+
+body:
+
+________________________________
+De: MASKED_EMAIL_dfbeaed312 <MASKED_EMAIL_dfbeaed312>
+Enviado: sexta-feira, 20 de fevereiro de 2026 11:00:23 (UTC+00:00) Dublin, Edinburgh, Lisbon, London
+Para: Trade <MASKED_EMAIL_851d9c9d5e>
+Assunto: Booking Alert easyJet holidays Extranet
+
+
+CAUTION: EXTERNAL EMAIL. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+Dear Trade Pestana
+Booking ref 8220246 for hotel code MASKED_NAME_965ebde4f0 MASKED_NAME_f3f382de0a Carlton Madeira
+has been updated on Extranet, please log in to the Extranet to process. Bookings within 28 days of departure will be found in the Queue tab and all other bookings in the Bookings Data tab.
+
+Kind Regards
+easyJet holidays Extranet team
+
+To turn these notifications OFF or ON please go to your Settings in the Extranet
+For full instructions please see the Extranet User Manual
+
+The contents of this e-mail and any attachments are for the intended recipient only. If you are not the intended recipient, you are not authorised to and must not disclose, copy, distribute, or retain this message or any part of it. It may contain information which is confidential and/or covered by legal professional or other privilege. Contracts cannot be concluded with us nor legal service effected by email.
+
+ATCORE Technology Ltd
+Registered in England No. 3698178
+Registered Office: 353 Buckingham Avenue Slough Berks SL1 4PF United Kingdom
