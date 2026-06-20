@@ -19,6 +19,7 @@ from langgraph.graph import END, StateGraph
 
 from app.agents.audit import audit
 from app.agents.classifier_extractor import classify
+from app.agents.guardrails import check_guardrails
 from app.agents.output_generator import generate_output
 from app.agents.preprocessor import preprocess
 from app.agents.rag import rag
@@ -33,11 +34,12 @@ def build_pipeline_graph(classifier_client: Optional[LLMClient] = None,
                          validator_client: Optional[LLMClient] = None,
                          rag_retriever: Optional[Retriever] = None,
                          reply_client: Optional[LLMClient] = None):
-    """Compile the #2–#7 StateGraph. Inject clients/retriever for offline testing;
+    """Compile the #2–#8 StateGraph. Inject clients/retriever for offline testing;
     leave them None to use the default Ollama clients / Chroma retriever.
 
     RAG (#6) is conditional (policy-question path only); the Output Generator (#7)
-    runs on every path afterwards."""
+    runs on every path afterwards, then Guardrails (#8) checks the draft. Guardrails
+    is deterministic — no client injection needed."""
     g = StateGraph(AgentState)
     g.add_node("classifier_extractor", lambda s: classify(s, client=classifier_client))
     g.add_node("validator", lambda s: validate(s, client=validator_client))
@@ -45,6 +47,7 @@ def build_pipeline_graph(classifier_client: Optional[LLMClient] = None,
     g.add_node("router", route_email)
     g.add_node("rag", lambda s: rag(s, retriever=rag_retriever))
     g.add_node("output_generator", lambda s: generate_output(s, reply_client=reply_client))
+    g.add_node("guardrails", check_guardrails)
 
     g.set_entry_point("classifier_extractor")
     g.add_edge("classifier_extractor", "validator")
@@ -52,7 +55,8 @@ def build_pipeline_graph(classifier_client: Optional[LLMClient] = None,
     g.add_edge("audit", "router")
     g.add_conditional_edges("router", _needs_rag, {"rag": "rag", "end": "output_generator"})
     g.add_edge("rag", "output_generator")
-    g.add_edge("output_generator", END)
+    g.add_edge("output_generator", "guardrails")
+    g.add_edge("guardrails", END)
     return g.compile()
 
 

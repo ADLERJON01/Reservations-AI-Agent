@@ -12,6 +12,7 @@ from typing import List, Optional
 from pydantic import BaseModel, Field
 
 from app.models.audit import AuditOutput
+from app.models.guardrails import GuardrailsOutput
 from app.models.llm_output import EmailExtraction
 from app.models.output import OutputArtifacts
 from app.models.retrieval import RetrievalOutput
@@ -70,6 +71,7 @@ class AgentState(BaseModel):
     applied_rule_id: Optional[str] = None
     retrieval: Optional[RetrievalOutput] = None
     output: Optional[OutputArtifacts] = None
+    guardrails: Optional[GuardrailsOutput] = None
 
     # provenance / diagnostics
     model_name: Optional[str] = None              # LLM that produced llm_output
