@@ -12,7 +12,9 @@ Generated from `app/agents/router.py`. Documentation only — runtime behaviour 
 | 22 | R022_BN_CLEAN_FLAGGED | booking_notification AND clean AND validator flagged | audit_only_with_note |
 | 23 | R023_BN_CLEAN | booking_notification AND clean AND not flagged | audit_only |
 | 24 | R024_BN_OTHER | booking_notification AND audit_finding == n/a (unexpected) | audit_with_attention |
-| 30 | R030_INQ_POLICY | service_or_information_inquiry AND request_type == policy_or_general_question | draft_reply_with_rag |
+| 30 | R030_INQ_POLICY | service_or_information_inquiry AND policy_or_general_question (pre-RAG candidate) | draft_reply_with_rag |
+| 30 | R030A_INQ_POLICY_ANSWERABLE | policy question AND kb_answerable is True (post-RAG) | draft_reply_with_rag |
+| 30 | R030B_INQ_POLICY_UNANSWERABLE | policy question AND kb_answerable is False (post-RAG) | escalate_to_reservations_team |
 | 31 | R031_INQ_WITHDRAWAL | service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment | audit_only_with_note |
 | 32 | R032_INQ_DEFAULT | service_or_information_inquiry (any other request_type) | escalate_to_reservations_team |
 | 40 | R040_PAYMENT | category == payment_billing_or_rate_issue | escalate_to_payment_or_billing |

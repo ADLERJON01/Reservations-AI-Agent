@@ -39,6 +39,14 @@ class Settings(BaseSettings):
     classifier_retry_temperature: float = 0.3  # temp 0 retry is futile (greedy); nudge up
     body_char_limit: int = 6000              # truncate body_clean in the user prompt
 
+    # --- RAG (#6): conditional retrieval over the FAQ KB ---
+    embedding_model: str = "BAAI/bge-m3"     # multilingual; swappable, benchmark at eval
+    chroma_path: Path = PROJECT_ROOT / ".chroma"
+    kb_path: Path = PROJECT_ROOT / "inputs" / "knowledge_base" / "pestana_faqs_en.jsonl"
+    rag_top_k: int = 3
+    kb_answerable_threshold: float = 0.65    # cosine; RECALIBRATE for BGE-M3 at eval
+    rag_query_char_limit: int = 512          # focused-query length cap
+
     # --- paths (all under PROJECT_ROOT; inputs are READ ONLY) ---
     project_root: Path = PROJECT_ROOT
     inputs_dir: Path = PROJECT_ROOT / "inputs"

@@ -1,9 +1,9 @@
 {
   "$schema_purpose": "Specification record for the Router Agent (#5). The RUNTIME is the pure-Python guard-clause function route() in app/agents/router.py; this file is the maintained documentation of those rules (mirrored by routing_rules.generated.json). Rules are evaluated in ascending priority; the first matching guard wins. applied_rule_id in agent_output references the rule ids below.",
-  "version": "1.1.0",
-  "locked_date": "2026-06-07",
+  "version": "1.2.0",
+  "locked_date": "2026-06-12",
   "status": "locked",
-  "supersedes": "1.0.0 (WIP, never validated) — removed LLM-confidence gating; see CHANGELOG.md",
+  "supersedes": "1.1.0 — adds the post-RAG policy resolution rules R030A/R030B; see CHANGELOG.md",
   "depends_on": ["taxonomy.json v1.0.0"],
   "evaluation_order": "ascending priority; first matching guard wins; categories are mutually exclusive so only the global pre-empts (R001-R003) cross-cut category dispatch",
   "routing_philosophy": {
@@ -22,7 +22,9 @@
     { "id": "R022_BN_CLEAN_FLAGGED", "priority": 22, "condition": "booking_notification AND audit_finding == clean AND validator flagged", "action": "audit_only_with_note" },
     { "id": "R023_BN_CLEAN", "priority": 23, "condition": "booking_notification AND audit_finding == clean AND not flagged", "action": "audit_only" },
     { "id": "R024_BN_OTHER", "priority": 24, "condition": "booking_notification AND audit_finding == n/a (unexpected)", "action": "audit_with_attention" },
-    { "id": "R030_INQ_POLICY", "priority": 30, "condition": "service_or_information_inquiry AND request_type == policy_or_general_question", "action": "draft_reply_with_rag" },
+    { "id": "R030_INQ_POLICY", "priority": 30, "condition": "service_or_information_inquiry AND request_type == policy_or_general_question (pre-RAG candidate)", "action": "draft_reply_with_rag" },
+    { "id": "R030A_INQ_POLICY_ANSWERABLE", "priority": 30, "condition": "policy question AND kb_answerable is True (post-RAG)", "action": "draft_reply_with_rag" },
+    { "id": "R030B_INQ_POLICY_UNANSWERABLE", "priority": 30, "condition": "policy question AND kb_answerable is False (post-RAG)", "action": "escalate_to_reservations_team" },
     { "id": "R031_INQ_WITHDRAWAL", "priority": 31, "condition": "service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment", "action": "audit_only_with_note" },
     { "id": "R032_INQ_DEFAULT", "priority": 32, "condition": "service_or_information_inquiry (any other request_type)", "action": "escalate_to_reservations_team" },
     { "id": "R040_PAYMENT", "priority": 40, "condition": "category == payment_billing_or_rate_issue", "action": "escalate_to_payment_or_billing" },
@@ -40,10 +42,10 @@
   "rag_answerable_resolution": {
     "description": "kb_answerable is NOT known at routing time. Policy questions are routed to draft_reply_with_rag as a CANDIDATE (rag_required=true). The RAG Agent (#6) runs after the Router and resolves the final outcome.",
     "rules": [
-      { "if": "retrieval best score >= 0.65", "then": "kb_answerable = yes -> draft_reply_with_rag stands" },
-      { "if": "retrieval empty OR best score < 0.65", "then": "kb_answerable = no -> escalate_to_reservations_team" }
+      { "if": "retrieval best score >= threshold", "then": "kb_answerable = yes -> R030A_INQ_POLICY_ANSWERABLE -> draft_reply_with_rag" },
+      { "if": "retrieval empty OR best score < threshold", "then": "kb_answerable = no -> R030B_INQ_POLICY_UNANSWERABLE -> escalate_to_reservations_team" }
     ],
-    "threshold_note": "0.65 is the suggested starting cosine-similarity threshold; tune during evaluation."
+    "threshold_note": "kb_answerable_threshold default 0.65; RECALIBRATE for the BGE-M3 embedding model with a RAG eval set. Score = 1 - cosine_distance over normalized embeddings."
   },
   "validation_status": {
     "validated_by": "40-email subset batch run, 2026-06-07",

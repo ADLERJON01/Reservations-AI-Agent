@@ -66,7 +66,9 @@ RULES: list[Rule] = [
     Rule("R022_BN_CLEAN_FLAGGED", 22, "booking_notification AND clean AND validator flagged", "audit_only_with_note"),
     Rule("R023_BN_CLEAN", 23, "booking_notification AND clean AND not flagged", "audit_only"),
     Rule("R024_BN_OTHER", 24, "booking_notification AND audit_finding == n/a (unexpected)", "audit_with_attention"),
-    Rule("R030_INQ_POLICY", 30, "service_or_information_inquiry AND request_type == policy_or_general_question", "draft_reply_with_rag"),
+    Rule("R030_INQ_POLICY", 30, "service_or_information_inquiry AND policy_or_general_question (pre-RAG candidate)", "draft_reply_with_rag"),
+    Rule("R030A_INQ_POLICY_ANSWERABLE", 30, "policy question AND kb_answerable is True (post-RAG)", "draft_reply_with_rag"),
+    Rule("R030B_INQ_POLICY_UNANSWERABLE", 30, "policy question AND kb_answerable is False (post-RAG)", "escalate_to_reservations_team"),
     Rule("R031_INQ_WITHDRAWAL", 31, "service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment", "audit_only_with_note"),
     Rule("R032_INQ_DEFAULT", 32, "service_or_information_inquiry (any other request_type)", "escalate_to_reservations_team"),
     Rule("R999_FALLBACK", 999, "no rule matched", "manual_review_unclear"),
@@ -171,6 +173,12 @@ def route(signals: RouterSignals) -> RoutingDecision:
     # --- service_or_information_inquiry ---
     if s.category == "service_or_information_inquiry":
         if s.request_type == "policy_or_general_question":
+            if s.kb_answerable is True:
+                return _d("R030A_INQ_POLICY_ANSWERABLE", "draft_reply_with_rag",
+                          "Policy/general question answerable from the KB (RAG confirmed).")
+            if s.kb_answerable is False:
+                return _d("R030B_INQ_POLICY_UNANSWERABLE", "escalate_to_reservations_team",
+                          "Policy/general question not answerable from the KB; escalate.")
             return _d("R030_INQ_POLICY", "draft_reply_with_rag",
                       "Policy/general question — RAG candidate (kb_answerable resolved by RAG).")
         if s.request_type == "withdrawal_or_acknowledgment":

@@ -19,29 +19,49 @@ from langgraph.graph import END, StateGraph
 
 from app.agents.audit import audit
 from app.agents.classifier_extractor import classify
+from app.agents.output_generator import generate_output
 from app.agents.preprocessor import preprocess
+from app.agents.rag import rag
 from app.agents.router import route_email
 from app.agents.validator import validate
 from app.llm.client import LLMClient
 from app.models.state import AgentState
+from app.rag.retriever import Retriever
 
 
 def build_pipeline_graph(classifier_client: Optional[LLMClient] = None,
-                         validator_client: Optional[LLMClient] = None):
-    """Compile the #2–#5 StateGraph. Inject clients for offline testing; leave
-    them None to use the default OllamaNativeClient."""
+                         validator_client: Optional[LLMClient] = None,
+                         rag_retriever: Optional[Retriever] = None,
+                         reply_client: Optional[LLMClient] = None):
+    """Compile the #2–#7 StateGraph. Inject clients/retriever for offline testing;
+    leave them None to use the default Ollama clients / Chroma retriever.
+
+    RAG (#6) is conditional (policy-question path only); the Output Generator (#7)
+    runs on every path afterwards."""
     g = StateGraph(AgentState)
     g.add_node("classifier_extractor", lambda s: classify(s, client=classifier_client))
     g.add_node("validator", lambda s: validate(s, client=validator_client))
     g.add_node("audit", audit)
     g.add_node("router", route_email)
+    g.add_node("rag", lambda s: rag(s, retriever=rag_retriever))
+    g.add_node("output_generator", lambda s: generate_output(s, reply_client=reply_client))
 
     g.set_entry_point("classifier_extractor")
     g.add_edge("classifier_extractor", "validator")
     g.add_edge("validator", "audit")
     g.add_edge("audit", "router")
-    g.add_edge("router", END)
+    g.add_conditional_edges("router", _needs_rag, {"rag": "rag", "end": "output_generator"})
+    g.add_edge("rag", "output_generator")
+    g.add_edge("output_generator", END)
     return g.compile()
+
+
+def _needs_rag(state) -> str:
+    """Conditional edge: route to the RAG node only for the policy-question path."""
+    rs = getattr(state, "router_signals", None)
+    if rs is None and isinstance(state, dict):
+        rs = state.get("router_signals")
+    return "rag" if (rs is not None and getattr(rs, "rag_required", False)) else "end"
 
 
 _DEFAULT_GRAPH = None

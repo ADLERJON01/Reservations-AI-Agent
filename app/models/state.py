@@ -13,6 +13,8 @@ from pydantic import BaseModel, Field
 
 from app.models.audit import AuditOutput
 from app.models.llm_output import EmailExtraction
+from app.models.output import OutputArtifacts
+from app.models.retrieval import RetrievalOutput
 from app.models.router_signals import RecommendedAction, RouterSignals
 
 
@@ -66,6 +68,8 @@ class AgentState(BaseModel):
     recommended_action: Optional[RecommendedAction] = None
     routing_reason: Optional[str] = None
     applied_rule_id: Optional[str] = None
+    retrieval: Optional[RetrievalOutput] = None
+    output: Optional[OutputArtifacts] = None
 
     # provenance / diagnostics
     model_name: Optional[str] = None              # LLM that produced llm_output

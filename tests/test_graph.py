@@ -56,7 +56,8 @@ def test_graph_runs_full_chain_in_order():
     state = AgentState(email=EmailInput(email_id="e", body_clean="New Reservation"),
                        agent_path=["preprocessor"])
     out = run_state(state, graph)
-    assert out.agent_path == ["preprocessor", "classifier_extractor", "validator", "audit", "router"]
+    assert out.agent_path == ["preprocessor", "classifier_extractor", "validator",
+                              "audit", "router", "output_generator"]
     assert out.llm_output is not None
     assert out.audit.audit_finding == "clean"
     assert out.recommended_action == "audit_only"
@@ -72,7 +73,8 @@ def test_graph_failure_path_routes_to_manual_review():
     assert out.recommended_action == "manual_review_unclear"
     assert out.applied_rule_id == "R001_SCHEMA_INVALID"
     # every node still ran (validator/audit skip internally but record their step)
-    assert out.agent_path == ["classifier_extractor", "validator", "audit", "router"]
+    assert out.agent_path == ["classifier_extractor", "validator", "audit",
+                              "router", "output_generator"]
     assert out.validator.validation_result == "skipped"
     assert out.audit.audit_finding == "n/a"
 
@@ -89,6 +91,7 @@ def _ollama_up() -> bool:
 @pytest.mark.skipif(not _ollama_up(), reason="Ollama server not reachable")
 def test_run_pipeline_real_email():
     out = run_pipeline(RAW_DIR / "email_1.txt")
-    assert out.agent_path == ["preprocessor", "classifier_extractor", "validator", "audit", "router"]
+    assert out.agent_path == ["preprocessor", "classifier_extractor", "validator",
+                              "audit", "router", "output_generator"]
     assert out.recommended_action is not None
     assert out.applied_rule_id

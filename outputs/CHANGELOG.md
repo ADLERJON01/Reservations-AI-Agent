@@ -19,6 +19,28 @@ others. Versions follow semantic versioning (MAJOR.MINOR.PATCH):
 
 ---
 
+## v1.2.0 — 2026-06-12 — RAG (#6) routing resolution
+
+**Scope:** `routing_rules.json` only (additive). Taxonomy/schemas unchanged.
+
+- Added the post-RAG policy-question resolution rules (the action enum is
+  unchanged; these reuse existing actions):
+  - **`R030A_INQ_POLICY_ANSWERABLE`** — policy question AND `kb_answerable=True`
+    → `draft_reply_with_rag` (confirmed).
+  - **`R030B_INQ_POLICY_UNANSWERABLE`** — policy question AND `kb_answerable=False`
+    → `escalate_to_reservations_team`.
+  - `R030_INQ_POLICY` remains the **pre-RAG candidate** (`kb_answerable` unknown).
+- **Flow:** the RAG Agent (#6) retrieves from the FAQ KB, sets `kb_answerable`
+  (best cosine similarity ≥ `kb_answerable_threshold`), then re-invokes the
+  Router so the action is decided in one place ("code decides").
+- **Embedding model:** `BAAI/bge-m3` (multilingual; swappable). The 0.65 threshold
+  is a starting point — **recalibrate for BGE-M3 with a RAG eval set**; score =
+  `1 − cosine_distance` over normalized embeddings.
+- MINOR: additive rules slotting into an existing priority; no existing mapping
+  broken.
+
+---
+
 ## v1.1.0 — 2026-06-07 — Routing rules finalized (philosophy corrected)
 
 **Scope:** `routing_rules.json` only. `taxonomy.json`, `llm_output_schema.json`,

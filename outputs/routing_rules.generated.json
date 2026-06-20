@@ -53,8 +53,20 @@
     {
       "id": "R030_INQ_POLICY",
       "priority": 30,
-      "condition": "service_or_information_inquiry AND request_type == policy_or_general_question",
+      "condition": "service_or_information_inquiry AND policy_or_general_question (pre-RAG candidate)",
       "action": "draft_reply_with_rag"
+    },
+    {
+      "id": "R030A_INQ_POLICY_ANSWERABLE",
+      "priority": 30,
+      "condition": "policy question AND kb_answerable is True (post-RAG)",
+      "action": "draft_reply_with_rag"
+    },
+    {
+      "id": "R030B_INQ_POLICY_UNANSWERABLE",
+      "priority": 30,
+      "condition": "policy question AND kb_answerable is False (post-RAG)",
+      "action": "escalate_to_reservations_team"
     },
     {
       "id": "R031_INQ_WITHDRAWAL",

@@ -17,7 +17,9 @@
       "Bash(./.venv/bin/pytest tests/test_classifier_extractor.py -k real_email -q)",
       "Bash(./.venv/bin/pytest -q -k \"not real_email and not oracle and not real_ollama and not classify_then_validate\")",
       "Bash(timeout 180 ./.venv/bin/python -c ' *)",
-      "Bash(cd \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation\" && rm HANDOVER.md && echo \"HANDOVER.md removed\" && ls *.md)"
+      "Bash(cd \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation\" && rm HANDOVER.md && echo \"HANDOVER.md removed\" && ls *.md)",
+      "Bash(printf '\\\\n# RAG vector index\\\\n.chroma/\\\\n')",
+      "Bash(./.venv/bin/python -m app.agents.router)"
     ],
     "additionalDirectories": [
       "/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /Implementation/app",
