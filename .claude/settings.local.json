@@ -1,5 +1,6 @@
 {
   "permissions": {
+    "defaultMode": "bypassPermissions",
     "allow": [
       "Bash(ls -la \"/Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/Project /\")",
       "Read(//Users/erjon/Documents/Erjon - PERSONAL/NOVA IMS/Master Thesis/**)",

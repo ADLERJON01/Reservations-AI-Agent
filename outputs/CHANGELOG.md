@@ -60,7 +60,8 @@ policy — "MAJOR if it changes the action mapping for an existing match conditi
 - **Validator demoted to a contributing signal.** A validator flag no longer
   forces manual review on its own; it only changes an otherwise-clean
   `booking_notification` → `audit_only_with_note`. (Reframes the Validator as an
-  LLM-based reliability checker, proven by ablation — not a hard router gate.)
+  LLM-based reliability checker — to be evidenced by ablation, not yet run — not a
+  hard router gate. See PROJECT_DETAILS §8 for the current framing.)
 - **Deterministic Audit is the routing backbone** for `booking_notification`
   (`audit_finding` → audit_only / audit_with_attention).
 - **Representation:** runtime is now a pure-Python guard-clause `route()` in
@@ -114,6 +115,10 @@ Preprocessor → Classifier+Extractor → **Validator** → Audit → Router →
 Agent is a novel contribution: an LLM-based critic agent that
 re-checks the Classifier+Extractor output before downstream
 consumption.
+> ⚠ Framing superseded (2026-06-07, see v1.1.0 + PROJECT_DETAILS §8): the Validator
+> is **no longer** claimed as novel — a standalone LLM critic is a known pattern;
+> the contribution is the *hybrid* of LLM critique + deterministic verification.
+> Kept here verbatim only as a record of the original framing.
 
 ### Notable design decisions
 - **Description vs decision separation.** LLM predicts descriptive
@@ -146,7 +151,7 @@ consumption.
 | `expects_human_response` facet (3 values) | Descriptive observation about reply solicitation. |
 | `urgency_signal` facet (3 values) | Captures tone for routing prioritization. |
 | `audit_finding` output field | Captures the agent's audit verdict on booking notifications. |
-| `validator` block | Novel multi-agent contribution: LLM critic catches extraction errors. |
+| `validator` block | LLM critic catches extraction errors. *(Originally framed "novel"; superseded — see the note above and PROJECT_DETAILS §8.)* |
 | Boundary rule "classify by inner content" | Forwarding wrappers are routing steps, not category signals. |
 
 ### Validation status

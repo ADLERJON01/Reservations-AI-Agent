@@ -83,11 +83,10 @@ object (linear #2→#5, conditional RAG edge, then #7). Each step records its na
 
 ## 4. Current status — what's built
 
-**#1–#6 are complete, deterministic where intended, and tested** (full offline
-suite green at last verified run, ~60+ tests, plus Ollama-/index-gated live
-integration tests). **#7 is implemented and wired in; its test updates + a
-re-verification run are pending** (adding the node changed `agent_path`, so the
-graph tests need updating). **#8 is designed** (kept as a separate module — see §8).
+**All 8 agents are built, deterministic where intended, and tested** — the full
+offline suite is green (**100 tests: 96 passed, 4 Ollama-/index-gated live tests
+skipped when services are down**). The pipeline is architecturally complete; the
+remaining work is *evaluation*, not building (§9).
 
 Per-agent highlights:
 - **#1 Preprocessor** — parses the raw `.txt` emails (the runtime input); 378/378
@@ -104,6 +103,9 @@ Per-agent highlights:
 - **#7 Output Generator** — deterministic templates for the structured artifacts;
   LLM only for the grounded `draft_reply`; foregrounds upstream uncertainty
   (missing fields/flags); structural source-validation on drafts.
+- **#8 Guardrails** — deterministic, independent safety net; scans `draft_reply`
+  against the Core 5 forbidden-claim rules (EN+PT); redacts on block and flags
+  `passed=false` without overwriting the Router's decision.
 
 ---
 
@@ -192,34 +194,110 @@ sentence-transformers (BGE-M3) · SQLModel + SQLite · FastAPI + Uvicorn · pyte
 content); required-field logic lives in Audit, not the schema; one LLM call for
 classify+extract; pure-Python router.
 
-**This implementation phase:**
-| Decision | Rationale |
-|---|---|
-| Native Ollama API is the default LLM transport | LiteLLM+Instructor couldn't disable "thinking"; broke small models |
-| Schema-generic `LLMClient.call_structured(response_model=…)` | One structured-output client for all LLM agents |
-| **Confidence is logged, never gates routing** | Self-reported 3B confidence is uncalibrated; gating on it is indefensible |
-| **Validator = LLM critique only**; all deterministic checks → Audit | Clean separation; the deterministic part is the sound, testable backbone |
-| **Router = pure-Python guard clauses** + generated rule artifact (not a JSON DSL) | Simplest, most testable, most defensible; still an auditable rule table |
-| Router is category-primary; audit/validator/risk are modifiers within a branch | Avoids misrouting on a booking-only signal |
-| **RAG generic-but-thin** (FAQ now; no loader/chunking platform) | YAGNI for a frozen 193-entry KB; keep the interface generic only |
-| **BGE-M3** embeddings | Multilingual (PT↔EN) for a mixed-language inbox; RAG runs rarely so cost is fine |
-| **Output Generator: deterministic by default, LLM only for `draft_reply`** | The ~74% audit path is mechanical → zero-LLM, grounded, cheap, cannot add new claims |
-| **Guardrails kept as a separate agent (#8)** | The output's safety check must be **independent** of the generator that produces it — stronger guarantee + clean audit artifact |
+**This implementation phase** (each entry: *why chosen* — *and what was rejected*):
 
-**Validator framing (thesis):** the Validator is **not** claimed as a novel
-invention (a standalone LLM critic is a known pattern). It is framed as an
-**LLM-based reliability checker, proven by ablation** (pipeline with vs. without
-it); the genuine contribution is the **hybrid** of LLM critique + deterministic
+- **Native Ollama API as the LLM transport.** *Why:* the originally specced
+  LiteLLM + Instructor stack could not disable reasoning-model "thinking"
+  (200–400 s/call) and broke the small models; Ollama's native grammar-constrained
+  structured output is fast and controllable, with Pydantic still the contract gate.
+  *Rejected:* LiteLLM+Instructor (an abstraction layer that added the thinking
+  blocker for no benefit here); a hosted API (violates local-on-M1 + cost).
+
+- **One schema-generic client — `call_structured(response_model=…)`.** *Why:* a
+  single structured-output seam serves every LLM agent (classify, validate, draft),
+  lets the backend swap without touching agents, and makes the whole pipeline
+  testable offline via injected fake clients. *Rejected:* per-agent bespoke call
+  code (duplication, and the agents become un-testable without a live model).
+
+- **Confidence is logged, never gates routing.** *Why:* the LLM's self-reported
+  float is generated *text*, not derived from token logprobs — overconfident,
+  poorly calibrated on a 3B model, and clustered at round values, so its precision
+  is largely noise; gating safety-relevant routing on an unsound number is
+  indefensible. Kept as a float, logged, to be *calibrated* against a gold set
+  later (itself a planned thesis finding). *Rejected:* gating on confidence (the
+  original design); routing on the Validator's verdict instead (also an LLM
+  judgment — same unsoundness); committing a low/med/high enum *now* (locks a
+  representation before calibration tells us what the levels are worth).
+
+- **Validator = LLM critique only; the deterministic checks live in a broadened
+  Audit.** *Why:* the genuinely *sound* signals are deterministic — extraction
+  grounding, facet/category consistency, lifecycle completeness — so they belong in
+  code (Audit), where they are reproducible and auditable. The Validator earns its
+  place as an LLM *verification* pass that finds specific errors against the email
+  and yields *checkable evidence* (`flagged_fields`), not an opaque scalar.
+  *Rejected:* putting deterministic grounding inside the Validator (an earlier
+  design — superseded, it muddied a clean "sound backbone + LLM critic" split).
+
+- **Router = pure-Python guard clauses + a rules table generated from the code.**
+  *Why:* the logic is mostly `category → action` with a small safety overlay;
+  ordered `if/elif` guards are the simplest to write and test, the most expressive
+  for `None`/edge-case combinations, and the **code itself is the auditable
+  artifact** — every branch returns a traceable `rule_id`, and a rule table is
+  auto-emitted for the thesis appendix. *Rejected:* a JSON condition-DSL evaluator
+  (must build/maintain a DSL; multi-signal conditions get verbose); a flags +
+  decision-table hybrid (fine, but splits logic across table and code); a dict for
+  the mechanical escalations (chose explicit `if/elif` for readability/traceability).
+
+- **Router is category-primary; audit/validator/risk are modifiers within a
+  branch.** *Why:* routing on a booking-only signal (e.g. an audit finding) across
+  all categories would misroute; decide the category first, then refine inside it.
+
+- **RAG is generic-but-thin (FAQ now; no loader/chunking platform).** *Why:* YAGNI
+  for a frozen 193-entry FAQ KB — keep the *interface* generic (`KnowledgeChunk` /
+  `RetrievalSource`) so a 2nd source type is a cheap refactor, but don't build an
+  ingestion platform with no second consumer. *Rejected:* a YAML-source
+  loader/chunking platform (speculative); chunking (FAQs are short Q+A pairs).
+
+- **BGE-M3 embeddings.** *Why:* the inbox is mixed PT/EN and the KB is English, so
+  *cross-lingual* retrieval (PT query → EN FAQ) is the actual requirement, which
+  BGE-M3 delivers (validated empirically); RAG fires rarely, so model size/cost is
+  irrelevant. *Rejected/deferred:* lighter multilingual-e5 / MiniLM — kept
+  `embedding_model` config-swappable to benchmark at eval, but chose quality now.
+
+- **Single answerability threshold (not a borderline band) for v1.** *Why:* two
+  thresholds can't be calibrated without a RAG eval set, and both "borderline" and
+  "not answerable" escalate anyway, so the safe behaviour is identical; v1 uses one
+  config threshold and *stores the scores*. *Rejected (deferred):* a two-threshold
+  band — revisit at calibration. (Known fragility documented in §5.)
+
+- **Output Generator: deterministic by default, LLM only for `draft_reply`.**
+  *Why:* the ~74% audit path is mechanical — a template restates extracted values +
+  flags, so it is zero-LLM, grounded, cheap, and **cannot invent new claims**;
+  free-text generation is reserved for the one place it is genuinely needed (a
+  customer reply), grounded strictly in retrieved FAQ sources. *Rejected:*
+  LLM-writing the escalation summaries too (determinism/grounding/cost beat prose
+  polish); Jinja2 (plain f-strings — three small templates didn't justify the dep).
+
+- **Guardrails is a separate, deterministic agent (#8).** *Why:* a safety check on
+  a draft must be *independent* of the generator that produced it (defense-in-depth
+  — the checker must not reuse #7's logic), separately testable, and *ablatable* for
+  the thesis. *Rejected:* folding it into #7 (self-checking is a weaker guarantee);
+  an LLM judge (non-deterministic, can itself hallucinate, harder to defend — and a
+  guardrail you can't fully trust isn't a guardrail; the human is the final gate).
+
+**Validator framing (thesis) — the single source of truth on this:** the Validator
+is **not** claimed as a novel invention (a standalone LLM critic is a known
+pattern). It is framed as an **LLM-based reliability checker, to be evidenced by an
+ablation** (pipeline with vs. without it — *the ablation is planned, not yet run*).
+The genuine contribution is the **hybrid** of LLM critique + deterministic
 verification for safe, draft-only triage. *(Needs a supervisor conversation.)*
+> Note: earlier docs (the v1.0.0 CHANGELOG entry, the confidence/routing design
+> note) call the Validator a "novel contribution" — that framing is **superseded by
+> this paragraph**; it is kept in those files only as a record of how the framing
+> evolved.
 
 ---
 
 ## 9. Open points & next steps
 
 ### Immediate
-- **Finish #7** — update the graph/RAG tests for the new node and re-verify the
-  offline suite (the code is written and wired in).
-- **Build #8 Guardrails** — the independent deterministic safety check on drafts.
+*Build phase is done (8/8 agents, 100 tests green). The immediate work is now the
+evaluation track:*
+- **Apply the extraction-emphasis prompt fix** (the proven 32%→72%) in production,
+  then re-run the full 378 batch — highest-leverage quality fix (also under §"Quality
+  fixes" below).
+- **Build the gold-label set** (~30–50 emails) — gates every accuracy number and the
+  Validator ablation (also under §"Evaluation blockers").
 
 ### Quality fixes found (real, staged)
 - **Extraction under-population** — adopt the proven extraction-emphasis prompt
@@ -253,7 +331,7 @@ verification for safe, draft-only triage. *(Needs a supervisor conversation.)*
 ```
 Implementation/
 ├── PROJECT_DETAILS.md            ← single source of truth (this file)
-├── DESIGN_NOTE_*.md              ← reviewer notes: confidence/routing · router · rag · output_generator
+├── DESIGN_NOTE_*.md              ← reviewer notes: confidence/routing · router · rag · output_generator · guardrails
 ├── SMOKE_TEST_HANDOFF.md         ← model-selection pickup doc
 ├── pyproject.toml · .gitignore · .venv/ · .chroma/ (gitignored vector index)
 ├── inputs/                       ← READ ONLY
@@ -265,10 +343,10 @@ Implementation/
 │   ├── routing_rules.json (LOCKED v1.2.0) · routing_rules.generated.{json,md}
 │   ├── CHANGELOG.md · dataset_analysis.md · borderline_cases.md · manual_label_*.csv
 ├── app/
-│   ├── config.py · graph.py (#1–#7)
-│   ├── models/   llm_output · validator · audit · router_signals · retrieval · output · state
+│   ├── config.py · graph.py (#1–#8)
+│   ├── models/   llm_output · validator · audit · router_signals · retrieval · output · guardrails · state
 │   ├── llm/      client (protocol) · ollama_native · instructor_stub (parked)
-│   ├── agents/   preprocessor · prompts · classifier_extractor · validator · audit · router · rag · output_generator
+│   ├── agents/   preprocessor · prompts · classifier_extractor · validator · audit · router · rag · output_generator · guardrails
 │   ├── rag/      query_builder · retriever (Chroma, lazy) · ingest
 │   ├── db/models.py · api/main.py (FastAPI: /health live, /process-email stub)
 │   └── batch.py  (batch runner + persistence + report)
@@ -298,8 +376,8 @@ Implementation/
 ## 12. Thesis framing rules (enforce without being asked)
 
 **Acceptable:** "multi-agent system orchestrated with LangGraph"; "Validator Agent
-as an LLM-based reliability checker (proven by ablation)"; "deterministic routing
-alongside LLM agents."
+as an LLM-based reliability checker (to be evidenced by ablation — once run)";
+"deterministic routing alongside LLM agents."
 **Not acceptable (overclaiming):** "autonomous AI agent" (it's human-in-the-loop,
 draft-only); "end-to-end automation" (no operational actions); "conversational AI"
 (single-pass triage).
@@ -310,7 +388,8 @@ draft-only); "end-to-end automation" (no operational actions); "conversational A
 - `outputs/taxonomy_proposal.md` — full taxonomy + architecture rationale.
 - `outputs/agent_output_schema.json` — per-agent I/O contract.
 - `outputs/llm_output_schema.md` — extraction field rules (lifecycle required-field table).
-- `DESIGN_NOTE_*.md` — reviewer notes behind the confidence/routing, router, RAG, and output-generator decisions.
+- `DESIGN_NOTE_*.md` — reviewer notes behind the confidence/routing, router, RAG,
+  output-generator, and guardrails decisions (each ends with the final resolution).
 - `SMOKE_TEST_HANDOFF.md` / `/Sandbox/SMOKE_DECISION.md` — model selection.
 
 **End of project details.**

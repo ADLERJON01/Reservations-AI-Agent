@@ -44,7 +44,7 @@ Preprocessor → Classifier+Extractor → Validator → Audit → Router
 |---|---|---|---|
 | 1 | Preprocessor | Parse raw email thread → clean object | No |
 | 2 | Classifier+Extractor | One LLM call: category + 5 facets + structured extraction | **Yes** |
-| 3 | **Validator** *(thesis's claimed novel contribution)* | Re-read email + proposed JSON, flag hallucinations/errors | **Yes** |
+| 3 | **Validator** *(LLM-based reliability checker — not claimed novel; see Resolution §5.5)* | Re-read email + proposed JSON, flag hallucinations/errors | **Yes** |
 | 4 | Audit | Deterministic field/lifecycle completeness checks | No |
 | 5 | Router | Apply `routing_rules.json` → decision flags + `recommended_action` | No |
 | 6 | RAG (conditional) | Retrieve FAQ for policy questions | No (embeddings) |
@@ -201,6 +201,28 @@ The specific points where an independent view is wanted:
    pitfall for the thesis.
 
 ---
+
+## 5.5 RESOLUTION (final — folds in the third opinion)
+
+- **Confidence:** kept as a **float in the locked schema, logged, never gated.**
+  Low/med/high buckets are **display-only** (dashboard); **no bucket enum is
+  committed to the schema** until calibration *earns* the boundaries from a gold set
+  (Q1 → the "lightest option"). DECISION 4's "end state = buckets" is therefore a
+  *display* convention, not a schema change.
+- **Routing-signal hierarchy (Q2):** adopted as stated — deterministic checks are
+  the backbone, the Validator flag is a contributing escalation nudge (not a sole
+  gate), confidence is logged-not-gated.
+- **LLM self-confidence (Q3):** distrust upheld; no token-logprob / self-consistency
+  scheme added (Ollama's structured path doesn't cleanly expose logprobs; not worth
+  the M1/3B cost).
+- **Audit scope (Q4) — supersedes DECISION 2 above:** the deterministic cross-checks
+  (extraction grounding + facet/category consistency + lifecycle completeness) live
+  in a **broadened Audit (#4)**; the **Validator (#3) stays LLM-critique only**
+  (the earlier idea of putting grounding *inside* the Validator is dropped). The
+  Router consumes the precomputed `RouterSignals`.
+- **Validator framing:** **not** claimed novel — an LLM-based reliability checker,
+  **to be evidenced by ablation (planned, not yet run)**. Single source of truth:
+  PROJECT_DETAILS §8.
 
 ## 6. Hard constraints (any proposal must respect these)
 

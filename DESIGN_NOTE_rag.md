@@ -129,6 +129,8 @@ reducers needed (single branch, sequential). The `rag` node appends `"rag"` to
   policy question retrieves a sensible FAQ (skipped if deps/index absent).
 
 ## 11. OPEN — what we want the reviewer's opinion on
+> **Resolved — see §13 (Post-review reconciliation).** The questions below are kept
+> as posed; §13 records what was adopted/rejected and why.
 
 1. **Embedding model:** is **BGE-M3** the right call here, or overkill given RAG
    fires rarely and the KB is small/English? Alternatives: `multilingual-e5-base`

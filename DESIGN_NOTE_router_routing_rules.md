@@ -145,6 +145,18 @@ priority hierarchy (schema fail → hard deterministic blockers → category map
 5. Anyplace the **"LLM describes, code decides"** principle is at risk, or where
    confidence/validator might sneak back into gating?
 
+## 5.5 RESOLUTION (DECIDED) — Proposal 3 + a generated rule artifact
+
+Chose **Proposal 3 — the pure-Python guard-clause `route()`** — with the auditable
+rule table **auto-generated from the code** (`routing_rules.generated.{json,md}`),
+which keeps a thesis-friendly rule artifact without hand-maintaining a second file
+or building a condition-DSL. The mechanical escalations are explicit **`if/elif`
+branches (not a lookup dict)** — chosen for readability and per-branch traceability
+(each branch returns an `applied_rule_id`, R001…R999). The `kb_answerable` ordering
+(Q4) is accepted: policy questions route to `draft_reply_with_rag` as a *candidate*,
+RAG resolves answerable-vs-escalate (R030A/R030B) and re-invokes `route()`, so the
+action is decided in one place ("code decides"). Locked as **routing_rules v1.2.0**.
+
 ## 6. Hard constraints (any proposal must respect)
 Draft-only · no internal-system access · no operational actions ·
 human-in-the-loop · grounded only · local on M1.

@@ -151,6 +151,21 @@ flow into `output_generator`. `build_pipeline_graph` gains an injectable
 6. **Anything missed** — especially any path where the agent could emit a
    customer-facing claim not grounded in extracted data or retrieved sources.
 
+## 9.5 RESOLUTION (DECIDED, incl. independent review)
+
+1. **Deterministic vs LLM split:** kept — `audit_checklist` / `escalation_summary`
+   / `internal_notes` are deterministic templates; the LLM writes only `draft_reply`.
+2. **`clarification_draft`:** **deferred** (null in v1) — no v1 route asks the
+   customer to clarify.
+3. **`draft_reply` safety:** ground strictly in `retrieval.sources` + **structural
+   self-validation** (non-empty, `used_source_ids ⊆ sources`, else withhold) +
+   **Guardrails (#8)** as the semantic backstop; sources cited in `internal_notes`.
+4. **Template engine:** **plain Python f-strings** — three small templates didn't
+   justify adding a Jinja2 dependency.
+5. **`internal_notes` always-on:** kept — a concise note accompanies every form.
+6. **Boundary:** #7 does *structural* checks only; *semantic* operational-claim
+   blocking is **Guardrails (#8)**, not this agent.
+
 ## 10. Hard constraints (any proposal must respect)
 Draft-only · no internal-system access · no operational actions ·
 human-in-the-loop · **grounded responses only** · local on M1.
