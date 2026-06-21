@@ -132,7 +132,11 @@ contract gate is unchanged.
 the cause was **prompt laziness, not token budget** — bumping the output limit did
 nothing (32%→32%), but an **extraction-emphasis instruction lifted completeness
 32% → 72%**, consistently. **No model swap needed** — the small model extracts well
-when instructed. (Fix is staged for the batched prompt-engineering pass.)
+when instructed. **Fix APPLIED to production 2026-06-20** — the proven emphasis block
+is now appended in `build_system_prompt()` (`app/agents/prompts.py`,
+`EXTRACTION_EMPHASIS`), `num_predict` kept at 2000. **Pending:** re-run the full 378
+batch to confirm the on-the-full-set completeness lift and that the
+"clean → `audit_only`" happy path returns (the 72% was measured on 5 bookings).
 
 **RAG retrieval (BGE-M3).** **Cross-lingual works** — Portuguese policy questions
 correctly retrieve the English FAQs (validates the multilingual model choice).
@@ -293,16 +297,17 @@ verification for safe, draft-only triage. *(Needs a supervisor conversation.)*
 ### Immediate
 *Build phase is done (8/8 agents, 100 tests green). The immediate work is now the
 evaluation track:*
-- **Apply the extraction-emphasis prompt fix** (the proven 32%→72%) in production,
-  then re-run the full 378 batch — highest-leverage quality fix (also under §"Quality
-  fixes" below).
+- **Re-run the full 378 batch** — the extraction-emphasis fix is now applied (✅
+  2026-06-20); the batch confirms the completeness lift on the full set and that the
+  "clean → `audit_only`" happy path returns. *Highest-leverage next step.*
 - **Build the gold-label set** (~30–50 emails) — gates every accuracy number and the
   Validator ablation (also under §"Evaluation blockers").
 
-### Quality fixes found (real, staged)
-- **Extraction under-population** — adopt the proven extraction-emphasis prompt
-  (32%→72%) in production, then **re-run the full 378 batch** to confirm the
-  "clean → audit_only" happy path returns. *Highest-impact quality fix.*
+### Quality fixes found (real)
+- **Extraction under-population** — ✅ **APPLIED 2026-06-20**: the proven
+  extraction-emphasis block (32%→72%) is in `app/agents/prompts.py`
+  (`EXTRACTION_EMPHASIS`). Remaining: **re-run the full 378 batch** to confirm the
+  "clean → audit_only" happy path returns on the full set.
 - **RAG `kb_answerable` threshold** — recalibrate 0.65 for BGE-M3 or adopt a
   borderline band (needs the RAG eval set).
 

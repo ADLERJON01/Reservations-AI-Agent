@@ -68,9 +68,29 @@ FACET_GUIDE = (
 )
 
 
+# --- extraction-emphasis block ---
+# Proven to lift mean key-field completeness 32%→72% on ministral-3:3b
+# (Sandbox/extraction_diagnostic.py, variant C): the cause of under-extraction was
+# prompt laziness, NOT token budget. Appended LAST — the exact position tested.
+EXTRACTION_EMPHASIS = (
+    "EXTRACTION IS MANDATORY AND THOROUGH. If a value appears anywhere in the email you "
+    "MUST populate the matching field — never leave a present value null. Examples:\n"
+    "- 'Check-in: 06-Mar-2026' -> stay.check_in_date = '2026-03-06'\n"
+    "- 'Total Price: 208.17 EUR' -> financials.total_amount = 208.17, financials.currency = 'EUR'\n"
+    "- channel name (e.g. Booking.com) -> booking_identity.source_channel\n"
+    "- 'Booking Confirmation Id: 6310459722' -> booking_identity.booking_reference\n"
+    "- hotel (e.g. 'Pestana - Brussels') -> booking_identity.hotel_name\n"
+    "- guest name (incl. MASKED_NAME_*) -> guest.guest_name\n"
+    "Use null ONLY when the email genuinely lacks the value."
+)
+
+
 def build_system_prompt() -> str:
-    """Full system prompt: rules + category guide + facet guide."""
-    return f"{SYSTEM_PROMPT}\n\n{CATEGORY_GUIDE}\n\n{FACET_GUIDE}"
+    """Full system prompt: rules + category guide + facet guide + extraction emphasis.
+
+    The emphasis block is appended last — the position proven in
+    Sandbox/extraction_diagnostic.py to lift completeness 32%→72%."""
+    return f"{SYSTEM_PROMPT}\n\n{CATEGORY_GUIDE}\n\n{FACET_GUIDE}\n\n{EXTRACTION_EMPHASIS}"
 
 
 def build_user_prompt(email: EmailInput, *, body_char_limit: int | None = None) -> str:
