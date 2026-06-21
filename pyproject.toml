@@ -22,6 +22,7 @@ dependencies = [
 graph = ["langgraph>=0.2"]                              # agent #11: LangGraph orchestration
 rag = ["chromadb>=0.5", "sentence-transformers>=3.0"]  # agent #6: RAG over the FAQ KB
 dashboard = ["streamlit>=1.34"]                          # thesis demo dashboard
+eval = ["openpyxl>=3.1"]                                 # gold-set labeling sheet (.xlsx dropdowns)
 dev = ["pytest>=8.0", "httpx>=0.27"]                    # tests (+ FastAPI TestClient)
 
 [tool.setuptools.packages.find]
