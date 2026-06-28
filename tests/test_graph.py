@@ -19,7 +19,8 @@ CLEAN_BOOKING = EmailExtraction.model_validate({
     "classification": {
         "predicted_category": "booking_notification", "sender_type": "automated_system",
         "request_type": "none", "booking_lifecycle_stage": "new",
-        "expects_human_response": "no", "urgency_signal": "routine",
+        "inquiry_answer_source": "not_applicable", "requires_human_followup": "no",
+        "urgency_signal": "routine",
         "confidence": 0.9, "evidence_short": "New Reservation", "reasoning_short": "templated",
     },
     "extraction": {

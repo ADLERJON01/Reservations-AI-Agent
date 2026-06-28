@@ -50,12 +50,76 @@ _ORIGINAL_MSG_RE = re.compile(r"^-{2,}\s*Original Message\s*-{2,}\s*$", re.IGNOR
 _QUOTED_HEADER_RE = re.compile(r"^\s*(?:De|From|Enviado|Sent|Para|To|Assunto|Subject)\s*:",
                                re.IGNORECASE | re.MULTILINE)
 
+# --- noise-stripping patterns (preprocessor v2) ---
+# Angle-bracket link targets, e.g. "Manage booking<https://...>" / "<mailto:...>": the
+# visible text precedes them, so the target itself is never content.
+_ANGLE_LINK_RE = re.compile(r"\s*<(?:https?|mailto):[^>]*>", re.IGNORECASE)
+# Bare tracking / redirect / CDN URLs that carry no classification value.
+_TRACKING_URL_RE = re.compile(
+    r"https?://\S*?(?:awstrack\.me|exclaimer\.net|pstmrk\.it|googleapis\.com|"
+    r"salesforce\.com/servlet|mailchi\.mp|\.awstrack\.me|track\.)\S*", re.IGNORECASE)
+# Any remaining very long bare URL (>=90 chars) — almost always a tracking link.
+_LONG_URL_RE = re.compile(r"https?://\S{90,}")
+
+# Marketing / social / print-footer one-liners — dropped wholesale (no signal).
+_JUNK_LINE_RE = re.compile(
+    r"^\s*(?:"
+    r"#?\s*the\s*time\s*of\s*your\s*life.*"
+    r"|click\s*&?\s*follow\s*us.*|follow\s*us!?\s*"
+    r"|#?shareourpassion.*|#mtsglobe.*|#thetimeofyourlife.*"
+    r"|we\s*are\s*a\s*member\s*of\s*travelife.*"
+    r"|somos\s*apenas\s*h[oó]spedes.*|we\s*are\s*all\s*planet\s*guests.*"
+    r"|get\s*on\s*the\s*grape\s*vine.*"
+    r"|please\s*do\s*not\s*print.*|pense\s*no\s*ambiente.*"
+    r"|\[(?:facebook|instagram|linkedin|youtube|twitter|x|pinterest|logo|image|cid|abta|atol)[^\]]*\].*"
+    r")\s*$", re.IGNORECASE)
+
+# Legal / GDPR / confidentiality block openers. These ALWAYS trail a message, so we
+# strip from the opener to the next thread separator (or end). Keeps signatures —
+# they sit above these blocks and don't match these openers.
+_LEGAL_OPENER_RE = re.compile(
+    r"^\s*(?:"
+    r"confidential[.:]|confidencial[.:]"
+    r"|this (?:e-?mail|message)(?: and its| including| is intended| may have).*"
+    r"|esta (?:mensagem|comunica[cç][aã]o)\b.*"
+    r"|in accordance with the provisions.*"
+    r"|o grupo pestana respeita.*|pestana group respects.*"
+    r"|we hereby inform you that you may.*"
+    r"|transmission of electronic mail.*"
+    r"|RBC (?:Capital Markets|Europe|EUROPE LIMITED).*|ROYAL BANK OF CANADA.*"
+    r")", re.IGNORECASE)
+
+
+def _is_separator_line(line: str) -> bool:
+    return bool(_UNDERSCORE_RULE_RE.match(line) or _ORIGINAL_MSG_RE.match(line))
+
+
+def _strip_boilerplate(text: str) -> str:
+    """Drop marketing/social one-liners and legal/GDPR blocks; keep signatures."""
+    out: list[str] = []
+    skipping = False
+    for line in text.splitlines():
+        if _is_separator_line(line):          # a separator ends any legal-block skip
+            skipping = False
+            out.append(line)
+            continue
+        if skipping:
+            continue
+        if _LEGAL_OPENER_RE.match(line):
+            skipping = True
+            continue
+        if _JUNK_LINE_RE.match(line):
+            continue
+        out.append(line)
+    return "\n".join(out)
+
 
 def parse_raw_txt(source: str, *, email_id: Optional[str] = None,
                   source_file: Optional[str] = None) -> EmailInput:
     """Parse raw .txt content into an EmailInput. `source` is the file text."""
     headers, body_raw = _split_headers_and_body(source)
     body_clean = clean_body(body_raw)
+    latest_message, thread_history = split_latest_message(body_clean)
     return EmailInput(
         email_id=email_id or (Path(source_file).stem if source_file else ""),
         source_file=source_file,
@@ -67,6 +131,8 @@ def parse_raw_txt(source: str, *, email_id: Optional[str] = None,
         date_parsed=parse_date(headers.get("date")),
         body_raw=body_raw,
         body_clean=body_clean,
+        latest_message=latest_message,
+        thread_history=thread_history,
     )
 
 
@@ -97,15 +163,63 @@ def _split_headers_and_body(source: str) -> tuple[dict[str, Optional[str]], str]
 
 
 def clean_body(body_raw: str) -> str:
-    """Conservative cleanup of a raw body. Keeps MASKED_* tokens verbatim."""
+    """Conservative cleanup of a raw body. Keeps MASKED_* tokens + signatures verbatim."""
     if not body_raw:
         return ""
     text = _CAUTION_RE.sub("", body_raw)
     text = _BRACKET_PLACEHOLDER_RE.sub("", text)
+    # strip tracking/redirect link noise (preprocessor v2) before line-based cleanup
+    text = _ANGLE_LINK_RE.sub("", text)
+    text = _TRACKING_URL_RE.sub("", text)
+    text = _LONG_URL_RE.sub("", text)
+    text = _strip_boilerplate(text)                 # legal/marketing/social, keeps signatures
     # normalize whitespace: trim each line, collapse blank-line runs, trim ends
     text = "\n".join(ln.rstrip() for ln in text.splitlines())
     text = _MULTI_BLANK_RE.sub("\n\n", text)
     return text.strip()
+
+
+def split_latest_message(clean_body: str) -> tuple[str, str]:
+    """Best-effort split of the most-recent message from the older quoted thread.
+
+    Forwarded threads are newest-first: an optional separator/header block, the latest
+    message, then the next quoted message. We skip the latest message's own routing
+    header and cut at the next boundary (underscore rule, "Original Message", or a
+    run of >=2 quoted-header lines). Conservative: returns (whole_body, "") when no
+    older message is detected, so content is never lost."""
+    if not clean_body:
+        return "", ""
+    lines = clean_body.split("\n")
+    n = len(lines)
+
+    def header_run_len(i: int) -> int:
+        j = i
+        while j < n and _QUOTED_HEADER_RE.match(lines[j]):
+            j += 1
+        return j - i
+
+    # 1) skip leading blanks + separator rules
+    i = 0
+    while i < n and (lines[i].strip() == "" or _UNDERSCORE_RULE_RE.match(lines[i])):
+        i += 1
+    # 2) skip the latest message's own routing header block, if present
+    if i < n and header_run_len(i) >= 1:
+        i += header_run_len(i)
+    start = i
+    # 3) advance to the next boundary = start of the older/quoted message
+    k = start
+    while k < n:
+        if (_UNDERSCORE_RULE_RE.match(lines[k]) or _ORIGINAL_MSG_RE.match(lines[k])
+                or header_run_len(k) >= 2):
+            break
+        k += 1
+    if k >= n:
+        return clean_body.strip(), ""               # single message / no older thread
+    latest = "\n".join(lines[start:k]).strip()
+    history = "\n".join(lines[k:]).strip()
+    if not latest:                                  # latest was empty (pure wrapper) — don't split
+        return clean_body.strip(), ""
+    return latest, history
 
 
 def parse_date(date_raw: Optional[str]) -> Optional[str]:

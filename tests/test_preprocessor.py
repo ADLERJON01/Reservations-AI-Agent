@@ -11,6 +11,7 @@ from app.agents.preprocessor import (
     estimate_thread_length,
     parse_date,
     preprocess,
+    split_latest_message,
     to_input_metadata,
 )
 from app.config import get_settings
@@ -69,6 +70,59 @@ def test_parse_date_tolerant():
 
 def test_clean_body_empty():
     assert clean_body("") == ""
+
+
+# --- preprocessor v2: noise stripping ---
+def test_clean_body_strips_tracking_links_keeps_visible_text():
+    body = ("Manage your booking<https://9q1sp24m.r.eu-west-1.awstrack.me/L0/abc=466>\n"
+            "Contact us<mailto:MASKED_EMAIL_1>\n"
+            "See https://track.pstmrk.it/3s/very/long/tracking/path here\n"
+            "Thanks")
+    clean = clean_body(body)
+    assert "awstrack" not in clean and "pstmrk" not in clean and "mailto" not in clean
+    assert "Manage your booking" in clean      # visible text kept
+    assert "Thanks" in clean
+
+
+def test_clean_body_strips_legal_boilerplate_keeps_signature():
+    body = ("Best regards,\n"
+            "MASKED_NAME_x\n"
+            "Sales Executive | Grape Escapes Ltd\n"
+            "Tel: +44 123\n"
+            "#TheTimeofYourLife | Pestana.com\n"
+            "CONFIDENTIAL. This message and its attachments are confidential and "
+            "intended solely for the recipient.")
+    clean = clean_body(body)
+    assert "Grape Escapes Ltd" in clean        # signature kept (sender_type cue)
+    assert "MASKED_NAME_x" in clean
+    assert "CONFIDENTIAL" not in clean          # legal block stripped
+    assert "TheTimeofYourLife" not in clean     # marketing footer stripped
+
+
+# --- preprocessor v2: latest-message segmentation ---
+def test_split_latest_message_separates_closure_from_thread():
+    body = ("________________________________\n"
+            "De: Partner <x>\nEnviado: ...\nPara: Trade <y>\nAssunto: RE: stuff\n\n"
+            "Brilliant, thank you.\n\n"
+            "________________________________\n"
+            "De: Trade <y>\nEnviado: ...\nPara: Partner <x>\nAssunto: RE: stuff\n\n"
+            "Here is the info you requested.")
+    latest, history = split_latest_message(body)
+    assert "Brilliant, thank you." in latest
+    assert "Here is the info" not in latest     # older message excluded from latest
+    assert "Here is the info" in history
+
+
+def test_split_latest_message_single_message_no_history():
+    latest, history = split_latest_message("Hello, do you have parking?\nRegards")
+    assert "parking" in latest
+    assert history == ""
+
+
+def test_preprocess_populates_latest_message():
+    email = preprocess(RAW_DIR / "email_358.txt")
+    assert "Brilliant, thank you" in email.latest_message   # the closing message
+    assert email.thread_history                              # older thread retained
 
 
 # --- oracle: parsed headers match the jsonl derived from the same .txt ---

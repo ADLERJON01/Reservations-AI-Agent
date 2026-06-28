@@ -36,20 +36,28 @@ SenderType = Literal[
 RequestType = Literal[
     "policy_or_general_question", "availability_or_quote_inquiry",
     "new_booking_request", "modification_request", "cancellation_request",
+    "ancillary_service_request",                       # taxonomy_v1_1 (transfers/extras)
     "payment_or_billing_inquiry", "complaint_or_dispute",
     "withdrawal_or_acknowledgment", "none", "other_or_unclear",
 ]
+# taxonomy_v1_1: the RAG-safety signal — what kind of source would answer the inquiry.
+InquiryAnswerSource = Literal[
+    "kb_policy", "internal_system", "human_judgment", "not_applicable", "unclear",
+]
 LifecycleStage = Literal["new", "paid", "pre_arrival", "modified", "cancelled", "n/a"]
-ExpectsHuman = Literal["yes", "no", "unclear"]
+# taxonomy_v1_1: renamed from ExpectsHuman ("response" → "reply OR decision/action").
+RequiresHumanFollowup = Literal["yes", "no", "unclear"]
+ExpectsHuman = RequiresHumanFollowup                  # legacy alias (older eval scripts)
 Urgency = Literal["routine", "urgent", "sensitive_complaint"]
 
 
 class Classification(BaseModel):
     predicted_category: Category
     sender_type: SenderType
-    request_type: RequestType
+    request_type: RequestType                          # descriptive tag (NOT a routing gate in v1_1)
+    inquiry_answer_source: InquiryAnswerSource         # taxonomy_v1_1 — drives the derived RAG gate
     booking_lifecycle_stage: LifecycleStage
-    expects_human_response: ExpectsHuman
+    requires_human_followup: RequiresHumanFollowup     # renamed from expects_human_response
     urgency_signal: Urgency
     confidence: float = Field(ge=0.0, le=1.0)
     evidence_short: str = Field(max_length=200)

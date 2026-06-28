@@ -11,8 +11,8 @@ from app.models.state import AgentState, EmailInput, ValidatorOutput
 
 def _signals(**over) -> RouterSignals:
     base = dict(schema_valid=True, category="booking_notification", request_type="none",
-                expects_human_response="no", urgency_signal="routine",
-                audit_finding="clean", validator_result="confirmed")
+                inquiry_answer_source="not_applicable", requires_human_followup="no",
+                urgency_signal="routine", audit_finding="clean", validator_result="confirmed")
     base.update(over)
     return RouterSignals(**base)
 
@@ -72,7 +72,7 @@ def test_booking_clean_but_validator_flagged_is_note():
 # --- service inquiry sub-logic ---
 def test_policy_question_is_rag_candidate():
     d = route(_signals(category="service_or_information_inquiry",
-                       request_type="policy_or_general_question"))
+                       inquiry_answer_source="kb_policy"))
     assert d.recommended_action == "draft_reply_with_rag"
 
 
@@ -102,12 +102,14 @@ def test_validator_flag_alone_does_not_force_manual_review():
 
 
 # --- decision-flag computation in build_router_signals ---
-def _state(category, request_type="none", audit_finding="clean", expects="no",
-           urgency="routine") -> AgentState:
+def _state(category, request_type="none", audit_finding="clean", requires_followup="no",
+           urgency="routine", inquiry_answer_source="not_applicable") -> AgentState:
     out = EmailExtraction.model_validate({
         "classification": {"predicted_category": category, "sender_type": "automated_system",
-                           "request_type": request_type, "booking_lifecycle_stage": "new",
-                           "expects_human_response": expects, "urgency_signal": urgency,
+                           "request_type": request_type,
+                           "inquiry_answer_source": inquiry_answer_source,
+                           "booking_lifecycle_stage": "new",
+                           "requires_human_followup": requires_followup, "urgency_signal": urgency,
                            "confidence": 0.5, "evidence_short": "e", "reasoning_short": "r"},
         "extraction": {}})
     return AgentState(email=EmailInput(email_id="e"), llm_output=out,
@@ -122,7 +124,7 @@ def test_flags_payment_requires_internal_and_outbound():
 
 def test_flags_policy_question_no_internal_and_rag_required():
     sig = build_router_signals(_state("service_or_information_inquiry",
-                                      request_type="policy_or_general_question"))
+                                      inquiry_answer_source="kb_policy"))
     assert sig.requires_internal_system is False
     assert sig.rag_required is True
     assert sig.kb_answerable is None
@@ -168,7 +170,7 @@ def test_route_rule_ids_subset_of_catalog():
         _signals(audit_finding="clean", validator_result="flagged"),
         _signals(audit_finding="clean"),
         _signals(audit_finding="n/a"),
-        _signals(category="service_or_information_inquiry", request_type="policy_or_general_question"),
+        _signals(category="service_or_information_inquiry", inquiry_answer_source="kb_policy"),
         _signals(category="service_or_information_inquiry", request_type="withdrawal_or_acknowledgment"),
         _signals(category="service_or_information_inquiry", request_type="new_booking_request"),
     ]

@@ -7,6 +7,14 @@ already made are marked **DECIDED**; the open choice is in §5.
 
 Date: 2026-06-07 · Project: Pestana AI Email Agent (master's thesis prototype).
 
+> **v1.1 update (2026-06-28):** the `service_or_information_inquiry` RAG branch (R030)
+> now gates on `inquiry_answer_source == kb_policy` instead of
+> `request_type == policy_or_general_question`; the `requires_internal_system` flag now
+> keys on `inquiry_answer_source in {internal_system, human_judgment}`. `RouterSignals`
+> renamed `expects_human_response` → `requires_human_followup` and added
+> `inquiry_answer_source`. All other rules (hard escalations, booking_notification audit
+> branch, R031 withdrawal note) are unchanged. See `DESIGN_NOTE_taxonomy.md` Part II.
+
 ---
 
 ## 1. Project in one paragraph

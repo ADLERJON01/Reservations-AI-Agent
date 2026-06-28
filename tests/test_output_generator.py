@@ -21,7 +21,8 @@ def _classification(**over):
         "sender_type": "automated_system",
         "request_type": "none",
         "booking_lifecycle_stage": "new",
-        "expects_human_response": "no",
+        "inquiry_answer_source": "not_applicable",
+        "requires_human_followup": "no",
         "urgency_signal": "routine",
         "confidence": 0.9,
         "evidence_short": "e",
@@ -44,7 +45,8 @@ _COMPLETE = {
 _INQUIRY = _classification(predicted_category="service_or_information_inquiry",
                            sender_type="direct_guest",
                            request_type="policy_or_general_question",
-                           booking_lifecycle_stage="n/a", expects_human_response="yes")
+                           inquiry_answer_source="kb_policy",
+                           booking_lifecycle_stage="n/a", requires_human_followup="yes")
 
 _UNSET = object()
 

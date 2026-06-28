@@ -19,6 +19,40 @@ others. Versions follow semantic versioning (MAJOR.MINOR.PATCH):
 
 ---
 
+## taxonomy v1.1.0 — 2026-06-28 — `taxonomy_v1_1` (v1 7-cat + RAG-safety patch) [LIVE]
+
+**Decision (full rationale: `DESIGN_NOTE_taxonomy.md` Part II + PROJECT_DETAILS §8).**
+After a measured gold-set ablation, **keep v1.0.0's 7 categories** and add a targeted
+patch — chosen over a fully-explored 10-category v2 redesign, which *regressed* category
+accuracy on the local 3B (v2.1 69.4% vs v1 79.6%) while the safety benefit traced to one
+new facet, not the split.
+
+Changes vs v1.0.0:
+- **MINOR — new facet `inquiry_answer_source`** ∈ `kb_policy / internal_system /
+  human_judgment / not_applicable / unclear`. Drives the **derived** RAG gate
+  `rag_candidate = service_or_information_inquiry AND inquiry_answer_source == kb_policy`
+  (replaces the old `request_type == policy_or_general_question` gate).
+- **MINOR — `request_type` adds `ancillary_service_request`**; `request_type` is demoted
+  to a descriptive/dashboard tag (no longer a routing gate).
+- **MAJOR (rename) — `expects_human_response` → `requires_human_followup`** (name now
+  matches its "reply OR decision/action" definition). Breaking, but not yet wired live.
+- **Convention — `booking_lifecycle_stage`**: "stage of the booking *referenced*"
+  (inquiries may carry a stage); **categories unchanged (the 7).**
+- Supporting (not schema): describe-only prompt purity (no routing leakage); preprocessor
+  v2 (`DESIGN_NOTE_preprocessor.md`); `num_ctx` 8192.
+
+**Measured (49-email gold, `ministral-3:3b`):** category **81.6%** (best; macro-F1 0.83,
+`request_type` 44.9%→65.3%). RAG gate precision 50% / recall 100% on **n=2** candidates —
+*accepted*: false RAG candidates are harmless under draft-only + human-in-the-loop; a
+RAG-gate challenge set will calibrate later.
+
+**Status: LIVE (2026-06-28).** Wired into `llm_output.py` (schema key stays
+`predicted_category`), `prompts.py`, `router.py` + `router_signals.py` (RAG gate →
+`inquiry_answer_source == kb_policy`), `taxonomy.json` v1.1.0; full suite green (105) +
+end-to-end smoke passed. The `*_v1_1.py` files remain as the validated drafts behind the
+eval harness. Owed: RAG-gate challenge set (n=2 candidates), held-out validation,
+`sender_type` regression check.
+
 ## v1.2.0 — 2026-06-12 — RAG (#6) routing resolution
 
 **Scope:** `routing_rules.json` only (additive). Taxonomy/schemas unchanged.

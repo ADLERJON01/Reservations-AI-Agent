@@ -66,11 +66,11 @@ RULES: list[Rule] = [
     Rule("R022_BN_CLEAN_FLAGGED", 22, "booking_notification AND clean AND validator flagged", "audit_only_with_note"),
     Rule("R023_BN_CLEAN", 23, "booking_notification AND clean AND not flagged", "audit_only"),
     Rule("R024_BN_OTHER", 24, "booking_notification AND audit_finding == n/a (unexpected)", "audit_with_attention"),
-    Rule("R030_INQ_POLICY", 30, "service_or_information_inquiry AND policy_or_general_question (pre-RAG candidate)", "draft_reply_with_rag"),
-    Rule("R030A_INQ_POLICY_ANSWERABLE", 30, "policy question AND kb_answerable is True (post-RAG)", "draft_reply_with_rag"),
-    Rule("R030B_INQ_POLICY_UNANSWERABLE", 30, "policy question AND kb_answerable is False (post-RAG)", "escalate_to_reservations_team"),
+    Rule("R030_INQ_POLICY", 30, "service_or_information_inquiry AND inquiry_answer_source == kb_policy (pre-RAG candidate)", "draft_reply_with_rag"),
+    Rule("R030A_INQ_POLICY_ANSWERABLE", 30, "kb_policy inquiry AND kb_answerable is True (post-RAG)", "draft_reply_with_rag"),
+    Rule("R030B_INQ_POLICY_UNANSWERABLE", 30, "kb_policy inquiry AND kb_answerable is False (post-RAG)", "escalate_to_reservations_team"),
     Rule("R031_INQ_WITHDRAWAL", 31, "service_or_information_inquiry AND request_type == withdrawal_or_acknowledgment", "audit_only_with_note"),
-    Rule("R032_INQ_DEFAULT", 32, "service_or_information_inquiry (any other request_type)", "escalate_to_reservations_team"),
+    Rule("R032_INQ_DEFAULT", 32, "service_or_information_inquiry (inquiry_answer_source not kb_policy, not a withdrawal)", "escalate_to_reservations_team"),
     Rule("R999_FALLBACK", 999, "no rule matched", "manual_review_unclear"),
 ]
 
@@ -89,7 +89,8 @@ def build_router_signals(state: AgentState) -> RouterSignals:
 
     category = cls.predicted_category
     request_type = cls.request_type
-    expects = cls.expects_human_response
+    inquiry_answer_source = cls.inquiry_answer_source       # taxonomy_v1_1 — the RAG-gate signal
+    requires_followup = cls.requires_human_followup          # renamed from expects_human_response
     urgency = cls.urgency_signal
     audit_finding = audit.audit_finding if audit else "n/a"
 
@@ -97,20 +98,23 @@ def build_router_signals(state: AgentState) -> RouterSignals:
     # ∈ {missing_fields, suspected_error} rather than "≠ clean", so n/a (non-booking)
     # does not spuriously trigger requires_internal_system on audit grounds.
     audit_attention = audit_finding in {"missing_fields", "suspected_error"}
-    outbound = (expects == "yes") or audit_attention or (urgency in {"urgent", "sensitive_complaint"})
+    outbound = (requires_followup == "yes") or audit_attention or (urgency in {"urgent", "sensitive_complaint"})
     requires_internal = (
         category in _HARD_ESCALATION
         or audit_attention
+        # taxonomy_v1_1: an inquiry needing live data/staff (not a static-KB answer)
         or (category == "service_or_information_inquiry"
-            and request_type not in {"policy_or_general_question", "withdrawal_or_acknowledgment"})
+            and inquiry_answer_source in {"internal_system", "human_judgment"})
     )
+    # taxonomy_v1_1 RAG gate: a service inquiry whose answer source is static KB policy.
     rag_required = (category == "service_or_information_inquiry"
-                    and request_type == "policy_or_general_question")
+                    and inquiry_answer_source == "kb_policy")
 
     return RouterSignals(
         schema_valid=True,
         category=category, request_type=request_type,
-        expects_human_response=expects, urgency_signal=urgency,
+        inquiry_answer_source=inquiry_answer_source,
+        requires_human_followup=requires_followup, urgency_signal=urgency,
         classifier_confidence=cls.confidence,
         validator_result=(validator.validation_result if validator else "skipped"),
         validator_flagged_fields=(validator.flagged_fields if validator else []),
@@ -170,17 +174,17 @@ def route(signals: RouterSignals) -> RoutingDecision:
         return _d("R024_BN_OTHER", "audit_with_attention",
                   "Booking notification without a determinable audit verdict.")
 
-    # --- service_or_information_inquiry ---
+    # --- service_or_information_inquiry (taxonomy_v1_1: RAG gate keys on inquiry_answer_source) ---
     if s.category == "service_or_information_inquiry":
-        if s.request_type == "policy_or_general_question":
+        if s.inquiry_answer_source == "kb_policy":
             if s.kb_answerable is True:
                 return _d("R030A_INQ_POLICY_ANSWERABLE", "draft_reply_with_rag",
-                          "Policy/general question answerable from the KB (RAG confirmed).")
+                          "KB-answerable inquiry confirmed by RAG.")
             if s.kb_answerable is False:
                 return _d("R030B_INQ_POLICY_UNANSWERABLE", "escalate_to_reservations_team",
-                          "Policy/general question not answerable from the KB; escalate.")
+                          "KB-policy inquiry not answerable from the KB; escalate.")
             return _d("R030_INQ_POLICY", "draft_reply_with_rag",
-                      "Policy/general question — RAG candidate (kb_answerable resolved by RAG).")
+                      "KB-policy inquiry — RAG candidate (kb_answerable resolved by RAG).")
         if s.request_type == "withdrawal_or_acknowledgment":
             return _d("R031_INQ_WITHDRAWAL", "audit_only_with_note",
                       "Withdrawal/acknowledgment — file with a note; no reply needed.")

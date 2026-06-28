@@ -33,6 +33,11 @@ class EmailInput(BaseModel):
     date_parsed: Optional[str] = None
     body_raw: Optional[str] = None
     body_clean: Optional[str] = None
+    # Preprocessor v2: best-effort split of the most-recent message from the older
+    # quoted thread. latest_message falls back to the whole body when no thread is
+    # detected; lets the classifier anchor on the latest message (e.g. closures).
+    latest_message: Optional[str] = None
+    thread_history: Optional[str] = None
 
 
 class InputMetadata(BaseModel):

@@ -30,6 +30,10 @@ class Settings(BaseSettings):
     ollama_chat_path: str = "/api/chat"
     request_timeout_s: int = 300       # big booking emails can run 40-58s on M1
     num_predict: int = 2000
+    # Context window. The enriched classifier system prompt (~1.9k tok) + a 6000-char
+    # body + 2000 output tokens can exceed Ollama's 4096 default and silently truncate
+    # the prompt from the front — dropping the classification rules. 8192 gives headroom.
+    num_ctx: int = 8192
     temperature: float = 0.4           # generic client default; classifier overrides to 0.0
 
     # --- Classifier+Extractor (#2): deterministic, primary-only ---

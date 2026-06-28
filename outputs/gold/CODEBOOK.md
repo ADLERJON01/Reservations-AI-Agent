@@ -158,3 +158,64 @@ These are thesis material — limitations the gold set exposed, not labeling err
    `payment_billing_or_rate_issue` now applies (email_99), and treats some channel
    notifications differently. **Treat that file as historical context, not the spec.**
    *(This supersedes "fork-point 3" above for payment/credit-card system warnings.)*
+
+---
+
+# v2 / v1.1 labeling updates (resolved 2026-06-28)
+
+Conventions adopted while re-labeling the gold set for the taxonomy redesign
+experiment and the chosen final design (**taxonomy_v1_1** = v1's 7 categories + the
+`inquiry_answer_source` patch). These supersede the v1 conventions where noted.
+
+## Field changes
+- **`expects_human_response` → `requires_human_followup`** (rename; fixes finding #4 —
+  the name now matches the "reply OR decision/action" definition).
+- **NEW facet `inquiry_answer_source`** — *what kind of source would answer the
+  inquiry*: `kb_policy` (static policy/amenity/facility knowledge), `internal_system`
+  (live booking/payment/inventory/rate/customer data), `human_judgment` (staff
+  decision/coordination/exception/arrangement), `not_applicable` (no inquiry —
+  notification/alert/closure), `unclear`.
+- **`request_type` adds `ancillary_service_request`** (partially addresses finding #1a:
+  transfers/extras now have a tag instead of being forced into new_booking/availability).
+
+## Convention amendments
+1. **Convention 7 amended — actionable system warnings ⇒ `requires_human_followup = yes`.**
+   The earlier rule (205 "you may add, do not respond" = no) is **superseded**. A
+   no-availability alert (**205**) and a payment-problem alert (**99**) are *actionable
+   warnings* the team must act on → **yes**. The line is: **actionable system warnings →
+   yes; pure FYI notifications and routine audits → no** (a booking notification you only
+   audit stays `no`; "silence = validated" 369 stays `no`).
+2. **`inquiry_answer_source` and `requires_human_followup` are INDEPENDENT.** A system
+   warning is `not_applicable` + `yes`; a pure notification is `not_applicable` + `no`;
+   a parking question is `kb_policy` + `yes`. Do not force them to move together.
+3. **Thread closure = the LATEST meaningful message decides** (reaffirms convention 6):
+   if the latest message only thanks/acknowledges/withdraws, label
+   `request_type = withdrawal_or_acknowledgment` and (in v1_1) category
+   `service_or_information_inquiry`, *even if* the older quoted thread is full of
+   booking/payment/availability content. **Caveat:** a polite closing at the end of a
+   *real* request is NOT a closure (the v2.1 model over-triggered closures on 155/325/335).
+4. **`inquiry_answer_source` resolutions on the hard cases:** general policy/amenity
+   question = `kb_policy` (even when a booking is mentioned as context — email_24, **email_4**
+   the Guest-Club procedure question); availability/quote/booking-status/payment-link =
+   `internal_system`; arrange/price a service = `human_judgment` (email_332 airport
+   pickup); a cancellation-fee dispute fee-waiver decision = `human_judgment` (email_361).
+5. **Gold corrections applied:** **email_299 / email_300** (Mirai "Modified Reservation"
+   channel notices) → `booking_notification` (Option A; they had been slipped to
+   `booking_change_or_cancellation`). **email_4** re-read from v1's `other_or_unclear` to
+   a real Guest-Club policy question (`service_or_information_inquiry` + `kb_policy`).
+
+## RAG-safety risk model (why the gate is tuned for precision)
+Because the system is **draft-only + human-in-the-loop**, a *false* RAG candidate is
+bounded — a wrong draft is never sent, the reviewer discards it. The AND-gate
+(`service_or_information_inquiry AND inquiry_answer_source == kb_policy`) therefore
+exists to keep drafts **useful and checkable**, not as a safety-of-last-resort. A
+*missed* candidate is the cheap error (it just escalates); a *false* one wastes review
+and risks automation bias on data-dependent questions. So: prioritise **RAG precision**
+(no false candidates); accept more relaxed recall on cheaply-checkable policy questions.
+
+## Note on v1 category labels
+For the v1_1 gold, do **not** reuse the original v1 category labels verbatim — derive
+them by collapsing the v2 gold (the latest, most careful reads) to the 7 categories
+({knowledge_policy, sales_availability, guest_service, thread_closure} →
+`service_or_information_inquiry`). email_4 is the proof: its v1 label (`other_or_unclear`)
+is stale vs the v2 re-read.

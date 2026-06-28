@@ -23,7 +23,8 @@ RAW = get_settings().inputs_dir / "raw_emails"
 
 PRED_COLS = [
     "email_id", "schema_valid", "pred_category", "pred_sender_type", "pred_request_type",
-    "pred_booking_lifecycle_stage", "pred_expects_human_response", "pred_urgency_signal",
+    "pred_inquiry_answer_source", "pred_booking_lifecycle_stage",
+    "pred_requires_human_followup", "pred_urgency_signal",
     "recommended_action", "applied_rule_id", "model_name", "error",
 ]
 
@@ -45,8 +46,9 @@ def predict_one(email_id: str) -> dict:
         "pred_category": cls.predicted_category if cls else "",
         "pred_sender_type": cls.sender_type if cls else "",
         "pred_request_type": cls.request_type if cls else "",
+        "pred_inquiry_answer_source": cls.inquiry_answer_source if cls else "",
         "pred_booking_lifecycle_stage": cls.booking_lifecycle_stage if cls else "",
-        "pred_expects_human_response": cls.expects_human_response if cls else "",
+        "pred_requires_human_followup": cls.requires_human_followup if cls else "",
         "pred_urgency_signal": cls.urgency_signal if cls else "",
         "recommended_action": state.recommended_action or "",
         "applied_rule_id": state.applied_rule_id or "",

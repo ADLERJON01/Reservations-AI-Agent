@@ -152,18 +152,29 @@ cross-check the multi-agent design was built to provide.
 
 ---
 
-## 6. The taxonomy — quick reference
+## 6. The taxonomy — quick reference (`taxonomy_v1_1`, locked 2026-06-28)
 
-**7 categories** (LLM predicts one): `booking_notification` (~74%),
-`booking_change_or_cancellation` (~13%), `service_or_information_inquiry` (~9%),
+> Full design + the v1.0.0→v1.1 decision story: [`DESIGN_NOTE_taxonomy.md`](DESIGN_NOTE_taxonomy.md).
+> v1.1 = v1's 7 categories + a measured RAG-safety patch (chosen over a 10-category v2
+> redesign — see §8). **LIVE as of 2026-06-28** in `llm_output.py` / `prompts.py` /
+> `router.py` / `taxonomy.json` v1.1.0 (suite green; end-to-end smoke passed).
+
+**7 categories** (unchanged from v1.0.0; LLM predicts one): `booking_notification`
+(~74%), `booking_change_or_cancellation` (~13%), `service_or_information_inquiry` (~9%),
 `payment_billing_or_rate_issue` (~4%), `inventory_availability_or_stop_sales` (~3%),
 `system_or_channel_delivery_exception` (~4%), `other_or_unclear` (~1%).
 
-**5 facets** (predicted independently): `sender_type`, `request_type`,
-`booking_lifecycle_stage`, `expects_human_response`, `urgency_signal`.
+**6 facets** (predicted independently): `sender_type`, `request_type`
+(+`ancillary_service_request`; now a descriptive/dashboard tag, not a routing gate),
+**`inquiry_answer_source`** ∈ `kb_policy / internal_system / human_judgment /
+not_applicable / unclear` (NEW — the RAG-safety signal), `booking_lifecycle_stage`
+(referenced-booking convention), `requires_human_followup` (renamed from
+`expects_human_response`), `urgency_signal`.
 
-**Router-computed flags** (NOT LLM-predicted): `outbound_action_required`,
-`requires_internal_system`, `kb_answerable` (from RAG).
+**Derived in code** (NOT LLM-predicted): **`rag_candidate` = `service_or_information_inquiry`
+AND `inquiry_answer_source == kb_policy`** (replaces the old fragile
+`request_type == policy_or_general_question` gate); `outbound_action_required`;
+`requires_internal_system`; `kb_answerable` (from RAG).
 
 **Audit output** (`booking_notification` only): `audit_finding` ∈
 `clean / missing_fields / suspected_error / n/a`.
@@ -171,6 +182,11 @@ cross-check the multi-agent design was built to provide.
 **Router output:** `recommended_action` — one of 9 values (audit_only,
 audit_with_attention, audit_only_with_note, draft_reply_with_rag, +4 escalation
 targets, manual_review_unclear).
+
+**Measured (49-email gold, `ministral-3:3b`):** v1.1 category **81.6%** (macro-F1 0.83,
+`request_type` 65.3%) — best of all variants, beats original v1's 79.6%. RAG gate
+precision 50% / recall 100% on n=2 candidates (accepted — draft-only bounds false
+candidates; see §8).
 
 ---
 
@@ -200,6 +216,30 @@ classify+extract; pure-Python router.
 
 **This implementation phase** (each entry: *why chosen* — *and what was rejected*):
 
+- **`taxonomy_v1_1` over a 10-category v2 redesign (2026-06-28).** *Why:* a gold-set
+  evaluation exposed that v1's `service_or_information_inquiry` was overloaded and RAG
+  was gated on the weakest facet, risking *false RAG candidates* (drafting static-KB
+  answers to emails needing live data — a constraint violation). We explored a full v2
+  redesign (split service into 4 workflows + a new `inquiry_answer_source` facet +
+  derived RAG AND-gate) and **measured it on the same 49 emails**: the 10-category split
+  *regressed* category accuracy on the 3B (v2.1 69.4% vs v1 79.6%), while the safety
+  gain was traced to `inquiry_answer_source` alone — **not** the split. So we kept v1's
+  7 categories and added only the patch: `inquiry_answer_source`,
+  `ancillary_service_request`, `requires_human_followup` (rename), the lifecycle
+  convention, describe-only prompt purity, and preprocessor v2. *Result:* **category
+  81.6%** (best; beats original v1), `request_type` 44.9%→65.3%. *Rejected:* the full
+  v2 10-category taxonomy (elegant but lower accuracy on the local model, for a safety
+  gain it didn't uniquely provide). *Accepted trade-off:* the RAG gate over the broad
+  `service` bucket has weak precision (50% on n=2), but **false RAG candidates are
+  harmless under draft-only + human-in-the-loop** (a wrong draft is discarded, never
+  sent) — so precision did not block the decision; a RAG-gate challenge set will
+  calibrate it later. Full story: [`DESIGN_NOTE_taxonomy.md`](DESIGN_NOTE_taxonomy.md) Part II.
+- **Preprocessor v2 — strip tracking-URL/boilerplate noise + segment the latest
+  message.** *Why:* the corpus is noisy forwarded/multilingual mail; boilerplate wasted
+  the char budget and diluted the 3B, and the model mis-read thread closures by
+  classifying old quoted content. *Why keep signatures:* they are the key `sender_type`
+  cue. *Trade-off noted:* this is live and changes the v1 path too, so the 79.6%
+  baseline predates it. Full story: [`DESIGN_NOTE_preprocessor.md`](DESIGN_NOTE_preprocessor.md).
 - **Native Ollama API as the LLM transport.** *Why:* the originally specced
   LiteLLM + Instructor stack could not disable reasoning-model "thinking"
   (200–400 s/call) and broke the small models; Ollama's native grammar-constrained
@@ -294,14 +334,20 @@ verification for safe, draft-only triage. *(Needs a supervisor conversation.)*
 
 ## 9. Open points & next steps
 
-### Immediate
-*Build phase is done (8/8 agents, 100 tests green). The immediate work is now the
-evaluation track:*
-- **Re-run the full 378 batch** — the extraction-emphasis fix is now applied (✅
-  2026-06-20); the batch confirms the completeness lift on the full set and that the
-  "clean → `audit_only`" happy path returns. *Highest-leverage next step.*
-- **Build the gold-label set** (~30–50 emails) — gates every accuracy number and the
-  Validator ablation (also under §"Evaluation blockers").
+### Immediate (post-`taxonomy_v1_1` lock, 2026-06-28)
+*Build phase done (8/8 agents). Gold-label set built (49 emails) and used to evaluate
+v1 → v2 → v1.1. `taxonomy_v1_1` is the locked design (see §8 + `DESIGN_NOTE_taxonomy.md`).*
+- ✅ **`taxonomy_v1_1` wired live (2026-06-28)** — contract/prompt/Router gate
+  (`service_or_information_inquiry AND inquiry_answer_source == kb_policy`)/`taxonomy.json`
+  v1.1.0; suite green (105) + end-to-end smoke passed.
+- **RAG-gate challenge set (30–50 cases)** — *highest-leverage next step.* The gold has only **n=2** RAG candidates,
+  so the gate's precision/recall is statistically untrustworthy. A dedicated challenge
+  set (policy/amenity questions + availability/payment/booking-status *traps*) is the
+  prerequisite to trust/enable the RAG draft path.
+- **Investigate the `sender_type` regression** in v1.1 (75.5% in v2.1 → 57.1%) —
+  advisory facet (doesn't route), but unexplained.
+- **Re-baseline v1 on preprocessor v2** for a perfectly clean v1→v1.1 comparison (the
+  79.6% predates preprocessor v2).
 
 ### Quality fixes found (real)
 - **Extraction under-population** — ✅ **APPLIED 2026-06-20**: the proven
@@ -336,7 +382,8 @@ evaluation track:*
 ```
 Implementation/
 ├── PROJECT_DETAILS.md            ← single source of truth (this file)
-├── DESIGN_NOTE_*.md              ← reviewer notes: confidence/routing · router · rag · output_generator · guardrails
+├── DESIGN_NOTE_*.md              ← canonical design notes: taxonomy · preprocessor · router · rag · output_generator · guardrails · confidence/routing
+├── TAXONOMY_V2_REVIEW_REQUEST.md ← reviewer-facing 2nd-opinion request (NOT a canonical design note)
 ├── SMOKE_TEST_HANDOFF.md         ← model-selection pickup doc
 ├── pyproject.toml · .gitignore · .venv/ · .chroma/ (gitignored vector index)
 ├── inputs/                       ← READ ONLY
@@ -390,11 +437,25 @@ draft-only); "end-to-end automation" (no operational actions); "conversational A
 ---
 
 ## 13. Deeper-detail documents
-- `outputs/taxonomy_proposal.md` — full taxonomy + architecture rationale.
-- `outputs/agent_output_schema.json` — per-agent I/O contract.
-- `outputs/llm_output_schema.md` — extraction field rules (lifecycle required-field table).
-- `DESIGN_NOTE_*.md` — reviewer notes behind the confidence/routing, router, RAG,
-  output-generator, and guardrails decisions (each ends with the final resolution).
-- `SMOKE_TEST_HANDOFF.md` / `/Sandbox/SMOKE_DECISION.md` — model selection.
+**Canonical design notes** (the deep per-aspect detail + justification — the
+implementation-chapter sources):
+- [`DESIGN_NOTE_taxonomy.md`](DESIGN_NOTE_taxonomy.md) — the taxonomy: v1.0.0 (Part I)
+  + the v2 exploration and the **`taxonomy_v1_1` decision** (Part II).
+- [`DESIGN_NOTE_preprocessor.md`](DESIGN_NOTE_preprocessor.md) — preprocessor v2
+  (noise stripping + `latest_message` segmentation) + live-path consequences.
+- `DESIGN_NOTE_router_routing_rules.md` · `DESIGN_NOTE_rag.md` ·
+  `DESIGN_NOTE_output_generator.md` · `DESIGN_NOTE_guardrails.md` ·
+  `DESIGN_NOTE_confidence_and_routing.md` — per-agent design + final resolution.
+
+**Evaluation artifacts:** `outputs/gold/` — `CODEBOOK.md` (labeling conventions incl.
+the v1.1 updates), `gold_labeling_sheet*.xlsx`, and the per-run metrics
+(`gold_metrics_v2.0.md`, `…_v2.1.md`, `…_v1_1.md`).
+
+**Reviewer-facing (not canonical):** `TAXONOMY_V2_REVIEW_REQUEST.md` — 2nd-opinion
+request with the full v2/v1.1 data + options.
+
+**Spec / other:** `outputs/taxonomy.json` (vocabulary) · `outputs/taxonomy_proposal.md`
+(prose) · `outputs/agent_output_schema.json` (per-agent I/O) · `outputs/llm_output_schema.md`
+(extraction field rules) · `SMOKE_TEST_HANDOFF.md` / `/Sandbox/SMOKE_DECISION.md` (model selection).
 
 **End of project details.**

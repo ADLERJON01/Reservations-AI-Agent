@@ -1,21 +1,18 @@
-"""Prompts for the Classifier+Extractor Agent (#2).
+"""DRAFT v1.1 classifier prompt — v1's 7 categories + the inquiry_answer_source patch.
 
-Kept separate from the agent logic so the deferred few-shot prompt-engineering
-work (smoke handoff Task #2) can iterate here without touching orchestration.
-
-Lineage: SYSTEM_PROMPT / CATEGORY_GUIDE / build_user_prompt are ported from the
-proven Sandbox/run_smoke.py and enriched with concise facet definitions
-(taxonomy.json) per the approved spec.
+Targets `app/models/llm_output_v1_1.py`. Keeps the describe-only purity, the
+"classify by the latest meaningful message" rule, and the boundary rules from v2.1,
+but with v1's 7-category backbone (the rich service sub-distinctions live in
+request_type + inquiry_answer_source, not in the category). Reuses the proven v1
+EXTRACTION_EMPHASIS and the preprocessor-v2 `build_user_prompt` (latest_message).
+Few-shot exemplars are abstracted patterns, not real gold emails.
 """
 from __future__ import annotations
 
-from app.config import get_settings
-from app.models.state import EmailInput
+from app.agents.prompts import EXTRACTION_EMPHASIS          # extraction block unchanged
+from app.agents.prompts_v2 import build_user_prompt         # preprocessor-v2 user prompt (latest_message)
 
-# --- system prompt: role + output rules (taxonomy_v1_1 — describe-only, no routing leakage) ---
-# Live prompt promoted from the validated v1.1 draft (app/agents/prompts_v1_1.py), which
-# scored 81.6% category on the 49-email gold set. Schema key stays `predicted_category`;
-# the prompt references category *values*, not the key, so behaviour matches the run.
+# --- role + output rules (describe-only; no routing leakage) ---
 SYSTEM_PROMPT = (
     "You are an email classification + extraction engine for a hotel group (Pestana). "
     "For each email, output ONE JSON object matching the schema exactly.\n"
@@ -37,7 +34,7 @@ SYSTEM_PROMPT = (
     "- Keep evidence_short and reasoning_short under 200 characters."
 )
 
-# --- the 7 operational categories + decision order (taxonomy_v1_1) ---
+# --- the 7 v1 categories + decision order ---
 CATEGORY_GUIDE = (
     "Allowed categories (OPERATIONAL — how the team handles it, not the topic):\n"
     "1. booking_notification — a SYSTEM/TEMPLATED channel message (sender automated_system) "
@@ -87,7 +84,7 @@ BOUNDARY_RULES = (
     "payment_billing_or_rate_issue (even if a booking is involved)."
 )
 
-# --- facets (taxonomy_v1_1; inquiry_answer_source carries the RAG-relevant distinction) ---
+# --- facets (inquiry_answer_source carries the RAG-relevant distinction) ---
 FACET_GUIDE = (
     "Facets (assign each independently from its allowed values):\n"
     "sender_type — who authored the LATEST/inner content (ignore forwarders): "
@@ -119,8 +116,8 @@ FACET_GUIDE = (
 )
 
 # --- few-shot exemplars: abstracted patterns, NOT real gold emails ---
-# The category for human-inquiry cases is always service_or_information_inquiry; the
-# decisive distinction is inquiry_answer_source (kb_policy vs internal_system vs human_judgment).
+# The category for the human-inquiry cases is always service_or_information_inquiry; the
+# decisive distinction is the inquiry_answer_source (kb_policy vs internal_system vs human_judgment).
 FEWSHOT_EXEMPLARS = (
     "Worked examples (illustrative patterns — not real emails). Format: situation -> "
     "category | inquiry_answer_source | request_type (+ lesson):\n"
@@ -149,106 +146,8 @@ FEWSHOT_EXEMPLARS = (
 )
 
 
-# --- extraction-emphasis block ---
-# Proven to lift mean key-field completeness 32%→72% on ministral-3:3b
-# (Sandbox/extraction_diagnostic.py, variant C): the cause of under-extraction was
-# prompt laziness, NOT token budget. Appended LAST — the exact position tested.
-EXTRACTION_EMPHASIS = (
-    "EXTRACTION IS MANDATORY AND THOROUGH. If a value appears anywhere in the email you "
-    "MUST populate the matching field — never leave a present value null. Examples:\n"
-    "- 'Check-in: 06-Mar-2026' -> stay.check_in_date = '2026-03-06'\n"
-    "- 'Total Price: 208.17 EUR' -> financials.total_amount = 208.17, financials.currency = 'EUR'\n"
-    "- channel name (e.g. Booking.com) -> booking_identity.source_channel\n"
-    "- 'Booking Confirmation Id: 6310459722' -> booking_identity.booking_reference\n"
-    "- hotel (e.g. 'Pestana - Brussels') -> booking_identity.hotel_name\n"
-    "- guest name (incl. MASKED_NAME_*) -> guest.guest_name\n"
-    "Use null ONLY when the email genuinely lacks the value."
-)
-
-
 def build_system_prompt() -> str:
     """Full v1.1 system prompt. Order: role -> categories+decision order -> boundary rules
-    -> facets -> few-shot -> extraction. EXTRACTION_EMPHASIS stays LAST (the position
-    proven in Sandbox/extraction_diagnostic.py to lift completeness 32%→72%)."""
+    -> facets -> few-shot -> extraction. EXTRACTION_EMPHASIS stays LAST (proven position)."""
     return (f"{SYSTEM_PROMPT}\n\n{CATEGORY_GUIDE}\n\n{BOUNDARY_RULES}\n\n{FACET_GUIDE}\n\n"
             f"{FEWSHOT_EXEMPLARS}\n\n{EXTRACTION_EMPHASIS}")
-
-
-def build_user_prompt(email: EmailInput, *, body_char_limit: int | None = None) -> str:
-    """Per-email user prompt (taxonomy_v1_1). Presents the most-recent message first and
-    the older thread as labelled context (preprocessor v2 `latest_message` split), so the
-    classifier anchors on the latest message. Falls back to body_clean if no split."""
-    limit = body_char_limit if body_char_limit is not None else get_settings().body_char_limit
-    latest = (email.latest_message or email.body_clean or "")[:limit]
-    remaining = max(0, limit - len(latest))               # latest gets priority of the budget
-    history = (email.thread_history or "")[:remaining]
-    parts = [
-        "--- EMAIL ---",
-        f"Subject: {email.subject or ''}",
-        f"From: {email.from_raw or ''}",
-        "",
-        "[MOST RECENT MESSAGE]",
-        latest,
-    ]
-    if history.strip():
-        parts += ["", "[EARLIER THREAD — context]", history]
-    parts += [
-        "--- END EMAIL ---",
-        "",
-        'Return exactly ONE JSON object with the two top-level keys '
-        '"classification" and "extraction".',
-    ]
-    return "\n".join(parts)
-
-
-# =====================================================================
-# Validator Agent (#3) — LLM semantic critique only
-# =====================================================================
-
-VALIDATOR_SYSTEM_PROMPT = (
-    "You are a verification critic for a hotel email-processing pipeline (Pestana). "
-    "You are given an email and a PROPOSED JSON output (classification + extraction) "
-    "produced by another model. Your job is to judge whether that output is faithful "
-    "to the email — NOT to rewrite it.\n"
-    "Output ONE JSON object matching the schema exactly, with these fields:\n"
-    "- validation_result: \"confirmed\" if the output is well-supported by the email, "
-    "\"flagged\" if you find any unsupported, hallucinated, inconsistent, or clearly "
-    "missed value.\n"
-    "- flagged_fields: list of dotted JSON paths you dispute "
-    "(e.g. \"classification.predicted_category\", \"extraction.guest.guest_name\"). "
-    "Empty list when confirmed.\n"
-    "- reasoning_short: one sentence, under 200 characters.\n"
-    "- revised_confidence: 0-1, your confidence that the proposed output is correct.\n"
-    "Rules:\n"
-    "- Judge ONLY against what the email actually says. Flag a value only if the email "
-    "does not support it (hallucination) or contradicts it.\n"
-    "- A field left null/empty is NOT an error if the email does not contain that "
-    "information. Do not flag absent-but-unknowable fields.\n"
-    "- total_amount = 0.00 is valid for cancellation notifications.\n"
-    "- Do NOT propose corrected values. Only flag.\n"
-    "- Do NOT invent new requirements beyond fidelity to the email."
-)
-
-
-def build_validator_system_prompt() -> str:
-    return VALIDATOR_SYSTEM_PROMPT
-
-
-def build_validator_user_prompt(email: EmailInput, llm_output,
-                                *, body_char_limit: int | None = None) -> str:
-    """Critic prompt: the email + the proposed JSON to be verified."""
-    limit = body_char_limit if body_char_limit is not None else get_settings().body_char_limit
-    body = (email.body_clean or "")[:limit]
-    proposed = llm_output.model_dump_json(indent=2)
-    return (
-        f"--- EMAIL ---\n"
-        f"Subject: {email.subject or ''}\n"
-        f"From: {email.from_raw or ''}\n\n"
-        f"Body:\n{body}\n"
-        f"--- END EMAIL ---\n\n"
-        f"--- PROPOSED OUTPUT (to verify) ---\n"
-        f"{proposed}\n"
-        f"--- END PROPOSED OUTPUT ---\n\n"
-        f"Return ONE JSON object: validation_result, flagged_fields, "
-        f"reasoning_short, revised_confidence."
-    )

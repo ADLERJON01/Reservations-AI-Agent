@@ -45,7 +45,8 @@ class OllamaNativeClient:
         s = self._settings
         chosen = model or self._default_model
         temp = s.temperature if temperature is None else temperature
-        options: dict = {"temperature": temp, "num_predict": s.num_predict}
+        options: dict = {"temperature": temp, "num_predict": s.num_predict,
+                         "num_ctx": s.num_ctx}
         if seed is not None:
             options["seed"] = seed
 

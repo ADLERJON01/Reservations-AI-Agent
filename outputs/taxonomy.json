@@ -1,8 +1,9 @@
 {
   "$schema_purpose": "Canonical machine-readable taxonomy vocabulary for the Pestana AI email agent. Defines all labels and values predicted by the LLM. Pydantic enums, classification prompts, and dashboard label sets all derive from this file. See taxonomy_proposal.md for full prose specification.",
-  "version": "1.0.0",
-  "locked_date": "2026-05-25",
+  "version": "1.1.0",
+  "locked_date": "2026-06-28",
   "status": "locked",
+  "v1_1_changes": "taxonomy_v1_1: kept the 7 categories; added the inquiry_answer_source facet (RAG-safety signal) and the request_type value ancillary_service_request; renamed expects_human_response -> requires_human_followup; booking_lifecycle_stage now = stage of the booking REFERENCED (inquiries may carry one). Wired live 2026-06-28. rag_candidate is derived in code: category==service_or_information_inquiry AND inquiry_answer_source==kb_policy. Full rationale: DESIGN_NOTE_taxonomy.md Part II.",
   "categories": [
     {
       "name": "booking_notification",
@@ -171,13 +172,14 @@
       ]
     },
     "request_type": {
-      "description": "What the email is asking. Captures the operational ask. Combined with category, this resolves the descriptiveness gap of the Phase 1 intent layer.",
+      "description": "What the email is asking — a DESCRIPTIVE tag (v1_1: it does NOT gate routing; the RAG gate moved to inquiry_answer_source). Useful as a dashboard/Outlook tag.",
       "values": [
-        { "name": "policy_or_general_question", "description": "Asking about a policy, amenity, service, or facility (potential RAG candidate)." },
+        { "name": "policy_or_general_question", "description": "Asking about a policy, amenity, service, or facility." },
         { "name": "availability_or_quote_inquiry", "description": "Asking if rooms/dates are available or for a price quote." },
         { "name": "new_booking_request", "description": "Asking to create a booking." },
         { "name": "modification_request", "description": "Asking to change an existing booking." },
         { "name": "cancellation_request", "description": "Asking to cancel an existing booking." },
+        { "name": "ancillary_service_request", "description": "v1_1: asking staff to arrange/provide/price a stay-related service or extra (transfer, crib, late check-in, etc.)." },
         { "name": "payment_or_billing_inquiry", "description": "Asking about payment, invoices, VAT, refunds, billing." },
         { "name": "complaint_or_dispute", "description": "Expressing dissatisfaction, asking for resolution." },
         { "name": "withdrawal_or_acknowledgment", "description": "Retracting a previous request or acknowledging an answer." },
@@ -185,22 +187,32 @@
         { "name": "other_or_unclear", "description": "Cannot determine." }
       ]
     },
-    "booking_lifecycle_stage": {
-      "description": "Lifecycle stage of the booking the email concerns. Mirrors extraction.booking_identity.notification_type.",
+    "inquiry_answer_source": {
+      "description": "v1_1 RAG-safety signal — what kind of source would be required to answer the inquiry. The derived RAG gate is category==service_or_information_inquiry AND inquiry_answer_source==kb_policy. Independent of requires_human_followup.",
       "values": [
-        { "name": "new", "description": "Email concerns the creation of a new booking." },
-        { "name": "paid", "description": "Email concerns a booking already paid / prepaid." },
-        { "name": "pre_arrival", "description": "Email concerns an upcoming arrival / check-in." },
-        { "name": "modified", "description": "Email concerns a modification (made or requested)." },
-        { "name": "cancelled", "description": "Email concerns a cancellation (made or requested)." },
-        { "name": "n/a", "description": "No specific lifecycle stage (alert, exception, general inquiry)." }
+        { "name": "kb_policy", "description": "Answerable from static hotel knowledge / policy / FAQ / facility info (parking, check-in, pets, breakfast, wifi, accessibility, general cancellation policy)." },
+        { "name": "internal_system", "description": "Needs live booking/payment/inventory/rate/customer data (availability, quote, booking status, payment link, refund status)." },
+        { "name": "human_judgment", "description": "Needs staff decision/coordination/exception/negotiation/arrangement (arrange a transfer, waive a fee, special setup)." },
+        { "name": "not_applicable", "description": "No inquiry to answer (notification, system alert, thread closure)." },
+        { "name": "unclear", "description": "An inquiry exists but the source needed cannot be determined." }
       ]
     },
-    "expects_human_response": {
-      "description": "Does the email solicit a reply, decision, or follow-up based on its content and tone? Routine audit-against-PMS is the baseline floor and does NOT count.",
+    "booking_lifecycle_stage": {
+      "description": "Lifecycle stage of the booking REFERENCED in the email, if any (v1_1: an inquiry that references a future booking may carry pre_arrival). For channel notifications it mirrors extraction.booking_identity.notification_type. Use paid only if payment is explicitly stated.",
       "values": [
-        { "name": "yes", "description": "The email solicits a reply, decision, or follow-up." },
-        { "name": "no", "description": "Purely informational. No reply solicited." },
+        { "name": "new", "description": "Email concerns the creation of a new booking." },
+        { "name": "paid", "description": "Email concerns a booking already paid / prepaid (explicitly stated)." },
+        { "name": "pre_arrival", "description": "Email concerns / references an upcoming arrival / check-in." },
+        { "name": "modified", "description": "Email concerns a modification (made or requested)." },
+        { "name": "cancelled", "description": "Email concerns a cancellation (made or requested)." },
+        { "name": "n/a", "description": "No booking referenced (alert, exception, general inquiry)." }
+      ]
+    },
+    "requires_human_followup": {
+      "description": "v1_1 (renamed from expects_human_response): does the email ask for/imply a human reply, decision, action, or manual review? A required extranet/link click counts. Routine audit-against-PMS does NOT. Independent of inquiry_answer_source (a system warning is not_applicable + yes).",
+      "values": [
+        { "name": "yes", "description": "Solicits a reply, decision, action, or manual review." },
+        { "name": "no", "description": "Purely informational; no follow-up solicited ('silence = validated' -> no)." },
         { "name": "unclear", "description": "Cannot determine." }
       ]
     },

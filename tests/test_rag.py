@@ -23,7 +23,8 @@ def _policy_output(evidence="what is the cancellation policy"):
         "classification": {
             "predicted_category": "service_or_information_inquiry",
             "sender_type": "direct_guest", "request_type": "policy_or_general_question",
-            "booking_lifecycle_stage": "n/a", "expects_human_response": "yes",
+            "inquiry_answer_source": "kb_policy",
+            "booking_lifecycle_stage": "n/a", "requires_human_followup": "yes",
             "urgency_signal": "routine", "confidence": 0.8,
             "evidence_short": evidence, "reasoning_short": "asks about a policy",
         },
@@ -49,7 +50,7 @@ def _policy_state() -> AgentState:
         email=EmailInput(email_id="e", subject="Question", body_clean="Can I cancel?"),
         llm_output=_policy_output(),
         router_signals=RouterSignals(category="service_or_information_inquiry",
-                                     request_type="policy_or_general_question",
+                                     inquiry_answer_source="kb_policy",
                                      rag_required=True),
         recommended_action="draft_reply_with_rag", applied_rule_id="R030_INQ_POLICY",
     )
@@ -110,7 +111,7 @@ def test_query_source_body_fallback_when_no_subject():
 # --- router R030A/B branches resolve on kb_answerable ---
 def test_route_r030a_b_and_candidate():
     base = dict(category="service_or_information_inquiry",
-                request_type="policy_or_general_question")
+                inquiry_answer_source="kb_policy")
     assert route(RouterSignals(**base, kb_answerable=None)).rule_id == "R030_INQ_POLICY"
     assert route(RouterSignals(**base, kb_answerable=True)).rule_id == "R030A_INQ_POLICY_ANSWERABLE"
     assert route(RouterSignals(**base, kb_answerable=False)).rule_id == "R030B_INQ_POLICY_UNANSWERABLE"
@@ -145,7 +146,8 @@ def test_graph_skips_rag_for_non_policy():
     booking = EmailExtraction.model_validate({
         "classification": {"predicted_category": "booking_notification",
                            "sender_type": "automated_system", "request_type": "none",
-                           "booking_lifecycle_stage": "new", "expects_human_response": "no",
+                           "inquiry_answer_source": "not_applicable",
+                           "booking_lifecycle_stage": "new", "requires_human_followup": "no",
                            "urgency_signal": "routine", "confidence": 0.9,
                            "evidence_short": "x", "reasoning_short": "y"},
         "extraction": {}})

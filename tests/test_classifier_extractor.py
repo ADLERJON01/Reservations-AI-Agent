@@ -26,7 +26,8 @@ VALID_OUTPUT = EmailExtraction.model_validate({
         "sender_type": "automated_system",
         "request_type": "none",
         "booking_lifecycle_stage": "new",
-        "expects_human_response": "no",
+        "inquiry_answer_source": "not_applicable",
+        "requires_human_followup": "no",
         "urgency_signal": "routine",
         "confidence": 0.9,
         "evidence_short": "New Reservation",
@@ -105,8 +106,8 @@ def test_system_prompt_contains_key_rules():
                 "inventory_availability_or_stop_sales",
                 "system_or_channel_delivery_exception", "other_or_unclear"):
         assert cat in CATEGORY_GUIDE
-    for facet in ("sender_type", "request_type", "booking_lifecycle_stage",
-                  "expects_human_response", "urgency_signal"):
+    for facet in ("sender_type", "request_type", "inquiry_answer_source",
+                  "booking_lifecycle_stage", "requires_human_followup", "urgency_signal"):
         assert facet in FACET_GUIDE
     assert SYSTEM_PROMPT in sp
 

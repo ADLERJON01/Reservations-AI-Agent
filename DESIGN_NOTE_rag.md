@@ -7,6 +7,14 @@ points we want a view on are in §8.
 
 Date: 2026-06-07 · Project: Pestana AI Email Agent (master's thesis prototype).
 
+> **v1.1 update (2026-06-28):** the RAG candidate gate changed. It was
+> `category == service_or_information_inquiry AND request_type == policy_or_general_question`;
+> it is now `category == service_or_information_inquiry AND inquiry_answer_source == kb_policy`
+> (a new, more robust facet — see `DESIGN_NOTE_taxonomy.md` Part II). The RAG agent's
+> answerable/borderline/not-answerable logic is unchanged. Note: under draft-only +
+> human-in-the-loop, **false RAG candidates are accepted** (a wrong draft is discarded,
+> never sent); the gate optimises draft usefulness, not safety-of-last-resort.
+
 ---
 
 ## 1. Project in one paragraph

@@ -43,7 +43,8 @@ class RouterSignals(BaseModel):
     # --- classifier descriptive fields the Router keys on ---
     category: Optional[str] = None
     request_type: Optional[str] = None
-    expects_human_response: Optional[str] = None
+    inquiry_answer_source: Optional[str] = None        # taxonomy_v1_1 — drives the RAG gate
+    requires_human_followup: Optional[str] = None       # renamed from expects_human_response
     urgency_signal: Optional[str] = None
     # classifier metadata (logged only — NEVER gates routing)
     classifier_confidence: Optional[float] = Field(default=None, ge=0.0, le=1.0)
